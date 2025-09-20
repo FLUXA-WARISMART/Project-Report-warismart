@@ -198,9 +198,62 @@ URL del Repositoria del Project Report:
 
 ## Capitulo 3: Requirements Specification 
 ### 3.1. To-Be Scenario Mapping
+####Segmento 1: Bodegas Tradicionales que buscan la Digitalización
+![Diagrama To-Be Segmento 1](/captresimagenes/to-be1.png)
+####Segmento 2: Negocios Retail Pequeños y Medianos que buscan Optimización de Cadena de Suministro
+![Diagrama To-Be Segmento 2](/captresimagenes/to-be2.png)
 ### 3.2. User Stories
 ### 3.3. Impact Mapping
+####Segmento 1: Bodegas Tradicionales que buscan la Digitalización
+![Impact Mapping Segmento 1](/captresimagenes/IM1.png)
+####Segmento 2: Negocios Retail Pequeños y Medianos que buscan Optimización de Cadena de Suministro
+![Impact Mapping Segmento 2](/captresimagenes/IM2.png)
 ### 3.4. Product Backlog
+| Orden | User Story Id | Título | Descripción | Story Points |
+| --- | --- | --- | --- | --- |
+| 1 | HU31 | Información general de la aplicación | Como visitante, quiero ver en la página de inicio información clara de la aplicación, para entender sus beneficios rápidamente. | 2 |
+| 2 | HU32 | Testimonios de otros clientes | Como visitante bodeguero, quiero leer testimonios de otros bodegueros que digitalizaron su negocio, para confiar en la plataforma. | 2 |
+| 3 | HU33 | Comparación de planes | Como visitante retail, quiero ver los planes y precios disponibles, para elegir el que mejor se adapte a mi negocio. | 3 |
+| 4 | HU34 | Sección de contacto | Como visitante, quiero tener acceso a un formulario de contacto, para resolver dudas o solicitar más información. | 2 |
+| 5 | HU35 | Registro rápido | Como visitante, quiero poder registrarme desde la landing page, para comenzar a usar la aplicación sin complicaciones. | 3 |
+| 6 | HU1 | Registro de productos | Como bodeguero, quiero registrar mis productos con su código y categoría, para llevar un control más ordenado. | 3 |
+| 7 | HU2 | Alertas de vencimiento | Como bodeguero, quiero recibir alertas cuando un producto esté próximo a vencer, para promocionarlo o rotarlo. | 3 |
+| 8 | HU3 | Consulta de stock en tiempo real | Como administrador retail, quiero ver en tiempo real el stock disponible, para evitar quiebres de inventario. | 3 |
+| 9 | HU4 | Auditoría de inventario | Como administrador, quiero realizar auditorías periódicas, para comparar el inventario físico con el digital. | 5 |
+| 10 | HU5 | Organización por ubicación | Como bodeguero, quiero organizar productos por ubicación, para encontrarlos rápidamente. | 2 |
+| 11 | HU6 | Registro de mermas | Como administrador, quiero registrar productos dañados, para contar con reportes claros de pérdidas. | 3 |
+| 12 | HU7 | Registro de ventas | Como bodeguero, quiero registrar ventas en el sistema, para llevar un control de las salidas. | 3 |
+| 13 | HU8 | Emisión de boletas electrónicas | Como administrador, quiero que se emitan boletas electrónicas, para cumplir normativa y clientes. | 5 |
+| 14 | HU9 | Configuración de precios | Como administrador, quiero configurar precios y descuentos, para aplicar promociones. | 3 |
+| 15 | HU10 | Historial de compras | Como administrador, quiero revisar el historial de compras de clientes, para fidelizarlos. | 2 |
+| 16 | HU11 | Gestión de reclamos | Como administrador, quiero registrar y dar seguimiento a reclamos, para mejorar el servicio. | 3 |
+| 17 | HU12 | Reporte de ventas | Como administrador, quiero visualizar reportes de ventas, para analizar el rendimiento. | 5 |
+| 18 | HU14 | Registro de proveedores | Como administrador de retail, quiero registrar a todos mis proveedores, para evaluarlos y compararlos. | 3 |
+| 19 | HU15 | Negociación con proveedores | Como administrador de retail, quiero registrar condiciones de precios y descuentos por volumen, para optimizar costos. | 3 |
+| 20 | HU16 | Órdenes de compra | Como administrador de retail, quiero emitir órdenes de compra formales, para mantener trazabilidad en los pedidos. | 5 |
+| 21 | HU17 | Devoluciones a proveedores | Como administrador de retail, quiero registrar devoluciones a proveedores, para gestionar productos defectuosos. | 3 |
+| 22 | HU18 | Recepción de mercadería | Como bodeguero, quiero verificar en el sistema la recepción de mercadería, para asegurar que coincide con lo solicitado. | 3 |
+| 23 | HU19 | Reportes de ventas diarias | Como administrador de retail, quiero ver reportes de ventas diarias, para identificar los productos más vendidos. | 3 |
+| 24 | HU20 | Reportes de inventario | Como bodeguero, quiero consultar reportes de inventario, para revisar niveles de stock y rotación. | 3 |
+| 25 | HU21 | Reportes financieros | Como administrador de retail, quiero acceder a reportes financieros, para conocer la rentabilidad del negocio. | 5 |
+| 26 | HU22 | Desempeño del personal | Como administrador de retail, quiero analizar el desempeño del personal, para evaluar su productividad en ventas. | 3 |
+| 27 | HU23 | Predicciones de demanda | Como administrador de retail, quiero contar con predicciones de demanda, para planificar compras con anticipación. | 5 |
+| 28 | HU24 | Reportes visuales | Como administrador de retail, quiero recibir reportes visuales en gráficos, para interpretar los datos más rápido. | 2 |
+| 29 | HU25 | Asignación de roles y permisos | Como administrador de retail, quiero asignar roles y permisos a cada empleado, para que solo accedan a lo necesario. | 5 |
+| 30 | HU26 | Inicio de sesión seguro | Como bodeguero, quiero iniciar sesión de forma segura, para proteger mi información y la del negocio. | 3 |
+| 31 | HU27 | Respaldo en la nube | Como administrador de retail, quiero tener respaldo en la nube, para acceder al sistema desde cualquier lugar. | 3 |
+| 32 | HU28 | Datos encriptados | Como administrador de retail, quiero que los datos estén encriptados, para evitar riesgos de robo o filtración. | 5 |
+| 33 | HU29 | Registro de accesos | Como administrador de retail, quiero registrar el historial de accesos, para detectar movimientos sospechosos. | 3 |
+| 34 | HU30 | Interfaz sencilla | Como bodeguero, quiero que la app funcione con una interfaz sencilla, para poder usarla sin capacitación extensa. | 2 |
+| 35 | HU36 | Endpoint de inventario | Como developer, quiero un endpoint seguro en .NET para consultar el inventario en tiempo real, para que el frontend en Vue lo consuma con Axios. | 5 |
+| 36 | HU37 | Endpoint de ventas | Como developer, quiero un endpoint para registrar ventas en el backend, para que el POS en el frontend pueda enviar la información automáticamente. | 5 |
+| 37 | HU38a | Autenticación Firebase básica | Como developer, quiero configurar Firebase para autenticación con email/contraseña, para que los usuarios puedan registrarse e iniciar sesión de forma segura. | 5 |
+| 38 | HU38b | Autenticación Azure AD | Como developer, quiero habilitar autenticación con Azure AD, para que negocios más grandes puedan iniciar sesión con sus cuentas corporativas. | 3 |
+| 39 | HU39a | Conexión básica a MySQL | Como developer, quiero establecer conexión con la base de datos MySQL en Azure, para garantizar persistencia de datos. | 5 |
+| 40 | HU39b | Optimización de consultas y seguridad | Como developer, quiero implementar consultas optimizadas y restringir accesos a tablas, para mejorar rendimiento y seguridad en la base de datos. | 3 |
+| 41 | HU40a | Validaciones de request | Como developer, quiero implementar validaciones de entrada en los endpoints, para evitar datos inválidos. | 3 |
+| 42 | HU40b | Manejo de errores en la API | Como developer, quiero estandarizar las respuestas de error en la API, para que el frontend reciba mensajes claros. | 3 |
+| 43 | HU40c | Autorización por roles | Como developer, quiero aplicar control de acceso en endpoints según el rol del usuario, para garantizar seguridad. | 2 |
 
 ---
 
