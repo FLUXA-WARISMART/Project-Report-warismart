@@ -230,47 +230,51 @@ URL del Repositoria del Project Report:
 En esta sección se abordarán los diferentes aspectos relacionados con la configuración de las herramientas necesarias para el desarrollo del proyecto, desde la creación de la Landing Page hasta el producto final que incluye el backend. También se explicarán las herramientas empleadas para el diseño UX/UI, convenciones de estilo, configuración de despliegue y más.
 
   #### 5.1.1. Software Development Environment Configuration  
-Herramientas utilizadas
-Figma: Plataforma de diseño colaborativo utilizada para crear interfaces de usuario (UI) y prototipos interactivos. Para el desarrollo de la aplicación web se utilizó para hacer el Mock-up, wireframes y el modelo final.
-UXPressia: Herramienta para crear mapas de experiencia del usuario, como user-personas, customer journey maps y impact maps.
-Visual Studio Code: Editor de código fuente ligero y extensible, ideal para programar en múltiples lenguajes. Se utilizó para modificar el README.md.
-Git: Sistema de control de versiones que permite gestionar y registrar cambios en el código fuente de un proyecto.
-Github: Plataforma basada en Git para alojar repositorios de código y colaborar con otros desarrolladores. Se utilizó para agilizar nuestros avances en el README.md y para tener todo más organizado.
-MySQL: Sistema de gestión de bases de datos relacional, utilizado para almacenar, consultar y administrar datos. Se utilizó para la creación de la base de datos y su diagrama.
-PlantUML: Herramienta online para modelado UML que facilita la creación de diagramas de clases, casos de uso, secuencia, entre otros. Se utilizó para realizar el modelo del diagrama de clases.
-WhatsApp: Aplicación de mensajería instantánea, útil para la comunicación rápida en equipos de trabajo.
-Markdown: Lenguaje de marcado ligero usado para dar formato a texto plano, comúnmente en documentación técnica y README de repositorios, con este lenguaje se realizó el documento.
+**Herramientas utilizadas**
+- Figma: Plataforma de diseño colaborativo utilizada para crear interfaces de usuario (UI) y prototipos interactivos. Para el desarrollo de la aplicación web se utilizó para hacer el Mock-up, wireframes y el modelo final.
+- UXPressia: Herramienta para crear mapas de experiencia del usuario, como user-personas, customer journey maps y impact maps.
+- Visual Studio Code: Editor de código fuente ligero y extensible, ideal para programar en múltiples lenguajes. Se utilizó para modificar el README.md.
+- Git: Sistema de control de versiones que permite gestionar y registrar cambios en el código fuente de un proyecto.
+- Github: Plataforma basada en Git para alojar repositorios de código y colaborar con otros desarrolladores. Se utilizó para agilizar nuestros avances en el README.md y para tener todo más organizado.
+- MySQL: Sistema de gestión de bases de datos relacional, utilizado para almacenar, consultar y administrar datos. Se utilizó para la creación de la base de datos y su diagrama.
+- PlantUML: Herramienta online para modelado UML que facilita la creación de diagramas de clases, casos de uso, secuencia, entre otros. Se utilizó para realizar el modelo del diagrama de clases.
+- WhatsApp: Aplicación de mensajería instantánea, útil para la comunicación rápida en equipos de trabajo.
+- Markdown: Lenguaje de marcado ligero usado para dar formato a texto plano, comúnmente en documentación técnica y README de repositorios, con este lenguaje se realizó el documento.
 
   #### 5.1.2. Source Code Management  
 Para la gestión de código, realizamos nuestros avances en una plataforma que sea posible de rastrear y fácil de manejar como lo sería GitHub. Asimismo, se usó Git para tener facilidad editar nuestros documentos. A continuación los repositorios utilizados para este sprint:
 
-Organizacion: https://github.com/FLUXA-WARISMART 
-Reporte: https://github.com/FLUXA-WARISMART/warismart-informe 
-Landing page: https://github.com/FLUXA-WARISMART/Landingpage-Warismart 
-GitFlow
+- Organizacion: [https://github.com/FLUXA-WARISMART](https://github.com/FLUXA-WARISMART) 
+- Reporte: [https://github.com/FLUXA-WARISMART/warismart-informe](https://github.com/FLUXA-WARISMART/warismart-informe) 
+- Landing page: https://github.com/FLUXA-WARISMART/Landingpage-Warismart 
+
+**GitFlow**
 
 GitFlow es una metodología de trabajo que organiza el desarrollo a través de ramas principales y ramas auxiliares. Optamos por emplear este modelo porque facilita mantener el código limpio y estructurado, permitiéndonos trabajar en equipo de forma más eficiente. Su fortaleza radica en la variedad de tipos de ramas que ofrece, cada una con un propósito específico:
 
 Ramas Principales:
-Main: Es la rama base del proyecto de la cual se derivan todas las demás. Contiene el código estable y listo para ser puesto en producción. Cada actualización en esta rama representa una nueva versión del proyecto.
-Develope: Se deriva de la rama Main y sirve como la rama de integración donde se combinan las nuevas funcionalidades desarrolladas. El código que esté listo en esta rama se transferirá posteriormente a Main para generar una nueva versión (release) del proyecto.
-Ramas de Apoyo:
-Feature: Son ramas que nacen a partir de Develope, creadas para trabajar en funciones específicas del proyecto. Se generan tantas ramas Feature como funcionalidades existan. Al completar su desarrollo, deben integrarse nuevamente en Develope y ser eliminadas. La nomenclatura que se utiliza para nombrarlas sigue un formato específico, por ejemplo tenemos la rama feature/landing-inicial.
-Conventional Commits
-Se trata de un conjunto de normas para estructurar nuestros mensajes de commit, facilitando un historial de cambios claro y fácil de entender para todo el equipo.
-type: Define el tipo de cambio realizado:
-feat: para nuevas funcionalidades.
-docs: para cambios en la documentación.
-fix: para correcciones de errores.
-chore: para tareas menores que no afectan el código fuente.
-refactor: para reestructuración interna sin alterar el comportamiento del proyecto.
-build: para cambios en el sistema de construcción o en dependencias externas.
-perf: para mejoras en el rendimiento.
 
-scope (opcional): Especifica el área o módulo afectado por el cambio.
-description (obligatorio): Breve explicación en minúsculas y en modo imperativo sobre lo que se modificó.
-body (opcional): Detalla información adicional sobre el cambio.
-footer (opcional): Se utiliza para indicar información relevante sobre cambios importantes o advertencias.
+- Main: Es la rama base del proyecto de la cual se derivan todas las demás. Contiene el código estable y listo para ser puesto en producción. Cada actualización en esta rama representa una nueva versión del proyecto.
+- Develope: Se deriva de la rama Main y sirve como la rama de integración donde se combinan las nuevas funcionalidades desarrolladas. El código que esté listo en esta rama se transferirá posteriormente a Main para generar una nueva versión (release) del proyecto.
+
+Ramas de Apoyo:
+
+- Feature: Son ramas que nacen a partir de Develope, creadas para trabajar en funciones específicas del proyecto. Se generan tantas ramas Feature como funcionalidades existan. Al completar su desarrollo, deben integrarse nuevamente en Develope y ser eliminadas. La nomenclatura que se utiliza para nombrarlas sigue un formato específico, por ejemplo tenemos la rama feature/landing-inicial.
+**Conventional Commits**
+Se trata de un conjunto de normas para estructurar nuestros mensajes de commit, facilitando un historial de cambios claro y fácil de entender para todo el equipo.
+- type: Define el tipo de cambio realizado:
+    + feat: para nuevas funcionalidades.
+    + docs: para cambios en la documentación.
+    + fix: para correcciones de errores.
+    + chore: para tareas menores que no afectan el código fuente.
+    + refactor: para reestructuración interna sin alterar el comportamiento del proyecto.
+    + build: para cambios en el sistema de construcción o en dependencias externas.
+    + perf: para mejoras en el rendimiento.
+
+- scope (opcional): Especifica el área o módulo afectado por el cambio.
+- description (obligatorio): Breve explicación en minúsculas y en modo imperativo sobre lo que se modificó.
+- body (opcional): Detalla información adicional sobre el cambio.
+- footer (opcional): Se utiliza para indicar información relevante sobre cambios importantes o advertencias.
 
   
   #### 5.1.3. Source Code Style Guide & Conventions  
