@@ -483,10 +483,102 @@ La navegación de WARISMART se basa en un sistema de guía claro y consistente p
 </p>
 
 ### 4.3. Landing Page UI Design
-En esta seccion se mostrara los diferrentes wireframes desarrollados en software de figma para el landing page.
+Para el diseño de la Landing Page de WARISMART, hemos traducido las decisiones de la Arquitectura de la Información y el Style Guide en un diseño visual coherente. El objetivo es que la página principal no solo se vea bien, sino que también guíe al visitante de forma intuitiva hacia la acción principal: conocer y contactar a FLUXA.
+
+Aplicaremos los principios de diseño jerárquico para guiar la vista del usuario a través de la propuesta de valor, las funcionalidades del sistema y el llamado a la acción. Los elementos visuales y el lenguaje seguirán el tono de comunicación entusiasta y sereno, utilizando la paleta de colores y la tipografía definidas para proyectar confianza.
+
+**Visibilidad del estado del sistema:  
+**La aplicación presenta un diseño claro, con poco texto y las imágenes necesarias para que los usuarios identifiquen fácilmente la sección en la que se encuentran.
+
+**Relación entre el sistema y el mundo real:  
+**Se emplea un lenguaje simple, con palabras comunes en español, evitando tecnicismos o términos científicos que pudieran generar confusión.
+
+**Consistencia y estándares:  
+**La interfaz fue diseñada para mantener coherencia en todos sus elementos, de manera que resulten comprensibles y no generen confusión sobre su propósito.
+
+**Prevención de errores:  
+**El diseño busca reducir al mínimo la posibilidad de equivocaciones, limitando la necesidad de mostrar mensajes de advertencia o error.
+
+**Reconocer antes que recordar:  
+**Se añadieron logotipos e imágenes que apoyan la navegación, evitando que el usuario tenga que memorizar información.
+
+**Flexibilidad y eficiencia de uso:  
+**Se incluyen accesos directos a las funciones principales, con el fin de optimizar la navegación y hacerla más ágil.
+
+**Diseño estético y minimalista:  
+**El sitio web prioriza mostrar únicamente la información esencial y relevante para el usuario, evitando el exceso de contenido que pueda dificultar la claridad o afectar la experiencia de navegación.
 
   #### 4.3.1. Landing Page Wireframe  
+  En el diseño de nuestra landing combinamos los patrones de lectura **Z y F** para guiar la atención del usuario de forma efectiva.
+
+- En el **encabezado y la sección principal** aplicamos el patrón **Z**, destacando primero la identidad de la marca y facilitando el acceso rápido al menú y al botón de registro.  
+
+- En las secciones de **contenido detallado** (listas, descripciones, estadísticas), usamos el patrón **F**, que favorece una lectura natural de arriba hacia abajo y de izquierda a derecha.  
+
+- Para apartados como **aliados, blogs y opiniones**, incorporamos un diseño en cuadrícula, que permite un escaneo visual rápido y atractivo.  
+
+- Finalmente, el **footer** mantiene la lógica del patrón F, asegurando que la información clave como contacto y enlaces esté siempre visible y organizada.  
+
+El resultado es una experiencia visual coherente que facilita tanto la exploración inicial como la lectura en profundidad de cada sección.
+
+Link del figma: <https://www.figma.com/design/CGCddZLkVtMTX1Dnbs6NQX/Untitled?node-id=0-1&t=NeAwKiYbsSiZdMlI-1>
+
+<img width="600" height="1890" alt="Image" src="https://github.com/user-attachments/assets/a78ffc1d-8e5a-4203-b36b-cffc33d76624" />
+
   #### 4.3.2. Landing Page Mock-up 
+  **Página de Inicio**
+
+En la página de inicio, WARISMART muestra de inmediato su propuesta de valor:  
+**“Impulsa tu negocio con tecnología que entiende el retail”**.  
+El encabezado incluye el logotipo de la empresa y un menú de navegación con accesos rápidos a _Inicio, Nosotros, Aliados y Contacto_, junto con un botón destacado de _Registrarse_.
+
+El héroe principal combina un mensaje claro, una breve descripción de beneficios (“Gestión completa y control total de tu tienda, en la palma de tu mano”) y un botón de llamada a la acción (_Empieza ahora_). A la derecha, se presentan imágenes que refuerzan visualmente la idea de digitalización y gestión moderna.
+
+**¿Por qué nuestros clientes confían en nosotros?**
+
+Esta sección refuerza la credibilidad mostrando los beneficios clave de WARISMART en formato de lista:
+
+- Automatización de inventario en tiempo real.  
+
+- Informes de ventas inteligentes y análisis de datos estratégicos.  
+
+- Gestión de personal y horarios en un solo lugar.  
+
+- Soporte técnico 24/7 y asistencia personalizada.  
+
+Se acompaña con una ilustración visual que comunica modernidad y soporte integral.
+
+**Nuestra estrategia impulsará negocios en todo el mundo**
+
+Aquí se muestran métricas de impacto para transmitir confianza:
+
+- **12,000** clientes satisfechos.  
+
+- **55%** de crecimiento anual promedio.  
+
+- **5,000** proyectos exitosos.  
+
+- **80** valoraciones positivas.  
+
+El patrón de lectura F permite que el usuario escanee rápidamente los números y comprenda el alcance de la plataforma.
+
+**Aliados estratégicos y Blog**
+
+La siguiente sección muestra logos de aliados, reforzando la confianza en la marca, y un bloque de artículos del blog que ofrece recursos útiles como guías, tendencias y estrategias de éxito.
+
+**Opiniones de clientes**
+
+En formato de tarjetas, se presentan testimonios reales de clientes satisfechos, lo que genera cercanía y confianza.
+
+**Footer**
+
+El pie de página cierra con una breve descripción de WARISMART, enlaces rápidos, datos de contacto y redes sociales, manteniendo la consistencia visual y facilitando el acceso a la información clave.
+
+<img width="1366" height="3957" alt="Image" src="https://github.com/user-attachments/assets/ff767356-a4f6-4555-a7a4-c63c6c78c32a" />
+
+Link del Figma:
+<https://www.figma.com/design/CGCddZLkVtMTX1Dnbs6NQX/Untitled?node-id=0-1&t=NeAwKiYbsSiZdMlI-1>
+
 ### 4.4. Web Applications UX/UI Design
   #### 4.4.1. Web Applications Wireframes  
   #### 4.4.2. Web Applications Wireflow Diagrams  
