@@ -161,6 +161,8 @@ URL del Repositoria del Project Report:
    
  </div>
 
+---
+
 ## Capitulo 1: Introducción
 ### 1.1. Startup Profile
   #### 1.1.1. Descripcion del Startup
@@ -173,6 +175,8 @@ URL del Repositoria del Project Report:
   ##### 1.2.2.3. Lean UX Hypothesis Statements
   ##### 1.2.2.4. Lean UX Canvas
 ### 1.3. Segmentos objetivos
+
+---
 
 ## Capitulo 2: Requirements Elicitation & Analysis
 ### 2.1. Competidores
@@ -190,11 +194,15 @@ URL del Repositoria del Project Report:
   #### 2.3.5. As-is Scenario Mapping
 ### 2.4. Ubiquitous Language   
 
+---
+
 ## Capitulo 3: Requirements Specification 
 ### 3.1. To-Be Scenario Mapping
 ### 3.2. User Stories
 ### 3.3. Impact Mapping
 ### 3.4. Product Backlog
+
+---
 
 ## Capítulo 4: Product Design
 ### 4.1. Style Guidelines
@@ -224,6 +232,8 @@ URL del Repositoria del Project Report:
   #### 4.7.2. Class Dictionary 
 ### 4.8. Database Design
   #### 4.8.1. Database Diagram 
+  
+---
 
   ## Capítulo 5: Product Implementation, Validation & Deployment
 ### 5.1. Software Configuration Management
@@ -242,6 +252,14 @@ URL del Repositoria del Project Report:
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review  
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
+ ---
+ 
 ## Conclusiones
+
+---
+
 ## Anexos
+
+---
+
 ## Bibliografía
