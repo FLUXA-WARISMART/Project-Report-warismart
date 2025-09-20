@@ -420,6 +420,7 @@ Esta sección ofrece una visión general del primer sprint, incluyendo planifica
     </tr>
   </tbody>
 </table>
+
 #### 5.2.1.3. Sprint Backlog 1  
 #### 5.2.1.4. Development Evidence for Sprint Review  
 #### 5.2.1.5. Execution Evidence for Sprint Review  
