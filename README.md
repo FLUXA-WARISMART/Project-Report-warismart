@@ -278,8 +278,49 @@ Se trata de un conjunto de normas para estructurar nuestros mensajes de commit, 
 - body (opcional): Detalla información adicional sobre el cambio.
 - footer (opcional): Se utiliza para indicar información relevante sobre cambios importantes o advertencias.
 
-  
-  #### 5.1.3. Source Code Style Guide & Conventions  
+  #### 5.1.3. Source Code Style Guide & Conventions
+Entre las convenciones estándar para el código de este proyecto hemos decidido utilizar el estilo kebab-case. El kebab-case es un estilo de escritura donde las palabras se separan con guiones (-) y todas las letras están en minúsculas. Este estilo se usa comúnmente en nombres de archivos, rutas web y clases CSS. Se decidió por el uso en este proyecto debido a la legibilidad y facilidad para entender, favorece la consistencia en proyectos colaborativos y es una convencion muy popular.
+
+**HTML, CSS y JS**
+Durante el uso de los lenguajes primarios en el desarrollo de nuestra solucion, se utilizaron las siguientes buenas practicas:
+
+**HTML**
+
+- Estructura semántica clara con etiquetas: header, nav, section, footer, lo cual mejora la accesibilidad y el posicionamiento en buscadores.
+- Clases descriptivas: hero-blue, trust-list, stats-grid, testimonial-grid, que indican propósito visual/funcional más que detalles técnicos
+- Uso de imágenes ilustrativas (imagenretailuno.jpg, imagenhuellaretail.jpg, etc.) para reforzar la narrativa visual.
+
+**CSS**
+
+- **Uso de Shorthand:** Escribe propiedades combinadas en una sola línea para mayor eficiencia.
+```css
+padding: 0 1em 2em;
+border-top: 0;
+font: 100%/1.6 palatino, georgia, serif;
+```
+
+- **Uso de comillas:** Utilizar **comillas simples** en CSS.
+```css
+html {
+  font-family: 'open sans', arial, sans-serif;
+}
+```
+
+**JS**
+
+Para este código se está usando principalmente camelCase, como por ejemplo statsSection, countersActivated, animateCounter, validateEmail, validatePassword. A excepción de algunos IDs en HTML en el código javascript los cuales usan kebab-case: 'reg-nombre', 'reg-apellido', 'reg-fechaNacimiento'.
+
+**Gherkin: Buenas prácticas**
+
+Gherkin es el lenguaje que usaremos para definir nuestros escenarios de prueba de forma clara y estructurada. En este se usan bloques Given-When-Then, en el presente trabajos los hemos trabajado en español Dado que-Cuando-Entonces
+```gherkin
+Scenario 1: registro exitoso de un producto
+Dado que el bodeguero accede al formulario de registro de productos
+Cuando ingresa un código válido, nombre y categoría obligatoria
+Entonces el sistema guarda el producto en la base de datos
+Y el sistema muestra un mensaje de confirmación “Producto registrado con éxito”.
+```
+
   #### 5.1.4. Software Deployment Configuration
 ### 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
