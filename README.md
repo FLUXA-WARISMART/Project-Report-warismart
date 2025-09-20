@@ -199,15 +199,15 @@ URL del Repositoria del Project Report:
 ## Capitulo 3: Requirements Specification 
 ### 3.1. To-Be Scenario Mapping
 ####Segmento 1: Bodegas Tradicionales que buscan la Digitalización
-![Diagrama To-Be Segmento 1](/captresimagenes/to-be1.png)
+![Diagrama To-Be Segmento 1](/capcuatroimagenes/to-be1.png)
 ####Segmento 2: Negocios Retail Pequeños y Medianos que buscan Optimización de Cadena de Suministro
-![Diagrama To-Be Segmento 2](/captresimagenes/to-be2.png)
+![Diagrama To-Be Segmento 2](/capcuatroimagenes/to-be2.png)
 ### 3.2. User Stories
 ### 3.3. Impact Mapping
 ####Segmento 1: Bodegas Tradicionales que buscan la Digitalización
-![Impact Mapping Segmento 1](/captresimagenes/IM1.png)
+![Impact Mapping Segmento 1](/capcuatroimagenes/IM1.png)
 ####Segmento 2: Negocios Retail Pequeños y Medianos que buscan Optimización de Cadena de Suministro
-![Impact Mapping Segmento 2](/captresimagenes/IM2.png)
+![Impact Mapping Segmento 2](/capcuatroimagenes/IM2.png)
 ### 3.4. Product Backlog
 | Orden | User Story Id | Título | Descripción | Story Points |
 | --- | --- | --- | --- | --- |
