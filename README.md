@@ -206,7 +206,13 @@ URL del Repositoria del Project Report:
 
 ## Capítulo 4: Product Design
 ### 4.1. Style Guidelines
+Esta sección establece los lineamientos visuales y comunicacionales que guiarán el diseño de WARISMART en todos sus entornos. El objetivo es contar con un repositorio centralizado y coherente que facilite la colaboración entre equipos de diseño, desarrollo y producto, asegurando consistencia visual, claridad funcional y una experiencia alineada con los valores de la marca.
   #### 4.1.1. General Style Guidelines  
+  #### Branding
+WARISMART representa eficiencia, accesibilidad y control inteligente. Su identidad visual debe transmitir confianza, modernidad y cercanía con el comercio minorista.
+
+##### Logotipo: Tipografía bold, legible, con íconos modulares que representen conectividad entre procesos.
+
   #### 4.1.2. Web Style Guidelines
 ### 4.2. Information Architecture
   #### 4.2.1. Organization Systems 
