@@ -487,26 +487,26 @@ Para el diseño de la Landing Page de WARISMART, hemos traducido las decisiones 
 
 Aplicaremos los principios de diseño jerárquico para guiar la vista del usuario a través de la propuesta de valor, las funcionalidades del sistema y el llamado a la acción. Los elementos visuales y el lenguaje seguirán el tono de comunicación entusiasta y sereno, utilizando la paleta de colores y la tipografía definidas para proyectar confianza.
 
-**Visibilidad del estado del sistema:  
-**La aplicación presenta un diseño claro, con poco texto y las imágenes necesarias para que los usuarios identifiquen fácilmente la sección en la que se encuentran.
+**Visibilidad del estado del sistema:**  
+La aplicación presenta un diseño claro, con poco texto y las imágenes necesarias para que los usuarios identifiquen fácilmente la sección en la que se encuentran.
 
-**Relación entre el sistema y el mundo real:  
-**Se emplea un lenguaje simple, con palabras comunes en español, evitando tecnicismos o términos científicos que pudieran generar confusión.
+**Relación entre el sistema y el mundo real:** 
+Se emplea un lenguaje simple, con palabras comunes en español, evitando tecnicismos o términos científicos que pudieran generar confusión.
 
-**Consistencia y estándares:  
-**La interfaz fue diseñada para mantener coherencia en todos sus elementos, de manera que resulten comprensibles y no generen confusión sobre su propósito.
+**Consistencia y estándares:**  
+La interfaz fue diseñada para mantener coherencia en todos sus elementos, de manera que resulten comprensibles y no generen confusión sobre su propósito.
 
-**Prevención de errores:  
-**El diseño busca reducir al mínimo la posibilidad de equivocaciones, limitando la necesidad de mostrar mensajes de advertencia o error.
+**Prevención de errores:**  
+El diseño busca reducir al mínimo la posibilidad de equivocaciones, limitando la necesidad de mostrar mensajes de advertencia o error.
 
-**Reconocer antes que recordar:  
-**Se añadieron logotipos e imágenes que apoyan la navegación, evitando que el usuario tenga que memorizar información.
+**Reconocer antes que recordar:** 
+Se añadieron logotipos e imágenes que apoyan la navegación, evitando que el usuario tenga que memorizar información.
 
-**Flexibilidad y eficiencia de uso:  
-**Se incluyen accesos directos a las funciones principales, con el fin de optimizar la navegación y hacerla más ágil.
+**Flexibilidad y eficiencia de uso:**  
+Se incluyen accesos directos a las funciones principales, con el fin de optimizar la navegación y hacerla más ágil.
 
-**Diseño estético y minimalista:  
-**El sitio web prioriza mostrar únicamente la información esencial y relevante para el usuario, evitando el exceso de contenido que pueda dificultar la claridad o afectar la experiencia de navegación.
+**Diseño estético y minimalista:**  
+El sitio web prioriza mostrar únicamente la información esencial y relevante para el usuario, evitando el exceso de contenido que pueda dificultar la claridad o afectar la experiencia de navegación.
 
   #### 4.3.1. Landing Page Wireframe  
   En el diseño de nuestra landing combinamos los patrones de lectura **Z y F** para guiar la atención del usuario de forma efectiva.
