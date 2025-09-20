@@ -396,25 +396,95 @@ La Arquitectura de la Información de WARISMART se ha diseñado con un objetivo 
   #### 4.2.1. Organization Systems 
 La organización del contenido de WARISMART se adapta a la naturaleza de la información que el usuario necesita procesar, garantizando una experiencia de uso intuitiva y sin fricciones. Se han identificado dos sistemas de organización principales: el jerárquico para la navegación general y el secuencial para tareas específicas.
 
-#### Organización Jerárquica
+#### Organización Jerárquica Landing Page
 
 La landing page de WARISMART utiliza un sistema de organización jerárquica visual para guiar al usuario a través del contenido. Este enfoque es ideal para una página de una sola vista, ya que ayuda a los visitantes a identificar rápidamente la información más importante del sitio.
 
 Este sistema se aplica a la navegación de la landing page. Las diferentes secciones de la página, como "Inicio", "Nosotros", "Servicios" y "Contacto", se presentan como categorías de primer nivel en el menú superior. Cuando un usuario hace clic en uno de estos enlaces, es dirigido a la sección correspondiente de la página, lo que proporciona una estructura de navegación clara y simple.
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/ESQUEMALANDING.png?raw=true"/>
+</p>
 
 * Organización por Secciones: El contenido está dividido en bloques lógicos, comenzando con la propuesta de valor (hero-blue), seguido por los beneficios (trust), estadísticas (stats), socios (partners), blog (blog), testimonios (testimonials) y finalmente la información de contacto (footer).
 
 * Patrón Z: Esta organización visual sigue el patrón de diseño Z, que asegura que el usuario escanee la información en un orden predecible: desde el logo en la parte superior izquierda, a través de la barra de navegación, hasta el contenido principal y las pruebas de credibilidad al final de la página.
 
-
-
 ##### Justificación
 La organización jerárquica en la landing page ofrece una experiencia de usuario familiar y eficiente. Permite a los usuarios encontrar la información que buscan sin sobrecargarlos con un exceso de opciones. Este método garantiza que los visitantes puedan navegar de manera fluida y acceder a las secciones de su interés, como "Nosotros" para conocer el impacto de la empresa o "Servicios" para entender los beneficios del producto.
-  #### 4.2.2. Labeling Systems 
+
+#### Jerarquía de la Aplicación Web
+Tu aplicación web se organiza jerárquicamente, permitiendo al usuario navegar desde una categoría principal hasta información detallada. A continuación, se describen los módulos principales y sus subsecciones.
+
+* Dashboard (Inicio): Es la pantalla de inicio después del login. Ofrece una vista jerárquica con un resumen de datos importantes y acceso rápido a las funciones más usadas (Quick Actions) como "Registrar Venta" o "Añadir Producto".
+
+* Inventario: Permite al usuario ver todos los productos registrados.
+  * Ver Productos (Jerárquico): Un listado de productos que permite ver el stock, precios y más. El usuario puede hacer clic en un producto para ver su ficha detallada. La búsqueda con filtros se aplica en esta sección para facilitar la gestión.
+  * Añadir Producto (Secuencial): Este es un proceso guiado paso a paso para asegurar que toda la información necesaria se ingrese correctamente, minimizando errores.
+
+* Ventas: Se centra en el historial de transacciones.
+  * Historial de Ventas (Jerárquico): El usuario puede ver una lista de todas las transacciones, con la posibilidad de ordenarlas por fecha o filtrarlas por tipo de producto.
+  * Registrar Venta (Secuencial): Al igual que al añadir un producto, este proceso guía al usuario a través de los pasos necesarios para completar una venta.
+
+* Reportes: Módulo central para el análisis de datos.
+  * Análisis de Datos (Jerárquico): Permite ver informes visuales (gráficos de ventas, tendencias de inventario, etc.).
+  * Reportes de Ventas (Jerárquico y Cronológico): Muestra reportes detallados que se pueden filtrar por rangos de fecha para análisis históricos.
+
+* Configuración: Permite la gestión del perfil y los ajustes.
+  * Perfil de Usuario (Secuencial): El proceso para actualizar los datos personales, la contraseña, etc., es secuencial para garantizar la seguridad.
+
+  #### 4.2.2. Labeling Systems
+Para evitar la confusión y garantizar que las etiquetas sean claras y concisas, se han definido los siguientes principios basados en la función de cada elemento:
+* Etiquetas de Acción (Verbos): Las etiquetas en botones y enlaces clave se basarán en verbos de acción.
+
+  * Ejemplos: "Añadir Producto", "Registrar Venta", "Ver Reportes".
+
+* Etiquetas de Contenido (Sustantivos): Las etiquetas que describen secciones o conjuntos de datos serán sustantivos directos.
+
+  * Ejemplos: "Inventario", "Reportes", "Proveedores".
+  
+* Etiquetas de Asociación: Se usarán etiquetas mínimas para representar información más compleja. Por ejemplo, en la barra de navegación, la etiqueta "Inventario" representa en la mente del usuario toda la información y las acciones relacionadas con los productos y el stock.
+
   #### 4.2.3. SEO Tags and Meta Tags
+Aunque la aplicación principal es un sistema de gestión, la Landing Page es crucial para el marketing y la adquisición de clientes. Se aplicarán los siguientes tags en la página de inicio para optimizar su visibilidad en los motores de búsqueda.
+
+##### Landing Page
+* Title: WARISMART | Sistema Retail Inteligente
+* Meta Description: Plataforma para bodegas y pequeños comercios: controla inventarios, ventas, compras y reportes en tiempo real.
+* Meta Keywords: software retail, sistema de ventas, control de inventario, punto de venta POS, gestión de negocios, software para tiendas.
+* Meta Author: FLUXA S.A.C.
+
+##### Aplicación Web
+* Title: WARISMART | Dashboard
+* Meta Description: Dashboard principal del sistema de gestión WARISMART. Accede a un resumen de tus ventas, inventario y reportes clave.
+* Meta Keywords: dashboard, gestión de ventas, reportes, inventario, control de negocio.
+* Meta Author: FLUXA S.A.C.
+  
   #### 4.2.4. Searching Systems
-  #### 4.2.5. Navigation Systems  
+La búsqueda es una herramienta vital para manejar el volumen de información de un negocio. Se ofrecerán múltiples opciones para que el usuario encuentre lo que necesita sin complicaciones, utilizando el patrón de búsqueda con filtros.
+
+* Búsqueda Global: Un campo de búsqueda principal en la Navbar permitirá a los usuarios buscar productos, proveedores o clientes desde cualquier lugar de la aplicación.
+
+* Búsqueda con Filtros: En páginas con listados extensos, como Inventario o Reportes de Ventas, se ofrecerá un sistema de filtros avanzado. Los usuarios podrán filtrar la información por categoría, proveedor, rango de fechas, o estado.
+
+* Visualización de Resultados: Los resultados se mostrarán en tablas o listas fáciles de escanear. Se destacarán los datos clave y se permitirá al usuario hacer clic en un elemento para ver su información detallada.
+
+  #### 4.2.5. Navigation Systems
+La navegación de WARISMART se basa en un sistema de guía claro y consistente para que los usuarios puedan moverse de forma fluida.
+
+* Navegación Principal (Sidebar): Es el sistema central de la aplicación. Muestra los módulos principales con iconos y etiquetas de texto para una fácil identificación. El estado "activo" del ítem de menú se resalta visualmente para que el usuario siempre sepa dónde se encuentra.
+
+* Breadcrumbs (Migas de Pan): Se implementarán en páginas con varios niveles de profundidad para indicar la ruta de navegación del usuario, lo que le permite regresar a páginas anteriores con un solo clic.
+
+* Menú de Usuario y Notificaciones: Un menú en la parte superior derecha proporciona acceso rápido al perfil de usuario, ajustes de cuenta, notificaciones y la opción de cerrar sesión.
+
+* Acciones Rápidas (Quick Actions): Se incluirán botones prominentes en el Dashboard para las tareas más frecuentes, como "Añadir Venta" o "Añadir Producto", permitiendo a los usuarios comenzar su trabajo de inmediato.
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/SIDEBAR.jpg?raw=true"/>
+</p>
+
 ### 4.3. Landing Page UI Design
+En esta seccion se mostrara los diferrentes wireframes desarrollados en software de figma para el landing page.
+
   #### 4.3.1. Landing Page Wireframe  
   #### 4.3.2. Landing Page Mock-up 
 ### 4.4. Web Applications UX/UI Design
