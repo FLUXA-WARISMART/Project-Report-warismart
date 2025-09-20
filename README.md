@@ -262,6 +262,7 @@ Ramas de Apoyo:
 - Feature: Son ramas que nacen a partir de Develope, creadas para trabajar en funciones específicas del proyecto. Se generan tantas ramas Feature como funcionalidades existan. Al completar su desarrollo, deben integrarse nuevamente en Develope y ser eliminadas. La nomenclatura que se utiliza para nombrarlas sigue un formato específico, por ejemplo tenemos la rama feature/landing-inicial.
 
 **Conventional Commits**
+
 Se trata de un conjunto de normas para estructurar nuestros mensajes de commit, facilitando un historial de cambios claro y fácil de entender para todo el equipo.
 - type: Define el tipo de cambio realizado:
     + feat: para nuevas funcionalidades.
