@@ -282,6 +282,7 @@ Se trata de un conjunto de normas para estructurar nuestros mensajes de commit, 
 Entre las convenciones estándar para el código de este proyecto hemos decidido utilizar el estilo kebab-case. El kebab-case es un estilo de escritura donde las palabras se separan con guiones (-) y todas las letras están en minúsculas. Este estilo se usa comúnmente en nombres de archivos, rutas web y clases CSS. Se decidió por el uso en este proyecto debido a la legibilidad y facilidad para entender, favorece la consistencia en proyectos colaborativos y es una convencion muy popular.
 
 **HTML, CSS y JS**
+
 Durante el uso de los lenguajes primarios en el desarrollo de nuestra solucion, se utilizaron las siguientes buenas practicas:
 
 **HTML**
