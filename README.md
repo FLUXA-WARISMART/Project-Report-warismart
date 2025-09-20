@@ -319,14 +319,107 @@ Scenario 1: registro exitoso de un producto
 Dado que el bodeguero accede al formulario de registro de productos
 Cuando ingresa un código válido, nombre y categoría obligatoria
 Entonces el sistema guarda el producto en la base de datos
-Y el sistema muestra un mensaje de confirmación “Producto registrado con éxito”.
+Y el sistema mue-stra un mensaje de confirmación “Producto registrado con éxito”.
 ```
 
   #### 5.1.4. Software Deployment Configuration
 ### 5.2. Landing Page, Services & Applications Implementation
+
 ### 5.2.1. Sprint 1
-#### 5.2.1.1. Sprint Planning 1  
-#### 5.2.1.2. Aspect Leaders and Collaborators  
+Esta sección ofrece una visión general del primer sprint, incluyendo planificación, ejecución y actividades de revisión.
+
+#### 5.2.1.1. Sprint Planning 1
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>Sprint #</strong></td>
+      <td>Sprint 1</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Sprint Planning Background</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Date</strong></td>
+      <td>2025-09-18</td>
+    </tr>
+    <tr>
+      <td><strong>Time</strong></td>
+      <td>6:50 PM</td>
+    </tr>
+    <tr>
+      <td><strong>Location</strong></td>
+      <td>Remote via the GitHub platform</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Prepared by</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Attendees (for the planning meeting)</strong></td>
+      <td>All Warismart team members</td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 0 Review Summary</strong></td>
+      <td>As this is the first development sprint, no sprint review has been completed yet.</td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 0 Retrospective Summary</strong></td>
+      <td>As this is the first development sprint, no sprint retrospective has been completed yet.</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 1 Goal</strong></td>
+      <td>Our main focus for this sprint is to build the landing page for Warismart. This page is crucial for engaging potential users, showcasing the platform's value, and increasing sign-ups. We aim to track user interaction with the page to measure the success of this initiative.</td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 1 Velocity</strong></td>
+      <td>12</td>
+    </tr>
+    <tr>
+      <td><strong>Sum of Story Points</strong></td>
+      <td>26</td>
+    </tr>
+  </tbody>
+</table>
+
+
+#### 5.2.1.2. Aspect Leaders and Collaborators
+<table>
+  <tbody>
+    <tr>
+      <td><strong>Team Member (Last Name, First Name)</strong></td>
+      <td><strong>GitHub Username</strong></td>
+      <td><strong>Landing Page</strong></td>
+    </tr>
+    <tr>
+      <td>Rivas Castillo, Christoper Steven</td>
+      <td>CODERT0PH</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Gutarra Velapatiño, Sebastian</td>
+      <td>SebastianGutarra</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Nuñez Soto, Andy Arturo</td>
+      <td>arturo-ns</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Huamán Cuba, Johan Giovani </td>
+      <td>Johancuba</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Tasayco Almonacid, Rafael Augusto</td>
+      <td>Rfaleltsy</td>
+      <td>C</td>
+    </tr>
+  </tbody>
+</table>
 #### 5.2.1.3. Sprint Backlog 1  
 #### 5.2.1.4. Development Evidence for Sprint Review  
 #### 5.2.1.5. Execution Evidence for Sprint Review  
