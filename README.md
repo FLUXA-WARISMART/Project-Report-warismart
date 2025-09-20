@@ -212,8 +212,235 @@ Esta sección establece los lineamientos visuales y comunicacionales que guiará
 WARISMART representa eficiencia, accesibilidad y control inteligente. Su identidad visual debe transmitir confianza, modernidad y cercanía con el comercio minorista.
 
 ##### Logotipo: Tipografía bold, legible, con íconos modulares que representen conectividad entre procesos.
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/LOGOWARISMART.jpg?raw=true" 
+       alt="Logo WARISMART"
+       width="250"/>
+</p>
+
+##### Imagotipo: Puede incluir una figura geométrica que evoque estructura y modularidad (ej. hexágono, cubo).
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/LOGOWARISMART.jpg?raw=true" 
+       alt="Logo WARISMART"
+       width="250"/>
+</p>
+
+#### Typography
+
+##### Primaria: Inkia – por su legibilidad en interfaces digitales, lo utilizaremos para títulos.
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/INKIAFONT.jpg?raw=true"/>
+</p>
+
+##### Secundaria: Inter (Sans Serif)  – para textos explicativos o secundarios.
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/INTERFONT.jpg?raw=true"/>
+</p>
+
+#### Jerarquía
+
+##### Títulos: Open Sans 36px
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/OPENSANSFONT.jpg?raw=true"/>
+</p>
+
+
+
+##### Subtítulos: Open Sans Hebrew 20px
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/OPENHEBREWFONT.jpg?raw=true"/>
+</p>
+
+
+
+##### Texto base: Inter Regular 16px
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/OPENCONDENSEDFONT.jpg?raw=true"/>
+</p>
+
+
+#### Colors
+
+La paleta de WARISMART debe reflejar tecnología accesible y profesionalismo.
+##### Primario: Azul profundo (#1F3C88) – confianza y estabilidad
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/AZULPROFUNDO.jpg?raw=true"/>
+</p>
+
+##### Secundario: Verde lima (#A3D55B) – eficiencia y acción
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/VERDELIMA.jpg?raw=true"/>
+</p>
+
+##### Neutros: Gris claro (#F4F4F4), Gris medio (#B0B0B0), Negro (#1A1A1A)
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/NEUTROS.jpg?raw=true"/>
+</p>
+
+#### Alertas
+
+##### Éxito: Verde (#4CAF50)
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/EXITO.jpg?raw=true"/>
+</p>
+
+##### Error: Rojo (#F44336)
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/ROJO.jpg?raw=true"/>
+</p>
+
+##### Advertencia: Amarillo (#FFC107)
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/AMARILLO.jpg?raw=true"/>
+</p>
+
+#### Tono de comunicación
+
+WARISMART se comunica con claridad, empatía y profesionalismo.
+Lenguaje: Claro, directo, sin tecnicismos innecesarios.
+
+##### Tono:
+- Tono de comunicación: <br>Entusiasta y Sereno. Se busca ser motivador y optimista, mostrando que la tecnología es un aliado, no un obstáculo. Al mismo tiempo, el tono es sereno y claro, sin ser condescendiente.<br>
+
+- Lenguaje aplicado: <br>Formal y Casual. Se evita la jerga técnica innecesaria. El lenguaje es directo y claro, como si se estuviera hablando con un amigo experto. Es formal en la presentación de datos y casual en las explicaciones, para que sea fácil de entender.<br>
+
+
+#### Íconos y elementos visuales
+
+- Uso de íconos minimalistas.
+- Estilo consistente: esquinas redondeadas, sombras suaves.
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/ICONOS.jpg?raw=true"/>
+</p>
 
   #### 4.1.2. Web Style Guidelines
+Esta sección aplica los principios de diseño de WARISMART a la experiencia web, asegurando que todos los elementos de la interfaz sean consistentes y funcionales. El objetivo es crear un sistema de diseño que facilite el trabajo de los desarrolladores y mantenga una identidad visual coherente.
+  
+  #### Adaptabilidad (Responsive Design)
+Nuestra aplicación web se adaptará a todo tipo de dispositivos (smartphones, tablets, laptops, etc.) para garantizar que la usabilidad se mantenga en todo momento. Esto proporcionará una experiencia de usuario fluida y consistente, sin importar cómo acceda el usuario a la plataforma. El diseño será flexible, ajustando automáticamente la disposición de los elementos, los tamaños de las fuentes y las imágenes para optimizar la visualización y la interacción en cada pantalla.
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/RESPONSIVE.jpg?raw=true"
+    width="520"/>
+</p>
+
+#### Patrón de Diseño para la Landing Page (Patrón Z)
+Para el diseño de nuestra página de inicio, se utilizará el Patrón Z. Este es un patrón visual que guía la mirada del usuario de manera intencionada, similar al recorrido de la letra "Z". A continuación, te explico los elementos clave de este patrón que se aplican en tu diseño:
+
+- Punto de partida (Superior Izquierda): La mirada del usuario se posa primero en el logotipo de WARISMART, que está estratégicamente colocado en la esquina superior izquierda. Esto establece inmediatamente la identidad de la marca.
+
+- Movimiento horizontal (Superior Derecha): Desde el logo, el ojo se mueve de forma natural hacia la derecha, donde se encuentran los elementos del menú de navegación (Inicio, Nosotros, Servicios, Contacto). Esta línea horizontal permite que el usuario escanee rápidamente las opciones disponibles.
+
+- Diagonal descendente: La vista desciende en diagonal hacia la sección principal del contenido. En tu landing page, esto se evidencia en el bloque hero-blue y el texto "Impulsa tu negocio con tecnología que entiende el retail", que capta la atención con su mensaje principal y una llamada a la acción.
+
+- Movimiento horizontal final (Inferior): Finalmente, la mirada se mueve a través de la sección inferior, donde se encuentran elementos de prueba social como los testimonios de clientes y los logotipos de los socios. Este punto final refuerza la credibilidad y anima al usuario a tomar una decisión, como el registro o el inicio de sesión.
+Este patrón Z es muy efectivo porque respeta el proceso de escaneo natural del ojo y asegura que la información más importante—la marca, la navegación, la propuesta de valor y la prueba social—sea vista en un orden lógico, guiando al usuario de forma clara a través de la página.
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/PATRONZ.jpg?raw=true"/>
+</p>
+
+#### Spacing
+
+- Padding estándar: 16px
+- Margen entre secciones: 24px
+- Grid base: 8px system (multiplicador para consistencia en UI)
+
+#### Grid y Layout
+- Sistema de 12 columnas: Se utiliza una cuadrícula flexible de 12 columnas. Esto garantiza que la interfaz se adapte correctamente a diferentes tamaños de pantalla (diseño responsivo).
+- Márgenes y Medianiles (Gutters): Los márgenes exteriores y los espacios entre columnas se basarán en múltiplos de 8px para mantener la coherencia con el sistema de espaciado.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Componentes de la Interfaz de Usuario (UI Components)
+Los componentes son bloques de construcción reutilizables que aceleran el diseño y el desarrollo. Cada componente debe seguir los lineamientos de color y tipografía.
+
+* Botones (Buttons):
+  * Tipos: Primario, Secundario, Terciario y de Ícono.<br>
+  * Estado: Se definen los estados visuales para cada tipo: Normal, Hover (cuando el cursor pasa por encima), Pressed (cuando se hace clic), y Desactivado (Disabled).<br>
+  * Dimensiones: La altura estándar de los botones será de 48px, con un padding horizontal de 16px a 24px.<br>
+  * Radio de Esquina (Border Radius): Se usará un border-radius de 8px para dar un toque moderno y amigable.<br>
+
+* Campos de Formulario (Form Fields):
+  *Tipos: Input de texto, selectores, casillas de verificación (checkboxes).<br>
+  *Estados: Normal, Foco (cuando el usuario hace clic en el campo), Error (con un borde rojo y un mensaje de ayuda), y Desactivado.<br>
+  *Dimensiones: La altura estándar de los campos de texto será de 48px, alineada con la de los botones.<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tarjetas (Cards):
+Se usarán para agrupar información relacionada, como un resumen de inventario o un reporte de ventas. Tendrán un padding consistente y una sombra sutil para dar profundidad.
+
+
+
+
+
+
+
+
+
+
+
+
+Navegación:
+Barra de navegación (Navbar): Ubicada en la parte superior, contendrá el logo, los menús principales y el perfil de usuario.
+Menú Lateral (Sidebar): Contendrá los enlaces a las secciones clave del sistema (Inventario, Ventas, Reportes, etc.).
+
+
 ### 4.2. Information Architecture
   #### 4.2.1. Organization Systems 
   #### 4.2.2. Labeling Systems 
