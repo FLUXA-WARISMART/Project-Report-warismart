@@ -348,52 +348,17 @@ Este patrón Z es muy efectivo porque respeta el proceso de escaneo natural del 
 - Sistema de 12 columnas: Se utiliza una cuadrícula flexible de 12 columnas. Esto garantiza que la interfaz se adapte correctamente a diferentes tamaños de pantalla (diseño responsivo).
 - Márgenes y Medianiles (Gutters): Los márgenes exteriores y los espacios entre columnas se basarán en múltiplos de 8px para mantener la coherencia con el sistema de espaciado.
 
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/WEBSITE.jpg?raw=true"/>
+</p>
 
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/TABLET.jpg?raw=true"/>
+</p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/MOBILE.jpg?raw=true"/>
+</p>
 
 #### Componentes de la Interfaz de Usuario (UI Components)
 Los componentes son bloques de construcción reutilizables que aceleran el diseño y el desarrollo. Cada componente debe seguir los lineamientos de color y tipografía.
@@ -403,46 +368,48 @@ Los componentes son bloques de construcción reutilizables que aceleran el dise�
   * Estado: Se definen los estados visuales para cada tipo: Normal, Hover (cuando el cursor pasa por encima), Pressed (cuando se hace clic), y Desactivado (Disabled).<br>
   * Dimensiones: La altura estándar de los botones será de 48px, con un padding horizontal de 16px a 24px.<br>
   * Radio de Esquina (Border Radius): Se usará un border-radius de 8px para dar un toque moderno y amigable.<br>
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/BUTTONS.jpg?raw=true"/>
+</p>
 
 * Campos de Formulario (Form Fields):
-  *Tipos: Input de texto, selectores, casillas de verificación (checkboxes).<br>
-  *Estados: Normal, Foco (cuando el usuario hace clic en el campo), Error (con un borde rojo y un mensaje de ayuda), y Desactivado.<br>
-  *Dimensiones: La altura estándar de los campos de texto será de 48px, alineada con la de los botones.<br>
+  * Tipos: Input de texto, selectores, casillas de verificación (checkboxes).<br>
+  * Estados: Normal, Foco (cuando el usuario hace clic en el campo), Error (con un borde rojo y un mensaje de ayuda), y Desactivado.<br>
+  * Dimensiones: La altura estándar de los campos de texto será de 48px, alineada con la de los botones.<br>
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/FORMS.jpg?raw=true"/>
+</p>
 
+* Tarjetas (Cards):
+  * Se usarán para agrupar información relacionada, como un resumen de inventario o un reporte de ventas. Tendrán un padding consistente y una sombra sutil para dar profundidad.
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/CARDS.jpg?raw=true"/>
+</p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-Tarjetas (Cards):
-Se usarán para agrupar información relacionada, como un resumen de inventario o un reporte de ventas. Tendrán un padding consistente y una sombra sutil para dar profundidad.
-
-
-
-
-
-
-
-
-
-
-
-
-Navegación:
-Barra de navegación (Navbar): Ubicada en la parte superior, contendrá el logo, los menús principales y el perfil de usuario.
-Menú Lateral (Sidebar): Contendrá los enlaces a las secciones clave del sistema (Inventario, Ventas, Reportes, etc.).
-
+* Navegación:
+ * Barra de navegación (Navbar): Ubicada en la parte superior, contendrá el logo, los menús principales y el perfil de usuario.
+ * Menú Lateral (Sidebar): Contendrá los enlaces a las secciones clave del sistema (Inventario, Ventas, Reportes, etc.).
 
 ### 4.2. Information Architecture
+La Arquitectura de la Información de WARISMART se ha diseñado con un objetivo claro: que los usuarios, sin importar su nivel de experiencia tecnológica, puedan navegar y encontrar lo que necesitan de manera intuitiva y sin esfuerzo. Nuestro enfoque se centra en la simplicidad, la claridad y la eficiencia para ayudar a los emprendedores a gestionar su negocio de forma óptima.
+
   #### 4.2.1. Organization Systems 
+La organización del contenido de WARISMART se adapta a la naturaleza de la información que el usuario necesita procesar, garantizando una experiencia de uso intuitiva y sin fricciones. Se han identificado dos sistemas de organización principales: el jerárquico para la navegación general y el secuencial para tareas específicas.
+
+#### Organización Jerárquica
+
+La landing page de WARISMART utiliza un sistema de organización jerárquica visual para guiar al usuario a través del contenido. Este enfoque es ideal para una página de una sola vista, ya que ayuda a los visitantes a identificar rápidamente la información más importante del sitio.
+
+Este sistema se aplica a la navegación de la landing page. Las diferentes secciones de la página, como "Inicio", "Nosotros", "Servicios" y "Contacto", se presentan como categorías de primer nivel en el menú superior. Cuando un usuario hace clic en uno de estos enlaces, es dirigido a la sección correspondiente de la página, lo que proporciona una estructura de navegación clara y simple.
+
+* Organización por Secciones: El contenido está dividido en bloques lógicos, comenzando con la propuesta de valor (hero-blue), seguido por los beneficios (trust), estadísticas (stats), socios (partners), blog (blog), testimonios (testimonials) y finalmente la información de contacto (footer).
+
+* Patrón Z: Esta organización visual sigue el patrón de diseño Z, que asegura que el usuario escanee la información en un orden predecible: desde el logo en la parte superior izquierda, a través de la barra de navegación, hasta el contenido principal y las pruebas de credibilidad al final de la página.
+
+
+
+##### Justificación
+La organización jerárquica en la landing page ofrece una experiencia de usuario familiar y eficiente. Permite a los usuarios encontrar la información que buscan sin sobrecargarlos con un exceso de opciones. Este método garantiza que los visitantes puedan navegar de manera fluida y acceder a las secciones de su interés, como "Nosotros" para conocer el impacto de la empresa o "Servicios" para entender los beneficios del producto.
   #### 4.2.2. Labeling Systems 
   #### 4.2.3. SEO Tags and Meta Tags
   #### 4.2.4. Searching Systems
