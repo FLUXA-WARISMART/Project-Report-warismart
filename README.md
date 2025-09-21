@@ -213,10 +213,81 @@ Siigo es una solución contable y administrativa en la nube, orientada a pymes y
 **Debilidades:**  
 - Curva de aprendizaje elevada: Su interfaz y estructura modular requieren capacitación, lo que puede dificultar la adopción por parte de pequeños comerciantes sin experiencia tecnológica.  
 - Soporte técnico inconsistente: Usuarios reportan falta de acompañamiento en los primeros días de uso, lo que afecta la experiencia inicial.  
-- Limitaciones en la versión web: Algunas funcionalidades avanzadas están disponibles solo en versiones instaladas, lo que reduce la flexibilidad para negocios que operan 100% en la nube.  
+- Limitaciones en la versión web: Algunas funcionalidades avanzadas están disponibles solo en versiones instaladas, lo que reduce la flexibilidad para negocios que operan 100% en la nube.
+
 
   #### 2.1.1. Analisis competitivo
-  #### 2.1.2. Estrategias y tácticas frente a competidores 
+  
+  #### 2.1.2. Estrategias y tácticas frente a competidores
+  
+  ### Estrategia 1: Diferenciación Tecnológica
+**Objetivo:** Posicionar WARISMART como una solución integral, modular y escalable frente a competidores que ofrecen herramientas aisladas o poco conectadas.  
+**Tácticas:**
+
+**Arquitectura Modular Escalable**  
+Desarrollar una plataforma que permita activar módulos según el crecimiento del negocio (Inventarios, POS, Compras, Reportes, Seguridad), superando la rigidez de TuFacturadorM y Vendus.  
+**Métrica clave:** Lograr que el 60% de los usuarios activen al menos 3 módulos en los primeros 90 días.
+
+**Integración Total entre Módulos**  
+Diseñar flujos conectados entre ventas, compras e inventarios para evitar duplicidad de tareas, una debilidad común en Siigo y Vendus.  
+**Métrica clave:** Reducir en un 50% los errores operativos reportados por usuarios en el primer mes.
+
+### Estrategia 2: Alianzas Estratégicas
+**Objetivo:** Convertir gremios, cámaras de comercio y proveedores tecnológicos en aliados clave para distribución y adopción.  
+**Tácticas:**
+
+**Alianzas con Cámaras de Comercio Locales**  
+Ofrecer WARISMART como solución recomendada para digitalización de microempresas, aprovechando el impulso de PRODUCE y el ITP.  
+**Métrica clave:** Obtener al menos 3 convenios institucionales en el primer semestre.
+
+**Integración con Proveedores de Facturación Electrónica**  
+Conectar WARISMART con plataformas SUNAT y socios como Nubefact o Digiflow, superando la limitación tributaria de TuFacturadorM.  
+**Métrica clave:** Emitir más de 10,000 comprobantes electrónicos desde WARISMART en los primeros 6 meses.
+
+### Estrategia 3: Enfoque en Experiencia de Usuario
+**Objetivo:** Atraer a comerciantes con baja alfabetización digital, ignorados por Siigo y TuFacturadorM (interfaces complejas).  
+**Tácticas:**
+
+**Onboarding Simplificado**  
+Diseñar un flujo de activación en 3 pasos con tutoriales visuales y asistencia contextual.  
+**Métrica clave:** Reducir la tasa de abandono en el primer uso del 40% al 15%.
+
+**Interfaz Adaptada a Microempresas**  
+Diseñar pantallas con lenguaje comercial, íconos claros y navegación móvil-first.  
+**Métrica clave:** Lograr que el 70% de los usuarios operen WARISMART desde dispositivos móviles al menos una vez al día.
+
+### Estrategia 4: Expansión Geográfica y de Mercado
+**Objetivo:** Capitalizar oportunidades en regiones fuera de Lima y en verticales minoristas no atendidos por Siigo o Vendus.  
+**Tácticas:**
+
+**Modelo B2B2C con Distribuidores Locales**  
+Ofrecer WARISMART a distribuidores de hardware POS y redes de capacitación MYPE.  
+**Métrica clave:** Alcanzar presencia en 10 regiones del Perú en el primer año.
+
+**Verticalización por Rubro**  
+Diseñar versiones específicas para bodegas, ferreterías, licorerías y tiendas de mascotas, con flujos adaptados.  
+**Métrica clave:** Lograr que el 40% de los nuevos usuarios provengan de rubros verticalizados.
+
+### Estrategia 5: Mitigación de Amenazas
+**Objetivo:** Neutralizar riesgos regulatorios, técnicos y de percepción frente a competidores con historial limitado de soporte o seguridad.  
+**Tácticas:**
+
+**Certificaciones de Seguridad y Privacidad**  
+Obtener ISO 27001 y cumplir con estándares SUNAT y GDPR, contrastando con la falta de transparencia de Siigo y TuFacturador.  
+**Métrica clave:** Publicar auditorías semestrales de seguridad y uso de datos.
+
+**Contenido de Transparencia y Casos de Éxito**  
+Publicar testimonios de negocios reales que escalaron con WARISMART, reforzando confianza frente a soluciones genéricas.  
+**Métrica clave:** Generar 20 casos documentados en el primer año.
+
+### Resumen de Acciones Clave
+| Competidor     | Debilidad a Explotar                                   | Táctica de WARISMART                                |
+|----------------|--------------------------------------------------------|----------------------------------------------------|
+| Vendus Perú    | Escalabilidad limitada y reportes básicos            | Módulos activables + reportes visuales avanzados  |
+| TuFacturador   | Enfoque tributario sin gestión operativa             | Integración contable + flujos comerciales conectados |
+| Siigo Perú     | Curva de aprendizaje elevada y soporte inconsistente | Onboarding simplificado + interfaz móvil adaptada |
+
+
 ### 2.2. Entrevistas
   #### 2.2.1. Diseño de entrevistas
   #### 2.2.2. Registro de entrevistas
