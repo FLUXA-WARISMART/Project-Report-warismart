@@ -339,6 +339,7 @@ Este User Journey Map se construyó a partir del segmento objetivo de pequeñas 
 
 ![journey-carlos](capdosimagenes/journey-carlos.png)
 
+
   #### 2.3.4. Empathy Mapping
   **Segmento objetivo 1 – Rosa Gutiérrez:**  
 Este Empathy Map busca reflejar cómo estos usuarios perciben y enfrentan la gestión diaria de sus negocios, resaltando lo que piensan, sienten, dicen y hacen en torno a las ventas e inventarios.
@@ -350,7 +351,19 @@ Este Empathy Map representa la forma en que estos usuarios experimentan la admin
 
 ![empathy-carlos](capdosimagenes/empathy-carlos.png)
 
-  #### 2.3.5. As-is Scenario Mapping
+
+## 2.4. Big Picture EventStorming
+A continuación, se muestran todos los eventos que identificamos al inicio, colocados sin ningún orden. El objetivo fue sacar a la vista todo lo que ocurre en el negocio, sin preocuparse todavía por el flujo, para poder organizarlos de manera más clara.
+
+![eventos-sueltos](capdosimagenes/eventos-sueltos.png)
+
+Luego, con los eventos acomodados de forma lógica. Aquí ya no solo están las ideas sueltas, sino que se conectan entre sí para mostrar cómo funciona el proceso de inicio a fin. Esto permitió ver con claridad qué pasos siguen uno tras otro y también en qué momentos pueden aparecer situaciones alternativas. Con este orden ya se entiende mejor el recorrido completo y se logra una visión más clara del proceso.
+
+![leyenda-colores](capdosimagenes/leyenda-colores.png)
+
+![eventstorming-completo](capdosimagenes/eventstorming-completo.png)
+
+
 ### 2.4. Ubiquitous Language   
 
 ## Capitulo 3: Requirements Specification 
