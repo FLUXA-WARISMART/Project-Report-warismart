@@ -422,9 +422,35 @@ Esta sección ofrece una visión general del primer sprint, incluyendo planifica
 </table>
 
 #### 5.2.1.3. Sprint Backlog 1  
+
+Para el primer sprint, desarrollamos la estructura, el aspecto visual y las funcionalidades básicas de la landing page.
+
+| **Sprint #**   | Sprint 1                                |                    |                                                                       |                                                                           |                      |                  |            |
+| -------------- | --------------------------------------- | ------------------ | --------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------------------- | ---------------- | ---------- |
+| **User Story** |                                         | **Work-Item/task** |                                                                       |                                                                           |                      |                  |            |
+| **ID**         | **Título**                              | **ID**             | **Título**                                                            | **Descripción**                                                           | **Estimación (hrs)** | **Assigned to**  | **Status** |
+| HU-31          | Información general de la aplicación                  | T01                | Mostrar información general para que los usuarios puedan conocer sobre nuestro servicio.            | Como visitante, quiero ver en la página de inicio información clara de la aplicación, para entender sus beneficios rápidamente.    | 1.5                    | Cristopher Rivas | Done       |
+| HU-32          | Testimonios de clientes     | T02                | Crear una sección para poder leer y conocer experiencias de usuarios de la aplicación. |Como visitante, quiero leer testimonios de otros bodegueros que digitalizaron su negocio, para confiar en la plataforma.   | 1.5                  | Arturo Núñez       | Done       |
+| HU-33          | Comparación de clases | T03                | Organizar la información de nuestros planes en un cuadro                   | Como visitante, quiero ver los planes y precios disponibles, para elegir el que mejor se adapte a mi negocio.  | 1                    | Sebastián Gutarra | Done       |
+| HU-34          | Sección de contacto          | T04                | Crear una sección en donde los usuarios puedan resolver dudas o pedir atención personalizadad.     | Como visitante, quiero tener acceso a un formulario de contacto, para resolver dudas o solicitar más información.         | 1                    | Johan Huamán       | Done       |
+| HU-35          | Registro rápido            | T05                |  Crear un botón y una pantalla donde el usuario puedda registrarse y/o iniciar sesión    | Como visitante, quiero poder registrarme desde la landing page, para comenzar a usar la aplicación sin complicaciones.       | 1                 | Rafael Tasayco | Done       |
+
+
 #### 5.2.1.4. Development Evidence for Sprint Review  
+
+Esta subsección muestra la evidencia del trabajo de desarrollo completado durante el Sprint 1 para fines de revisión.
+| Repository                  | Branch               | Commit Id | Commit Message                      | Committed on | Team Member                |
+|------------------------------|----------------------|-----------|-------------------------------------|--------------|-----------------------------|
+| FLUXA-WARISMART/Landingpage-warismart     | main                 | d6ac7ad58ce16824ea74d8af20d39262d0604e90   | Initial commit                     | 19/09/2025   | Cristopher Rivas              |
+| FLUXA-WARISMART/warismart-informe     | chapter-3-specification         | 104f4fe14368ce889b1ffc6e90ead0173d6cbb09   | Update README.md    | 20/09/2025      | Arturo Núñez              |
+| FLUXA-WARISMART/warismart-informe     | chapter-4-product-design        | e99f7ede1f5eaa0799f6e2c2e157ca2ac0f0b7e3 | Update Chapter 4   | 20/09/2025     | Rafael Tasayco               |
+| FLUXA-WARISMART/warismart-informe       | chapter-5-implementation-validation | 7c8c95e60ed87e376f941dc5c5a54a66c3df9d06 | fix: added 5.2.1 Sprint 1 | 20/09/2025  | Sebastián Gutarra           |
+
 #### 5.2.1.5. Execution Evidence for Sprint Review  
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review  
+
+Durante este Sprint, nos enfocamos exclusivamente en el desarrollo del frontend estático de la Landing Page. En consecuencia, no se implementaron endpoints ni funcionalidades relacionadas con servicios web o APIs RESTful.
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review  
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
