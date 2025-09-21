@@ -165,6 +165,12 @@ URL del Repositoria del Project Report:
 
 ## Capitulo 1: Introducción
 ### 1.1. Startup Profile
+chapter-1-introduccion
+  #### 1.1.1. Descripcion del Startup
+FLUXA es una startup innovadora que busca transformar el mundo del retail mediante soluciones tecnológicas integrales. Nuestro enfoque está en optimizar la gestión comercial de tiendas y cadenas de manera sencilla, eficiente y segura.
+Con una visión centrada en la accesibilidad y la escalabilidad, FLUXA impulsa a los emprendedores y empresas a crecer con tecnología de última generación, brindando herramientas que no solo digitalizan, sino que potencian el verdadero valor de cada negocio.
+  #### 1.1.2. Perfiles de Integrantes del equipo
+=======
 #### 1.1.1. Descripcion del Startup
 **FLUXA** es una startup innovadora que busca transformar el mundo del retail mediante soluciones tecnológicas integrales. Nuestro enfoque está en optimizar la gestión comercial de tiendas y cadenas de manera sencilla, eficiente y segura.
 Con una visión centrada en la accesibilidad y la escalabilidad, FLUXA impulsa a los emprendedores y empresas a crecer con tecnología de última generación, brindando herramientas que no solo digitalizan, sino que potencian el verdadero valor de cada negocio.
@@ -209,16 +215,171 @@ Con una visión centrada en la accesibilidad y la escalabilidad, FLUXA impulsa a
 | **Habilidades** | **Descripción | Carrera** |
 |  |  |
 
+
 ### 1.2. Solution Profile
+La gestión comercial en el sector retail enfrenta desafíos estructurales que se han intensificado en los últimos
+años. Según el informe Retail 2025: Cinco tendencias en América Latina publicado por EYNG, el 2025 marcará un punto de inflexión en la industria, con una acelerada adopción de tecnologías como inteligencia artificial,automatización de procesos y análisis de datos en tiempo real. Sin embargo, la mayoría de los negocios minoristas aún operan con sistemas fragmentados o procesos manuales, lo que genera pérdidas por errores de inventario, baja eficiencia operativa y una experiencia de cliente poco competitiva frente a los grandes actores del mercado.
+En este contexto, la falta de visibilidad del stock, la lentitud en el proceso de ventas, la escasa automatización en compras y la vulnerabilidad de los datos empresariales se han convertido en barreras críticas para el crecimiento. A esto se suma la necesidad de contar con herramientas de análisis que permitan tomar decisiones basadas en datos, algo que sigue siendo inaccesible para muchos negocios por el alto costo o la complejidad de las soluciones disponibles.
+Frente a esta problemática, surge WARISMART, un sistema integral diseñado para transformar la operación diaria del retail mediante tecnología accesible, eficiente y segura. WARISMART no solo digitaliza los procesos clave de gestión comercial, sino que los integra en una plataforma modular que se adapta tanto a pequeñas tiendas como a grandes cadenas.
+
+Módulos principales:
+
+* Gestión de Inventarios: Control preciso y en tiempo real del stock, con alertas inteligentes que minimizan pérdidas y maximizan la disponibilidad de productos.<br><br>
+* Gestión de Ventas (POS): Punto de venta ágil, confiable y conectado al inventario, que acelera el proceso de compra y mejora la experiencia del cliente.<br><br>
+* Gestión de Proveedores y Compras: Automatización de órdenes de compra, seguimiento de entregas y fortalecimiento de relaciones estratégicas con proveedores.<br><br>
+* Reportes y Análisis: Paneles visuales y reportes detallados que permiten decisiones inteligentes basadas en datos operativos y comerciales.<br><br>
+* Seguridad: Sistema robusto de gestión de usuarios, roles y protección de datos en la nube, que garantiza la continuidad del negocio ante cualquier eventualidad.
+
+WARISMART redefine la gestión comercial en el retail al ofrecer una solución tecnológica de última generación que combina simplicidad operativa con inteligencia estratégica. Su enfoque modular permite escalar según las necesidades del negocio, mientras que su arquitectura segura y su interfaz intuitiva democratizan el acceso a herramientas que antes solo estaban disponibles para grandes corporaciones.
+Con WARISMART, los negocios no solo optimizan sus procesos internos, sino que ganan competitividad en un mercado cada vez más exigente. La plataforma impulsa la eficiencia operativa, reduce costos innecesarios y habilita una toma de decisiones más rápida y precisa, convirtiéndose en un aliado clave para el crecimiento sostenible del retail moderno.
+
   #### 1.2.1. Antecedentes y problemática
+
+Aplicamos la técnica de 5W y 2H, para esclarecer las necesidades en los usuarios.
+* What? (¿Qué?)
+El problema central es la baja eficiencia operativa en negocios retail, causada por procesos manuales, sistemas fragmentados y falta de visibilidad en tiempo real. WARISMART es una plataforma integral que digitaliza y conecta los procesos clave del comercio minorista: inventarios, ventas, compras, reportes y seguridad.
+ Su método se basa en automatización modular, analítica integrada y gestión segura de datos, permitiendo decisiones inteligentes, reducción de pérdidas y mejora en la experiencia del cliente.
+* Who? (¿Quién?)
+Los usuarios principales son administradores de tiendas, vendedores, encargados de compras y analistas comerciales. El cliente objetivo incluye desde pequeñas tiendas independientes hasta cadenas comerciales que buscan escalar su operación con tecnología accesible.
+El proyecto está liderado por el equipo desarrollador de FLUXA, con potenciales alianzas con gremios de comercio, cámaras de retail, proveedores tecnológicos y entidades financieras que promuevan la digitalización.
+* Where? (¿Dónde?)
+WARISMART se utiliza directamente en el punto de venta, oficinas administrativas y desde dispositivos móviles. Está diseñado para operar en entornos urbanos y semiurbanos, donde el comercio minorista representa una fuente clave de empleo.
+La plataforma se conecta a través de la nube, permitiendo acceso desde cualquier ubicación con conexión a internet.
+* When? (¿Cuándo?)
+El sistema se utiliza de forma continua durante la operación diaria del negocio: apertura de tienda, gestión de stock, atención al cliente, compras y cierre contable.
+ Su adopción se acelera en momentos de expansión comercial, auditorías internas o necesidad de control financiero.
+ WARISMART está pensado como una herramienta permanente, escalable y adaptable.
+* Why? (¿Por qué?)
+WARISMART nace como respuesta a la brecha tecnológica que afecta al sector retail, donde muchas soluciones existentes son costosas, complejas o poco adaptadas a la realidad local.
+Los usuarios adoptan WARISMART por su facilidad de uso, enfoque modular y capacidad para integrar procesos críticos en una sola plataforma.
+* How? (¿Cómo?)
+Los usuarios acceden a WARISMART desde navegadores web o apps móviles, con interfaces intuitivas y flujos simplificados. El sistema se implementa por módulos, permitiendo adopción progresiva.
+La capacitación se realiza mediante tutoriales interactivos, soporte técnico y documentación visual.
+* How much? (¿Cuánto?)
+WARISMART se lanza bajo un modelo SaaS (Software as a Service), con planes escalables según el tamaño del negocio. El MVP inicial puede ofrecer una versión gratuita limitada, con opciones de suscripción mensual para módulos avanzados.
+La inversión contempla desarrollo, infraestructura cloud, seguridad y soporte.
+
   #### 1.2.2. Lean UX Process
+**Domain**
+Retail minorista en Perú, especialmente negocios independientes y pequeñas cadenas que operan con procesos manuales, sistemas fragmentados o sin herramientas digitales integradas.
+
+**Customer Segments**
+* Segmento 1: El Emprendedor Independiente
+  * Bodegas, licorerías, tiendas de mascotas, ferreterías, librerías.
+  * Negocios con alta rotación de productos, atención directa al cliente y gestión operativa limitada.
+
+* Segmento 2: La Pequeña Cadena en Expansión
+  * Panaderías, ópticas, juguerías, zapaterías, minimarkets locales.
+  * Negocios que han crecido orgánicamente, pero enfrentan desafíos de control, escalabilidad y trazabilidad.
+
+**Pain Points**
+• Inventario desactualizado o sin control.
+• Ventas sin conexión al stock.
+• Órdenes de compra sin trazabilidad.
+• Reportes inexistentes o manuales.
+• Vulnerabilidad en la gestión de usuarios y datos.
+
+**Gap**
+Las soluciones existentes son costosas, complejas o diseñadas para grandes empresas. WARISMART cubre el vacío con una solución modular, accesible y adaptada a la realidad de negocios pequeños y en expansión.
+
+**Visión / Strategy**
+Convertir a WARISMART en el sistema operativo del retail independiente:
+• Modular, escalable y fácil de usar.
+• Basado en datos, con analítica integrada.
+• Accesible desde cualquier dispositivo.
+• Seguro, confiable y adaptable a cada tipo de negocio.
+
+**Initial Segment**
+Negocios con entre 1 y 5 locales, que aún operan con Excel, cuadernos físicos o sistemas locales no conectados. Buscan eficiencia, control y crecimiento sin perder simplicidad
+
   ##### 1.2.2.1. Lean UX Problem Statements
+###### Problem Statement 1 – Control de Inventario
+Los negocios retail, especialmente los pequeños comercios, enfrentan pérdidas por quiebres de stock o exceso de inventario debido a la falta de visibilidad en tiempo real y herramientas de control eficientes.
+WARISMART busca ofrecer una solución confiable, accesible y fácil de usar que permita gestionar inventarios con precisión.
+¿Cómo podemos diseñar un sistema de control de inventario en tiempo real que sea intuitivo y adaptable para emprendedores con poca experiencia tecnológica, y que les ayude a reducir pérdidas y mejorar la disponibilidad de productos?<br><br>
+###### Problem Statement 2 – Reportes para la toma de decisiones
+Muchos negocios minoristas carecen de reportes claros, visuales y accesibles que les permitan tomar decisiones rápidas y estratégicas.
+WARISMART debe facilitar el acceso a información clave sin requerir conocimientos técnicos avanzados.
+¿Cómo podemos mejorar la generación de reportes analíticos en tiempo real para que nuestros usuarios puedan tomar decisiones más inteligentes, oportunas y basadas en datos confiables?<br><br>
+###### Problem Statement 3 – Integración de procesos
+La falta de integración entre ventas, compras e inventarios genera duplicidad de tareas, errores humanos y pérdida de tiempo en negocios retail. WARISMART debe ofrecer una experiencia fluida y conectada entre módulos.
+¿Cómo podemos integrar de manera eficiente los módulos de ventas, compras e inventarios para reducir errores operativos, automatizar tareas repetitivas y aumentar la productividad de nuestros usuarios?<br><br>
+###### Problem Statement 4 – Usabilidad para pequeños comerciantes
+Las plataformas existentes suelen ser complejas, costosas o poco intuitivas, lo que dificulta su adopción por parte de pequeños comerciantes con baja alfabetización digital.
+WARISMART debe ser una solución inclusiva, simple y funcional desde el primer uso.
+¿Cómo podemos optimizar la usabilidad de WARISMART para que incluso los pequeños comerciantes sin experiencia tecnológica puedan adoptar fácilmente la solución y aprovechar sus beneficios desde el primer día?
+
   ##### 1.2.2.2. Lean UX Assumptions
+* Los usuarios necesitan una plataforma que les permita gestionar inventarios, ventas y compras de forma integrada y en tiempo real.
+* Los usuarios valoran funcionalidades como control de stock automatizado, reportes visuales, trazabilidad entre módulos y seguridad en la nube.
+* La falta de experiencia tecnológica puede ser una barrera para la adopción inicial, especialmente en negocios pequeños.
+* WARISMART será utilizado principalmente por emprendedores urbanos que operan uno o varios locales físicos.
+* Las alianzas con gremios de comercio, cámaras de retail y proveedores tecnológicos serán clave para generar confianza y acelerar la adopción.
+* Una experiencia de usuario fluida, con flujos simples y pantallas intuitivas, aumentará la retención y el uso continuo del sistema.
+* Las demostraciones visuales, testimonios de usuarios y pilotos gratuitos ayudarán a generar credibilidad sobre el valor del producto.
+* El diseño debe ser accesible incluso para usuarios con baja alfabetización digital o sin experiencia previa en software empresarial.
+* Los usuarios valoran tener acceso móvil para gestionar su negocio desde cualquier lugar, especialmente en operaciones de campo.
+* Los usuarios están dispuestos a pagar por funciones premium si perciben que WARISMART les ayuda a ahorrar tiempo, reducir errores y aumentar sus ingresos.
+
   ##### 1.2.2.3. Lean UX Hypothesis Statements
+* Creemos que el módulo de control de inventario en tiempo real para emprendedores con un solo local dará como resultado una reducción significativa en quiebres de stock. Sabremos que estamos en lo correcto cuando veamos una disminución del 30% en reportes de productos agotados sin reposición.
+* Creemos que los reportes visuales automáticos para dueños de pequeñas cadenas darán como resultado una toma de decisiones más rápida y estratégica. Sabremos que estamos en lo correcto cuando al menos el 40% de los usuarios consulten reportes al menos 3 veces por semana.
+* Creemos que la integración entre ventas, compras e inventarios en una sola plataforma dará como resultado una reducción en errores operativos y duplicidad de tareas. Sabremos que estamos en lo correcto cuando veamos una disminución del 50% en tickets de soporte relacionados a inconsistencias entre módulos.
+* Creemos que una interfaz simplificada para usuarios sin experiencia tecnológica dará como resultado una adopción más rápida en negocios pequeños. Sabremos que estamos en lo correcto cuando veamos una reducción del 40% en tickets de soporte relacionados a navegación y uso.
+* Creemos que ofrecer acceso móvil para gestionar el negocio desde cualquier lugar dará como resultado mayor flexibilidad operativa. Sabremos que estamos en lo correcto cuando al menos el 60% de los usuarios accedan al sistema desde dispositivos móviles al menos una vez al día.
+* Creemos que las alianzas con gremios de comercio y proveedores tecnológicos darán como resultado mayor credibilidad y adopción del sistema. Sabremos que estamos en lo correcto cuando veamos un incremento del 50% en registros provenientes de campañas co-branding.
+* Creemos que ofrecer una versión premium con funcionalidades avanzadas como analítica predictiva y gestión multi-local dará como resultado una mayor percepción de valor. Sabremos que estamos en lo correcto cuando al menos el 25% de los usuarios migren a la versión premium en los primeros 3 meses.
+
   ##### 1.2.2.4. Lean UX Canvas
-### 1.3. Segmentos objetivos
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-1-introduccion/capunoimagenes/LEANUXCANVAS.jpg?raw=true"/>
+</p>
+
+### 1.3. Segmentos objetivos<br>
+WARISMART está dirigido principalmente a emprendedores independientes con un solo local comercial y a pequeñas cadenas en expansión que operan entre 2 y 5 locales. Ambos grupos enfrentan desafíos operativos como el control de inventario, la integración de ventas y compras, y la falta de herramientas analíticas accesibles. WARISMART les ofrece una plataforma modular, intuitiva y segura que les permite digitalizar su operación, tomar decisiones basadas en datos y escalar su negocio sin perder control.
+
+###### 1. Emprendedores Independientes con 1 Local<br><br>
+**Dominio del Problema:** <br><br>
+ Negocios de barrio como bodegas, licorerías, tiendas de mascotas, ferreterías y librerías pequeñas que gestionan su operación de forma manual o con herramientas básicas como Excel o cuadernos físicos. Estos negocios enfrentan pérdidas por errores de inventario, ventas desconectadas del stock y falta de reportes para tomar decisiones.<br><br>
+**Aspectos Geográficos:** <br><br>
+Nacionalidad: Peruana
+Ciudad: Lima (concentración en distritos como Surco, San Juan de Lurigancho, Comas, Ate)
+Zona de Residencia: Urbana y semiurbana<br><br>
+**Aspectos Demográficos:** <br><br>
+Edad: 28 – 55 años
+Género: Masculino y femenino
+Nivel Socioeconómico: Clase media baja (C) y clase media (B)
+Ocupación: Comerciantes independientes, emprendedores familiares<br><br>
+**Aspectos Psicográficos:** <br><br>
+Alta dependencia del negocio como fuente principal de ingresos
+Interés en soluciones simples que no requieran conocimientos técnicos
+Necesidad de controlar el negocio desde el celular o tablet
+Deseo de reducir pérdidas y mejorar la atención al cliente<br><br>
+**Información Estadística:** <br><br>
+ Según el Ministerio de la Producción (2024), el 96% de las microempresas en Perú no utilizan software especializado para gestionar sus operaciones, y el 72% de ellas reporta dificultades para controlar su inventario.<br><br>
+###### 2. Pequeñas Cadenas en Expansión (2 a 5 locales)<br><br>
+**Dominio del Problema:**<br><br>
+ Negocios como panaderías, ópticas, juguerías, zapaterías y minimarkets locales que han crecido orgánicamente y ahora enfrentan desafíos de trazabilidad entre locales, duplicidad de procesos, falta de control centralizado y ausencia de reportes consolidados.<br><br>
+**Aspectos Geográficos:** <br><br>
+Nacionalidad: Peruana
+Ciudad: Lima (con presencia en varios distritos como Miraflores, San Miguel, Los Olivos, La Molina)
+Zona de Residencia: Urbana<br><br>
+**Aspectos Demográficos:** <br><br>
+Edad: 30 – 60 años
+Género: Masculino y femenino
+Nivel Socioeconómico: Clase media (B) y clase media alta (A/B)
+Ocupación: Empresarios locales, gestores operativos, socios comerciales<br><br>
+**Aspectos Psicográficos:** <br><br>
+Interés en escalar el negocio sin perder control operativo
+Necesidad de reportes consolidados entre locales
+Búsqueda de soluciones que integren ventas, compras e inventarios
+Valoración de la seguridad de datos y la trazabilidad<br><br>
+**Información Estadística:** <br><br>
+ Según el Observatorio de la MYPE y el Emprendimiento (2025), solo el 18% de las pequeñas empresas con más de un local en Perú utilizan sistemas integrados para gestionar su operación. El resto opera con herramientas aisladas, lo que genera errores y pérdida de eficiencia.<br><br>
+ 
 
 ---
+
 
 ## Capitulo 2: Requirements Elicitation & Analysis
 ### 2.1. Competidores
