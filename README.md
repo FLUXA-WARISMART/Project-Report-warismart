@@ -42,8 +42,13 @@
 ### Registro de Versiones
 <div align="justify">
   
-|**Versión**|**Fecha**|**Autor**|**Descripción de modificación**|
-| - | - | - | - |
+| Entregable | Versión | Fecha | Autor | Descripción |
+| :---: | ----- | ----- | ----- | ----- |
+| TB1 |  |  | Huamán Cuba, Johan Giovani  Tasayco Almonacid, Rafael Augusto Gutarra Velapatiño, Sebastián Ernesto Nuñez Soto, Andy Arturo Rivas Castillo, Christoper Steven                                 |  |
+| TP1 |  |  | Huamán Cuba, Johan Giovani  Tasayco Almonacid, Rafael Augusto Gutarra Velapatiño, Sebastián Ernesto Nuñez Soto, Andy Arturo Rivas Castillo, Christoper Steven       |  |
+| TB2 |  |  | Huamán Cuba, Johan Giovani  Tasayco Almonacid, Rafael Augusto Gutarra Velapatiño, Sebastián Ernesto Nuñez Soto, Andy Arturo Rivas Castillo, Christoper Steven       |  |
+| TF1 |  |  | Huamán Cuba, Johan Giovani  Tasayco Almonacid, Rafael Augusto Gutarra Velapatiño, Sebastián Ernesto Nuñez Soto, Andy Arturo Rivas Castillo, Christoper Steven       |  |
+
 </div><br><br>
 
 ---
@@ -155,9 +160,20 @@ URL del Repositoria del Project Report: https://github.com/FLUXA-WARISMART/waris
 
 # Student Outcome
  <div aligh="justify">
+El curso contribuye al cumplimiento del Student Outcome ABET:
+
+ABET – EAC – Student Outcome 5
+Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos. 
+
+En el enunciado oficial del trabajo final del curso, se indica explícitamente que SI730 contribuye al logro del ABET – EAC – Student Outcome 5, dentro de un entorno ágil y colaborativo para el desarrollo y despliegue de una solución web distribuida. 
+
+En el siguiente cuadro se describen las acciones realizadas y las conclusiones del grupo, que permiten sustentar el haber alcanzado el ABET – EAC – Student Outcome 5.
+
    
-   |Criterio Específico|Acciones Realizadas|Conclusiones|
-   |-------------------|-------------------|------------|
+| Criterio específico | Acciones realizadas | Conclusiones |
+| ----- | ----- | ----- |
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | *\-Huamán Cuba, Johan Giovani*  **TB1: TP1: TB2: TF1:** *\-Tasayco Almonacid, Rafael Augusto* **TB1: TP1: TB2: TF1:**  *\-Gutarra Velapatiño, Sebastián Ernesto* **TB1: TP1: TB2: TF1:**  *\-Nuñez Soto, Andy Arturo* **TB1: TP1: TB2: TF1:**  *\-Rivas Castillo, Christoper Steven*     **TB1: TP1: TB2: TF1:**  |  |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | *\-Huamán Cuba, Johan Giovani*  **TB1: TP1: TB2: TF1:** *\-Tasayco Almonacid, Rafael Augusto* **TB1: TP1: TB2: TF1:**  *\-Gutarra Velapatiño, Sebastián Ernesto* **TB1: TP1: TB2: TF1:**  *\-Nuñez Soto, Andy Arturo* **TB1: TP1: TB2: TF1:**  *\-Rivas Castillo, Christoper Steven*     **TB1: TP1: TB2: TF1:**   |  |
    
  </div>
 
