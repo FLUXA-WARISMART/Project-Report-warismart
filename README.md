@@ -294,6 +294,16 @@ Publicar testimonios de negocios reales que escalaron con WARISMART, reforzando 
   #### 2.2.3. Análisis de entrevistas
 ### 2.3. Needfinding
   #### 2.3.1. User Personas
+  **Segmento objetivo 1 – Rosa Gutiérrez:**  
+Este perfil se construyó a partir del segmento objetivo de emprendedores independientes, representado por propietarios de bodegas. Busca reflejar a usuarios que manejan negocios pequeños, con bajo nivel tecnológico, cuyas necesidades principales son la simplicidad, el control básico de inventarios y la facilidad de uso.
+
+![rosa](capdosimagenes/rosa.png)
+
+**Segmento objetivo 2 – Carlos Mendoza:**  
+Este perfil se construyó a partir del segmento objetivo de pequeñas cadenas en expansión, representado por administradores de minimarkets con varios locales. Se enfoca en usuarios con mayor conocimiento tecnológico y visión de crecimiento, que requieren un sistema escalable, con funciones de análisis y gestión de tareas.
+
+![carlos](capdosimagenes/carlos.png)
+
   #### 2.3.2  User Task Matrix
   #### 2.3.3. User Journey Mapping
   #### 2.3.4. Empathy Mapping
