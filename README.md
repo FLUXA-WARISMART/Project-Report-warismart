@@ -165,8 +165,51 @@ URL del Repositoria del Project Report:
 
 ## Capitulo 1: Introducción
 ### 1.1. Startup Profile
-  #### 1.1.1. Descripcion del Startup
-  #### 1.1.2. Perfiles de Integrantes del equipo
+#### 1.1.1. Descripcion del Startup
+**FLUXA** es una startup innovadora que busca transformar el mundo del retail mediante soluciones tecnológicas integrales. Nuestro enfoque está en optimizar la gestión comercial de tiendas y cadenas de manera sencilla, eficiente y segura.
+Con una visión centrada en la accesibilidad y la escalabilidad, FLUXA impulsa a los emprendedores y empresas a crecer con tecnología de última generación, brindando herramientas que no solo digitalizan, sino que potencian el verdadero valor de cada negocio.
+#### 1.1.2. Perfiles de Integrantes del equipo
+
+| Nombres | Foto |
+| :---- | :---- |
+| Tasayco Almonacid, Rafael Augusto |  |
+| **Código** |  |
+| U20231F226 |  |
+| **Descripción | Carrera** | **Habilidades** |
+|  |  |
+
+| Foto | Nombres |
+| :---- | :---- |
+|  | Huamán Cuba, Johan Giovani  |
+|  | **Código** |
+|  |  |
+| **Habilidades** | **Descripción | Carrera** |
+|  |  |
+
+| Foto | Nombres |
+| :---- | :---- |
+|  | Gutarra Velapatiño, Sebastián Ernesto |
+|  | **Código** |
+|  |  |
+| **Habilidades** | **Descripción | Carrera** |
+|  |  |
+
+| Nombres | Foto |
+| :---- | :---- |
+| Nuñez Soto, Andy Arturo |  |
+| **Código** |  |
+| u20231e795 |  |
+| **Descripción | Carrera** | **Habilidades** |
+|  |  |
+
+| Foto | Nombres |
+| :---- | :---- |
+|  | Rivas Castillo, Christoper Steven     |
+|  | **Código** |
+|  | u202323551 |
+| **Habilidades** | **Descripción | Carrera** |
+|  |  |
+
 ### 1.2. Solution Profile
   #### 1.2.1. Antecedentes y problemática
   #### 1.2.2. Lean UX Process
