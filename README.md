@@ -329,6 +329,16 @@ Las tareas que más se repiten y que tienen más importancia para los dos segmen
 La diferencia principal está en que Rosa, como dueña de bodega, se concentra en el trabajo diario y en mantener el orden simple de su negocio, mientras que Carlos, al manejar varios locales, necesita además organizar la información de sus tiendas, ver qué productos dejan más ganancia y pensar en cómo hacer crecer su empresa. Aun así, los dos coinciden en que lo más importante es tener control sobre el inventario, los precios y las ventas, aunque lo hagan con distinta profundidad.
 
   #### 2.3.3. User Journey Mapping
+  **Segmento objetivo 1 – Rosa Gutiérrez:**  
+Este User Journey Map se elaboró a partir del segmento objetivo de emprendedores independientes. Busca reflejar el recorrido actual de estos usuarios en la gestión de sus negocios. Se muestran las etapas end-to-end que atraviesan para llevar un control de ventas e inventarios con los recursos disponibles.
+
+![journey-rosa](capdosimagenes/journey-rosa.png)
+
+**Segmento objetivo 2 – Carlos Mendoza:**  
+Este User Journey Map se construyó a partir del segmento objetivo de pequeñas cadenas en expansión. El mapa describe las acciones end-to-end y dificultades que enfrentan actualmente al intentar coordinar sus operaciones entre varias tiendas.
+
+![journey-carlos](capdosimagenes/journey-carlos.png)
+
   #### 2.3.4. Empathy Mapping
   #### 2.3.5. As-is Scenario Mapping
 ### 2.4. Ubiquitous Language   
