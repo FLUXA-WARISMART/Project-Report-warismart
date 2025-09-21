@@ -442,6 +442,7 @@ Esta subsección muestra la evidencia del trabajo de desarrollo completado duran
 | Repository                  | Branch               | Commit Id | Commit Message                      | Committed on | Team Member                |
 |------------------------------|----------------------|-----------|-------------------------------------|--------------|-----------------------------|
 | FLUXA-WARISMART/Landingpage-warismart     | main                 | d6ac7ad58ce16824ea74d8af20d39262d0604e90   | Initial commit                     | 19/09/2025   | Cristopher Rivas              |
+| FLUXA-WARISMART/warismart-informe     | chapter-2-requirements-elicitation        | 8bdd6eee61dc84ba22c3eb4c426a2af8a510a534   | add 2.1.Competidores   | 20/09/2025      | Johan Huamán             |
 | FLUXA-WARISMART/warismart-informe     | chapter-3-specification         | 104f4fe14368ce889b1ffc6e90ead0173d6cbb09   | Update README.md    | 20/09/2025      | Arturo Núñez              |
 | FLUXA-WARISMART/warismart-informe     | chapter-4-product-design        | e99f7ede1f5eaa0799f6e2c2e157ca2ac0f0b7e3 | Update Chapter 4   | 20/09/2025     | Rafael Tasayco               |
 | FLUXA-WARISMART/warismart-informe       | chapter-5-implementation-validation | 7c8c95e60ed87e376f941dc5c5a54a66c3df9d06 | fix: added 5.2.1 Sprint 1 | 20/09/2025  | Sebastián Gutarra           |
