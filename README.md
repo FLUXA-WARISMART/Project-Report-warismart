@@ -448,6 +448,13 @@ Esta subsección muestra la evidencia del trabajo de desarrollo completado duran
 | FLUXA-WARISMART/warismart-informe       | chapter-5-implementation-validation | 7c8c95e60ed87e376f941dc5c5a54a66c3df9d06 | fix: added 5.2.1 Sprint 1 | 20/09/2025  | Sebastián Gutarra           |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review  
+En este punto presentamos la evidencia de ejecución de la Landing Page desarrollada en el Sprint 1.
+![Pantalla de la landong page](https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-5-implementation-validation/capcincoimagenes/landing1.jpg)
+![Pantalla de la landong page](https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-5-implementation-validation/capcincoimagenes/landing2.jpg)
+![Pantalla de la landong page](https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-5-implementation-validation/capcincoimagenes/landing3.jpg)
+![Pantalla de la landong page](https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-5-implementation-validation/capcincoimagenes/landing4.jpg)
+![Pantalla de la landong page](https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-5-implementation-validation/capcincoimagenes/landing5.jpg)
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review  
 
 Durante este Sprint, nos enfocamos exclusivamente en el desarrollo del frontend estático de la Landing Page. En consecuencia, no se implementaron endpoints ni funcionalidades relacionadas con servicios web o APIs RESTful.
