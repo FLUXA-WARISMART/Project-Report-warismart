@@ -305,6 +305,29 @@ Este perfil se construyó a partir del segmento objetivo de pequeñas cadenas en
 ![carlos](capdosimagenes/carlos.png)
 
   #### 2.3.2  User Task Matrix
+  En el siguiente User Task Matrix se presentan las tareas cotidianas que realizan los dos segmentos considerados: emprendedores independientes y pequeñas cadenas en expansión.
+
+| Tarea                                | Rosa – Importancia | Rosa – Frecuencia | Carlos – Importancia | Carlos – Frecuencia |
+|--------------------------------------|------------------|-----------------|--------------------|------------------|
+| Registrar productos que entran al negocio | 🔴               | 🟡              | 🔴                 | 🔴               |
+| Controlar stock disponible            | 🔴               | 🟡              | 🔴                 | 🔴               |
+| Verificar precios de venta            | 🔴               | 🟡              | 🔴                 | 🔴               |
+| Atender ventas y emitir comprobantes  | 🔴               | 🔴              | 🔴                 | 🔴               |
+| Revisar ingresos y gastos diarios     | 🔴               | 🟡              | 🔴                 | 🟡               |
+| Identificar productos más vendidos    | 🟡               | 🟢              | 🔴                 | 🟡               |
+| Organizar pedidos a proveedores       | 🟡               | 🟡              | 🔴                 | 🔴               |
+| Conciliar información de distintos locales | ⬜             | ⬜              | 🔴                 | 🟢               |
+| Planificar crecimiento del negocio    | 🟡               | 🟢              | 🔴                 | 🟡               |
+
+**Leyenda:**  
+- 🔴 = Alta  
+- 🟡 = Media  
+- 🟢 = Baja  
+- ⬜ = N/A  
+
+Las tareas que más se repiten y que tienen más importancia para los dos segmentos son registrar los productos que entran, controlar el stock y atender las ventas con sus comprobantes. Estas actividades son básicas y necesarias para que el negocio funcione bien cada día.  
+La diferencia principal está en que Rosa, como dueña de bodega, se concentra en el trabajo diario y en mantener el orden simple de su negocio, mientras que Carlos, al manejar varios locales, necesita además organizar la información de sus tiendas, ver qué productos dejan más ganancia y pensar en cómo hacer crecer su empresa. Aun así, los dos coinciden en que lo más importante es tener control sobre el inventario, los precios y las ventas, aunque lo hagan con distinta profundidad.
+
   #### 2.3.3. User Journey Mapping
   #### 2.3.4. Empathy Mapping
   #### 2.3.5. As-is Scenario Mapping
