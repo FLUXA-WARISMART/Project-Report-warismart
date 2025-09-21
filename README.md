@@ -1244,18 +1244,238 @@ Link del Figma:<br><br>
 
   ## Capítulo 5: Product Implementation, Validation & Deployment
 ### 5.1. Software Configuration Management
+En esta sección se abordarán los diferentes aspectos relacionados con la configuración de las herramientas necesarias para el desarrollo del proyecto, desde la creación de la Landing Page hasta el producto final que incluye el backend. También se explicarán las herramientas empleadas para el diseño UX/UI, convenciones de estilo, configuración de despliegue y más.
+
   #### 5.1.1. Software Development Environment Configuration  
+**Herramientas utilizadas**
+- Figma: Plataforma de diseño colaborativo utilizada para crear interfaces de usuario (UI) y prototipos interactivos. Para el desarrollo de la aplicación web se utilizó para hacer el Mock-up, wireframes y el modelo final.
+- UXPressia: Herramienta para crear mapas de experiencia del usuario, como user-personas, customer journey maps y impact maps.
+- Visual Studio Code: Editor de código fuente ligero y extensible, ideal para programar en múltiples lenguajes. Se utilizó para modificar el README.md.
+- Git: Sistema de control de versiones que permite gestionar y registrar cambios en el código fuente de un proyecto.
+- Github: Plataforma basada en Git para alojar repositorios de código y colaborar con otros desarrolladores. Se utilizó para agilizar nuestros avances en el README.md y para tener todo más organizado.
+- MySQL: Sistema de gestión de bases de datos relacional, utilizado para almacenar, consultar y administrar datos. Se utilizó para la creación de la base de datos y su diagrama.
+- PlantUML: Herramienta online para modelado UML que facilita la creación de diagramas de clases, casos de uso, secuencia, entre otros. Se utilizó para realizar el modelo del diagrama de clases.
+- WhatsApp: Aplicación de mensajería instantánea, útil para la comunicación rápida en equipos de trabajo.
+- Markdown: Lenguaje de marcado ligero usado para dar formato a texto plano, comúnmente en documentación técnica y README de repositorios, con este lenguaje se realizó el documento.
+
   #### 5.1.2. Source Code Management  
-  #### 5.1.3. Source Code Style Guide & Conventions  
+Para la gestión de código, realizamos nuestros avances en una plataforma que sea posible de rastrear y fácil de manejar como lo sería GitHub. Asimismo, se usó Git para tener facilidad editar nuestros documentos. A continuación los repositorios utilizados para este sprint:
+
+- Organizacion: [https://github.com/FLUXA-WARISMART](https://github.com/FLUXA-WARISMART) 
+- Reporte: [https://github.com/FLUXA-WARISMART/warismart-informe](https://github.com/FLUXA-WARISMART/warismart-informe) 
+- Landing page: https://github.com/FLUXA-WARISMART/Landingpage-Warismart 
+
+**GitFlow**
+
+GitFlow es una metodología de trabajo que organiza el desarrollo a través de ramas principales y ramas auxiliares. Optamos por emplear este modelo porque facilita mantener el código limpio y estructurado, permitiéndonos trabajar en equipo de forma más eficiente. Su fortaleza radica en la variedad de tipos de ramas que ofrece, cada una con un propósito específico:
+
+Ramas Principales:
+
+- Main: Es la rama base del proyecto de la cual se derivan todas las demás. Contiene el código estable y listo para ser puesto en producción. Cada actualización en esta rama representa una nueva versión del proyecto.
+- Develope: Se deriva de la rama Main y sirve como la rama de integración donde se combinan las nuevas funcionalidades desarrolladas. El código que esté listo en esta rama se transferirá posteriormente a Main para generar una nueva versión (release) del proyecto.
+
+Ramas de Apoyo:
+
+- Feature: Son ramas que nacen a partir de Develope, creadas para trabajar en funciones específicas del proyecto. Se generan tantas ramas Feature como funcionalidades existan. Al completar su desarrollo, deben integrarse nuevamente en Develope y ser eliminadas. La nomenclatura que se utiliza para nombrarlas sigue un formato específico, por ejemplo tenemos la rama feature/landing-inicial.
+
+**Conventional Commits**
+
+Se trata de un conjunto de normas para estructurar nuestros mensajes de commit, facilitando un historial de cambios claro y fácil de entender para todo el equipo.
+- type: Define el tipo de cambio realizado:
+    + feat: para nuevas funcionalidades.
+    + docs: para cambios en la documentación.
+    + fix: para correcciones de errores.
+    + chore: para tareas menores que no afectan el código fuente.
+    + refactor: para reestructuración interna sin alterar el comportamiento del proyecto.
+    + build: para cambios en el sistema de construcción o en dependencias externas.
+    + perf: para mejoras en el rendimiento.
+
+- scope (opcional): Especifica el área o módulo afectado por el cambio.
+- description (obligatorio): Breve explicación en minúsculas y en modo imperativo sobre lo que se modificó.
+- body (opcional): Detalla información adicional sobre el cambio.
+- footer (opcional): Se utiliza para indicar información relevante sobre cambios importantes o advertencias.
+
+  #### 5.1.3. Source Code Style Guide & Conventions
+Entre las convenciones estándar para el código de este proyecto hemos decidido utilizar el estilo kebab-case. El kebab-case es un estilo de escritura donde las palabras se separan con guiones (-) y todas las letras están en minúsculas. Este estilo se usa comúnmente en nombres de archivos, rutas web y clases CSS. Se decidió por el uso en este proyecto debido a la legibilidad y facilidad para entender, favorece la consistencia en proyectos colaborativos y es una convencion muy popular.
+
+**HTML, CSS y JS**
+
+Durante el uso de los lenguajes primarios en el desarrollo de nuestra solucion, se utilizaron las siguientes buenas practicas:
+
+**HTML**
+
+- Estructura semántica clara con etiquetas: header, nav, section, footer, lo cual mejora la accesibilidad y el posicionamiento en buscadores.
+- Clases descriptivas: hero-blue, trust-list, stats-grid, testimonial-grid, que indican propósito visual/funcional más que detalles técnicos
+- Uso de imágenes ilustrativas (imagenretailuno.jpg, imagenhuellaretail.jpg, etc.) para reforzar la narrativa visual.
+
+**CSS**
+
+- **Uso de Shorthand:** Escribe propiedades combinadas en una sola línea para mayor eficiencia.
+```css
+padding: 0 1em 2em;
+border-top: 0;
+font: 100%/1.6 palatino, georgia, serif;
+```
+
+- **Uso de comillas:** Utilizar **comillas simples** en CSS.
+```css
+html {
+  font-family: 'open sans', arial, sans-serif;
+}
+```
+
+**JS**
+
+Para este código se está usando principalmente camelCase, como por ejemplo statsSection, countersActivated, animateCounter, validateEmail, validatePassword. A excepción de algunos IDs en HTML en el código javascript los cuales usan kebab-case: 'reg-nombre', 'reg-apellido', 'reg-fechaNacimiento'.
+
+**Gherkin: Buenas prácticas**
+
+Gherkin es el lenguaje que usaremos para definir nuestros escenarios de prueba de forma clara y estructurada. En este se usan bloques Given-When-Then, en el presente trabajos los hemos trabajado en español Dado que-Cuando-Entonces
+```gherkin
+Scenario 1: registro exitoso de un producto
+Dado que el bodeguero accede al formulario de registro de productos
+Cuando ingresa un código válido, nombre y categoría obligatoria
+Entonces el sistema guarda el producto en la base de datos
+Y el sistema mue-stra un mensaje de confirmación “Producto registrado con éxito”.
+```
+
   #### 5.1.4. Software Deployment Configuration
 ### 5.2. Landing Page, Services & Applications Implementation
+
 ### 5.2.1. Sprint 1
-#### 5.2.1.1. Sprint Planning 1  
-#### 5.2.1.2. Aspect Leaders and Collaborators  
+Esta sección ofrece una visión general del primer sprint, incluyendo planificación, ejecución y actividades de revisión.
+
+#### 5.2.1.1. Sprint Planning 1
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>Sprint #</strong></td>
+      <td>Sprint 1</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Sprint Planning Background</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Date</strong></td>
+      <td>2025-09-18</td>
+    </tr>
+    <tr>
+      <td><strong>Time</strong></td>
+      <td>6:50 PM</td>
+    </tr>
+    <tr>
+      <td><strong>Location</strong></td>
+      <td>Remote via the GitHub platform</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Prepared by</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Attendees (for the planning meeting)</strong></td>
+      <td>All Warismart team members</td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 0 Review Summary</strong></td>
+      <td>As this is the first development sprint, no sprint review has been completed yet.</td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 0 Retrospective Summary</strong></td>
+      <td>As this is the first development sprint, no sprint retrospective has been completed yet.</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 1 Goal</strong></td>
+      <td>Our main focus for this sprint is to build the landing page for Warismart. This page is crucial for engaging potential users, showcasing the platform's value, and increasing sign-ups. We aim to track user interaction with the page to measure the success of this initiative.</td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 1 Velocity</strong></td>
+      <td>12</td>
+    </tr>
+    <tr>
+      <td><strong>Sum of Story Points</strong></td>
+      <td>26</td>
+    </tr>
+  </tbody>
+</table>
+
+
+#### 5.2.1.2. Aspect Leaders and Collaborators
+<table>
+  <tbody>
+    <tr>
+      <td><strong>Team Member (Last Name, First Name)</strong></td>
+      <td><strong>GitHub Username</strong></td>
+      <td><strong>Landing Page</strong></td>
+    </tr>
+    <tr>
+      <td>Rivas Castillo, Christoper Steven</td>
+      <td>CODERT0PH</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Gutarra Velapatiño, Sebastian</td>
+      <td>SebastianGutarra</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Nuñez Soto, Andy Arturo</td>
+      <td>arturo-ns</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Huamán Cuba, Johan Giovani </td>
+      <td>Johancuba</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Tasayco Almonacid, Rafael Augusto</td>
+      <td>Rfaleltsy</td>
+      <td>C</td>
+    </tr>
+  </tbody>
+</table>
+
 #### 5.2.1.3. Sprint Backlog 1  
+
+Para el primer sprint, desarrollamos la estructura, el aspecto visual y las funcionalidades básicas de la landing page.
+
+| **Sprint #**   | Sprint 1                                |                    |                                                                       |                                                                           |                      |                  |            |
+| -------------- | --------------------------------------- | ------------------ | --------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------------------- | ---------------- | ---------- |
+| **User Story** |                                         | **Work-Item/task** |                                                                       |                                                                           |                      |                  |            |
+| **ID**         | **Título**                              | **ID**             | **Título**                                                            | **Descripción**                                                           | **Estimación (hrs)** | **Assigned to**  | **Status** |
+| HU-31          | Información general de la aplicación                  | T01                | Mostrar información general para que los usuarios puedan conocer sobre nuestro servicio.            | Como visitante, quiero ver en la página de inicio información clara de la aplicación, para entender sus beneficios rápidamente.    | 1.5                    | Cristopher Rivas | Done       |
+| HU-32          | Testimonios de clientes     | T02                | Crear una sección para poder leer y conocer experiencias de usuarios de la aplicación. |Como visitante, quiero leer testimonios de otros bodegueros que digitalizaron su negocio, para confiar en la plataforma.   | 1.5                  | Arturo Núñez       | Done       |
+| HU-33          | Comparación de clases | T03                | Organizar la información de nuestros planes en un cuadro                   | Como visitante, quiero ver los planes y precios disponibles, para elegir el que mejor se adapte a mi negocio.  | 1                    | Sebastián Gutarra | Done       |
+| HU-34          | Sección de contacto          | T04                | Crear una sección en donde los usuarios puedan resolver dudas o pedir atención personalizadad.     | Como visitante, quiero tener acceso a un formulario de contacto, para resolver dudas o solicitar más información.         | 1                    | Johan Huamán       | Done       |
+| HU-35          | Registro rápido            | T05                |  Crear un botón y una pantalla donde el usuario puedda registrarse y/o iniciar sesión    | Como visitante, quiero poder registrarme desde la landing page, para comenzar a usar la aplicación sin complicaciones.       | 1                 | Rafael Tasayco | Done       |
+
+
 #### 5.2.1.4. Development Evidence for Sprint Review  
+
+Esta subsección muestra la evidencia del trabajo de desarrollo completado durante el Sprint 1 para fines de revisión.
+| Repository                  | Branch               | Commit Id | Commit Message                      | Committed on | Team Member                |
+|------------------------------|----------------------|-----------|-------------------------------------|--------------|-----------------------------|
+| FLUXA-WARISMART/Landingpage-warismart     | main                 | d6ac7ad58ce16824ea74d8af20d39262d0604e90   | Initial commit                     | 19/09/2025   | Cristopher Rivas              |
+| FLUXA-WARISMART/warismart-informe     | chapter-2-requirements-elicitation        | 8bdd6eee61dc84ba22c3eb4c426a2af8a510a534   | add 2.1.Competidores   | 20/09/2025      | Johan Huamán             |
+| FLUXA-WARISMART/warismart-informe     | chapter-3-specification         | 104f4fe14368ce889b1ffc6e90ead0173d6cbb09   | Update README.md    | 20/09/2025      | Arturo Núñez              |
+| FLUXA-WARISMART/warismart-informe     | chapter-4-product-design        | e99f7ede1f5eaa0799f6e2c2e157ca2ac0f0b7e3 | Update Chapter 4   | 20/09/2025     | Rafael Tasayco               |
+| FLUXA-WARISMART/warismart-informe       | chapter-5-implementation-validation | 7c8c95e60ed87e376f941dc5c5a54a66c3df9d06 | fix: added 5.2.1 Sprint 1 | 20/09/2025  | Sebastián Gutarra           |
+
 #### 5.2.1.5. Execution Evidence for Sprint Review  
+En este punto presentamos la evidencia de ejecución de la Landing Page desarrollada en el Sprint 1.
+![Pantalla de la landong page](https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-5-implementation-validation/capcincoimagenes/landing1.jpg)
+![Pantalla de la landong page](https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-5-implementation-validation/capcincoimagenes/landing2.jpg)
+![Pantalla de la landong page](https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-5-implementation-validation/capcincoimagenes/landing3.jpg)
+![Pantalla de la landong page](https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-5-implementation-validation/capcincoimagenes/landing4.jpg)
+![Pantalla de la landong page](https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-5-implementation-validation/capcincoimagenes/landing5.jpg)
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review  
+
+Durante este Sprint, nos enfocamos exclusivamente en el desarrollo del frontend estático de la Landing Page. En consecuencia, no se implementaron endpoints ni funcionalidades relacionadas con servicios web o APIs RESTful.
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review  
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
