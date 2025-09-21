@@ -509,15 +509,26 @@ Se incluyen accesos directos a las funciones principales, con el fin de optimiza
 El sitio web prioriza mostrar únicamente la información esencial y relevante para el usuario, evitando el exceso de contenido que pueda dificultar la claridad o afectar la experiencia de navegación.
 
   #### 4.3.1. Landing Page Wireframe  
-  En el diseño de nuestra landing combinamos los patrones de lectura **Z y F** para guiar la atención del usuario de forma efectiva.
+En esta seccion se mostrara los diferrentes wireframes desarrollados en software de figma para el landing page, en el diseño de nuestra landing combinamos los patrones de lectura **Z y F** para guiar la atención del usuario de forma efectiva.
 
-- En el **encabezado y la sección principal** aplicamos el patrón **Z**, destacando primero la identidad de la marca y facilitando el acceso rápido al menú y al botón de registro.  
+- En el **encabezado y la sección principal** aplicamos el patrón **Z**, destacando primero la identidad de la marca y facilitando el acceso rápido al menú y al botón de registro.
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/LANDING1.jpg?raw=true"/>
+</p> 
 
-- En las secciones de **contenido detallado** (listas, descripciones, estadísticas), usamos el patrón **F**, que favorece una lectura natural de arriba hacia abajo y de izquierda a derecha.  
+- En las secciones de **contenido detallado** (listas, descripciones, estadísticas), usamos el patrón **F**, que favorece una lectura natural de arriba hacia abajo y de izquierda a derecha.
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/LANDING2.jpg?raw=true"/>
+</p> 
 
 - Para apartados como **aliados, blogs y opiniones**, incorporamos un diseño en cuadrícula, que permite un escaneo visual rápido y atractivo.  
-
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/LANDING3.jpg?raw=true"/>
+</p> 
 - Finalmente, el **footer** mantiene la lógica del patrón F, asegurando que la información clave como contacto y enlaces esté siempre visible y organizada.  
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/LANDING4.jpg?raw=true"/>
+</p> 
 
 El resultado es una experiencia visual coherente que facilita tanto la exploración inicial como la lectura en profundidad de cada sección.
 
