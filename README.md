@@ -321,6 +321,53 @@ Con este propósito, realizamos entrevistas en profundidad que nos permitieron d
 
    
   #### 2.2.1. Diseño de entrevistas
+  Con el fin de comprender a profundidad a nuestros usuarios potenciales de WARISMART, realizamos entrevistas estructuradas a comerciantes independientes y gestores de pequeñas cadenas que operan en zonas urbanas de Lima con alta actividad comercial.  
+
+Para ello, planteamos una serie de preguntas que nos permitieron mapear:  
+
+#### Segmento 1: Emprendedor Independiente  
+
+| **Perfil** | **Descripción** |
+|------------|-----------------|
+| **Dueños de negocios** | Un solo local: bodegas, licorerías, tiendas de mascotas, ferreterías o librerías pequeñas. |
+| **Edad** | 28–55 años |
+| **Zona** | Urbana o semiurbana |
+| **Nivel tecnológico** | Bajo a medio |
+| **Motivación** | Control, ahorro de tiempo, evitar pérdidas. |
+| **Contexto** | Estos emprendedores suelen operar con herramientas manuales (cuadernos, Excel) y enfrentan dificultades para controlar el inventario, registrar ventas, calcular ganancias y delegar tareas. La adopción tecnológica está condicionada por la simplicidad, el costo y la confianza. |
+
+#### Preguntas de la Entrevista – Segmento 1  
+
+| **Preguntas para Perfil** |
+|--------------------------|
+| ¿Podría decirnos su nombre y apellido, por favor? xd <br> ¿Cuántos años tiene? <br> ¿En qué distrito vive actualmente? <br> ¿Cómo empezó su negocio? ¿Qué lo motivó a abrirlo? <br> ¿Qué producto o servicio es el que más le gusta vender y que sus clientes saben que aquí lo encuentran siempre? |
+
+| **Preguntas Específicas** |
+|----------------------------|
+| **Inventario (Falta de stock):** ¿Recuerda la última vez que un cliente vino a buscar algo y ya no lo tenía? ¿Qué hizo en ese momento? <br> **Compras (Control del dinero):** ¿Cómo decide cuándo y cuánto comprar? ¿Lo apunta, lo lleva en la cabeza? <br> **Ventas (Hora punta):** En los momentos de más clientes, ¿qué parte le complica más: cobrar, dar vuelto, anotar las ventas? <br> **Cuentas (Saber si gana):** Al final del mes, ¿cómo sabe cuánto realmente le queda de ganancia? <br> **Tecnología:** ¿Ha probado usar alguna app, Excel o sistema para llevar cuentas o inventario? ¿Cómo fue esa experiencia? <br> **Seguridad:** Cuando deja encargado a alguien, ¿qué es lo que más le preocupa: la caja, el inventario, otra cosa? <br> **Crecimiento:** Si pudiera abrir otra tienda, ¿qué sería lo más difícil de manejar con su forma de trabajar actual? <br> **Precio (Cuánto pagaría):** Si un sistema le ayudara a no perder ventas y ahorrar tiempo, ¿cuánto sentiría justo pagar? <br> **Consejos:** Cuando tiene una duda de negocio, ¿a quién consulta: otros dueños, familia, Google, grupos de Facebook? <br> **Solución ideal:** Si tuviera una app para su negocio, ¿qué tres botones sí o sí deberían estar en la pantalla principal? |
+
+#### Segmento 2: Pequeña Cadena en Expansión  
+
+| **Perfil** | **Descripción** |
+|------------|-----------------|
+| **Dueños de negocios** | 2 a 5 locales: panaderías, ópticas, juguerías, zapaterías o minimarkets locales. |
+| **Edad** | 30–60 años |
+| **Zona** | Urbana |
+| **Nivel tecnológico** | Medio |
+| **Motivación** | Escalabilidad, control centralizado, eficiencia operativa. |
+| **Contexto** | Estos empresarios enfrentan retos de trazabilidad entre locales, estandarización de precios, delegación de tareas y análisis de rentabilidad. Usan herramientas fragmentadas y necesitan soluciones que integren todo en una sola plataforma. |
+
+#### Preguntas de la Entrevista – Segmento 2  
+
+| **Preguntas para Perfil** |
+|--------------------------|
+| ¿Podría decirnos su nombre y apellido, por favor? <br> ¿Cuántos años tiene? <br> ¿En qué distrito vive actualmente? <br> ¿Cómo decidió abrir su segundo local? ¿Qué cambió desde entonces? <br> ¿Quiere seguir abriendo más locales o prefiere mejorar los que ya tiene? ¿Qué es lo más difícil de lograr? |
+
+| **Preguntas Específicas** |
+|----------------------------|
+| **Inventario (Consistencia):** ¿Cómo hace para que un producto esté disponible en todos sus locales? ¿Qué pasa cuando un cliente no lo encuentra? <br> **Compras (Eficiencia):** ¿Cada tienda compra por su cuenta o todo se compra centralizado? ¿Qué parte se complica más? <br> **Ventas (Estándar):** ¿Cómo se asegura de que los precios y promociones sean iguales en todos los locales? <br> **Indicadores:** ¿Qué números mira para saber qué tienda vende más o cuál es más rentable? <br> **Tecnología (Fragmentación):** ¿Qué sistemas usa ahora? ¿Se conectan entre sí o tiene que pasar información manual? <br> **Seguridad (Delegar):** ¿Qué permisos da a sus empleados en el sistema? ¿Qué le preocupa cuando no puede estar en todas partes? <br> **Crecimiento (Lo que se rompe):** ¿Qué proceso se volvió más complicado cuando pasó de 1 a 2 locales? <br> **Presupuesto (ROI):** Si un sistema central le ayudara a aumentar la rentabilidad un 5%, ¿cuánto invertiría al mes? <br> **Consejos:** ¿Dónde busca información para mejorar su gestión? ¿Conoce a otros empresarios que ya usan software de este tipo? <br> **Solución ideal:** Si tuviera un panel central en su tablet o laptop, ¿qué 3 o 4 números necesita ver cada mañana para sentir que tiene el control? |
+
+
   #### 2.2.2. Registro de entrevistas
   #### 2.2.3. Análisis de entrevistas
 ### 2.3. Needfinding
