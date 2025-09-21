@@ -1642,11 +1642,52 @@ Durante este Sprint, nos enfocamos exclusivamente en el desarrollo del frontend 
  ---
  
 ## Conclusiones
+bibliografia
+* Validación del problema y pertinencia de la solución.
+La investigación (entrevistas y análisis de competencia) confirma que los comerciantes minoristas enfrentan problemas reales: falta de visibilidad de stock, procesos manuales y ausencia de herramientas accesibles de análisis. WARISMART responde a estas necesidades mediante una propuesta modular que integra inventario, POS y reportes.
+
+* Progreso satisfactorio del Sprint 1 (Landing Page).
+El equipo logró construir y documentar la Landing Page inicial, con mockups en Figma, estructura visual acorde al style guide y material de soporte (capturas y commits). Esto provee una base sólida para pruebas de usabilidad y primeras validaciones con usuarios.
+
+* Evidencia de colaboración y uso de buenas prácticas.
+El repositorio de GitHub y los commits registrados demuestran participación distribuida del equipo y aplicación de GitFlow y Conventional Commits, satisfaciendo los requisitos de trazabilidad exigidos por la rúbrica del curso.
+
+* Artefactos de UX listos para iterar.
+Se generaron las fichas de User Personas, User Journey y elementos de Impact Mapping que sustentan el backlog. Estos artefactos permiten priorizar features con criterio y diseñar pruebas de validación enfocadas en tareas reales de los usuarios.
+
+* Product Backlog y User Stories alineadas con objetivos de negocio.
+Las historias de usuario priorizadas (registro de productos, alertas de vencimiento, consulta de stock en tiempo real, POS básico) cubren las funcionalidades críticas para reducir pérdidas y mejorar la operativa diaria del retail.
+
+* Diseño coherente y accesible.
+El Style Guide (tipografías, paleta de colores, spacing, componentes) y la elección del patrón Z/F para la Landing Page garantizarán una experiencia consistente y adaptable a distintos dispositivos, reforzando la confianza del usuario.
+
+* Riesgos e incertidumbres identificados.
+Quedan pendientes temas relevantes: integración segura del backend, pruebas de escalabilidad, tratamiento de datos sensibles (boletas electrónicas) y validación real de adopción por parte de comerciantes. Estos riesgos requieren mitigación prioritaria en los próximos sprints.
+=======
 
 ---
+
 
 ## Anexos
 
 ---
 
 ## Bibliografía
+
+https://eyng.pe/web/2024/11/25/retail-2025-cinco-tendencias-en-america-latina/
+
+https://thelogisticsworld.com/actualidad-logistica/automatizacion-ia-y-datos-el-nuevo-core-tecnologico-del-retail-latinoamericano/
+https://america-retail.com/paises/peru/2025-el-ano-clave-para-la-transformacion-de-las-pymes-peruanas/
+
+https://coldview.com/tendencias-2025-tecnologia-sector-retail/
+
+https://www.gob.pe/institucion/produce/noticias/1241223-produce-mipymes-podran-acceder-a-creditos-respaldados-por-el-estado-para-escalar-innovaciones-y-modernizar-procesos
+
+https://www.gob.pe/institucion/produce/normas-legales/5193315-045-2024-produce
+
+https://america-retail.com/paises/peru/retail-2025-de-la-transformacion-digital-a-la-experiencia-omnicanal-del-cliente/
+
+https://www.ecommercenews.pe/mundo-startup/2025/proyeccion-de-crecimiento-en-el-sector-retail-peruano-para-2025.html/
+
+https://www.gob.pe/institucion/itp/noticias/893979-madurez-digital-en-las-mypes-buscando-el-punto-de-partida
+
