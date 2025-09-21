@@ -322,7 +322,7 @@ Entonces el sistema guarda el producto en la base de datos
 Y el sistema mue-stra un mensaje de confirmación “Producto registrado con éxito”.
 ```
 
-  #### 5.1.4. Software Deployment Configuration
+  
 ### 5.2. Landing Page, Services & Applications Implementation
 
 ### 5.2.1. Sprint 1
@@ -449,18 +449,25 @@ Esta subsección muestra la evidencia del trabajo de desarrollo completado duran
 
 #### 5.2.1.5. Execution Evidence for Sprint Review  
 En este punto presentamos la evidencia de ejecución de la Landing Page desarrollada en el Sprint 1.
+
 ![Pantalla de la landong page](https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-5-implementation-validation/capcincoimagenes/landing1.jpg)
+
 ![Pantalla de la landong page](https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-5-implementation-validation/capcincoimagenes/landing2.jpg)
+
 ![Pantalla de la landong page](https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-5-implementation-validation/capcincoimagenes/landing3.jpg)
+
 ![Pantalla de la landong page](https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-5-implementation-validation/capcincoimagenes/landing4.jpg)
+
 ![Pantalla de la landong page](https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-5-implementation-validation/capcincoimagenes/landing5.jpg)
+
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review  
 
 Durante este Sprint, nos enfocamos exclusivamente en el desarrollo del frontend estático de la Landing Page. En consecuencia, no se implementaron endpoints ni funcionalidades relacionadas con servicios web o APIs RESTful.
 
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review  
-#### 5.2.1.8. Team Collaboration Insights during Sprint
+#### 5.2.1.7. Team Collaboration Insights during Sprint
+A continuación mostramos los analíticos de colaboración con respecto a los commits en la organización.
+![teamcollab Insights](https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-5-implementation-validation/capcincoimagenes/collaborationinsights.png)
 
 ## Conclusiones
 ## Anexos
