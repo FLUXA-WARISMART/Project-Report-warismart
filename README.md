@@ -759,10 +759,92 @@ La navegación de WARISMART se basa en un sistema de guía claro y consistente p
 </p>
 
 ### 4.3. Landing Page UI Design
-En esta seccion se mostrara los diferrentes wireframes desarrollados en software de figma para el landing page.
+Para el diseño de la Landing Page de WARISMART, hemos traducido las decisiones de la Arquitectura de la Información y el Style Guide en un diseño visual coherente. El objetivo es que la página principal no solo se vea bien, sino que también guíe al visitante de forma intuitiva hacia la acción principal: conocer y contactar a FLUXA.
+
+Aplicaremos los principios de diseño jerárquico para guiar la vista del usuario a través de la propuesta de valor, las funcionalidades del sistema y el llamado a la acción. Los elementos visuales y el lenguaje seguirán el tono de comunicación entusiasta y sereno, utilizando la paleta de colores y la tipografía definidas para proyectar confianza.
+
+**Visibilidad del estado del sistema:**  
+La aplicación presenta un diseño claro, con poco texto y las imágenes necesarias para que los usuarios identifiquen fácilmente la sección en la que se encuentran.
+
+**Relación entre el sistema y el mundo real:** 
+Se emplea un lenguaje simple, con palabras comunes en español, evitando tecnicismos o términos científicos que pudieran generar confusión.
+
+**Consistencia y estándares:**  
+La interfaz fue diseñada para mantener coherencia en todos sus elementos, de manera que resulten comprensibles y no generen confusión sobre su propósito.
+
+**Prevención de errores:**  
+El diseño busca reducir al mínimo la posibilidad de equivocaciones, limitando la necesidad de mostrar mensajes de advertencia o error.
+
+**Reconocer antes que recordar:** 
+Se añadieron logotipos e imágenes que apoyan la navegación, evitando que el usuario tenga que memorizar información.
+
+**Flexibilidad y eficiencia de uso:**  
+Se incluyen accesos directos a las funciones principales, con el fin de optimizar la navegación y hacerla más ágil.
+
+**Diseño estético y minimalista:**  
+El sitio web prioriza mostrar únicamente la información esencial y relevante para el usuario, evitando el exceso de contenido que pueda dificultar la claridad o afectar la experiencia de navegación.
 
   #### 4.3.1. Landing Page Wireframe  
+En esta seccion se mostrara los diferrentes wireframes desarrollados en software de figma para el landing page, en el diseño de nuestra landing combinamos los patrones de lectura **Z y F** para guiar la atención del usuario de forma efectiva.
+
+- En el **encabezado y la sección principal** aplicamos el patrón **Z**, destacando primero la identidad de la marca y facilitando el acceso rápido al menú y al botón de registro.
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/LANDING1.jpg?raw=true"/>
+</p> 
+
+- En las secciones de **contenido detallado** (listas, descripciones, estadísticas), usamos el patrón **F**, que favorece una lectura natural de arriba hacia abajo y de izquierda a derecha.
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/LANDING2.jpg?raw=true"/>
+</p> 
+
+- Para apartados como **aliados, blogs y opiniones**, incorporamos un diseño en cuadrícula, que permite un escaneo visual rápido y atractivo.  
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/LANDING3.jpg?raw=true"/>
+</p> 
+
+- Finalmente, el **footer** mantiene la lógica del patrón F, asegurando que la información clave como contacto y enlaces esté siempre visible y organizada.  
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/LANDING4.jpg?raw=true"/>
+</p> 
+
+El resultado es una experiencia visual coherente que facilita tanto la exploración inicial como la lectura en profundidad de cada sección.
+
+Link del figma: <br><br>
+<https://www.figma.com/design/CGCddZLkVtMTX1Dnbs6NQX/Untitled?node-id=0-1&t=NeAwKiYbsSiZdMlI-1>
+
+
   #### 4.3.2. Landing Page Mock-up 
+En esta sección, se muestran los mockups finales de la landing page, reflejando los estilos y la organización establecidos en los puntos anteriores de nuestro plan de diseño. Cada mockup ilustra una parte clave de la experiencia de usuario
+
+* Este mockup muestra la primera impresión del sitio web. Se aprecia un diseño limpio y moderno con una frase impactante ("Impulsa tu negocio con tecnología que entiende el retail") que capta la atención. Se incluyen imágenes que hacen referencia a la gestión del retail. Además, un botón de acción (Empieza ahora) invita al usuario a dar el siguiente paso en la interacción.
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/LANDINGMOCKUP1.jpg?raw=true"/>
+</p> 
+
+* Aquí se visualizan los beneficios clave de la plataforma. La sección está organizada en un listado de puntos que explican por qué los clientes confían en WARISMART, como la automatización del inventario y el soporte 24/7. Las imágenes complementan el texto para hacer la información más fácil de digerir.
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/LANDINGMOCKUP2.jpg?raw=true"/>
+</p> 
+
+* En esta sección se muestra el impacto del aplicativo a través de métricas claras y se conecta con el contenido de valor de un blog.
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/LANDINGMOCKUP3.jpg?raw=true"/>
+</p> 
+
+* Este mockup refuerza la credibilidad del proyecto al mostrar los logotipos de los aliados estratégicos y los testimonios de clientes satisfechos. La inclusión de citas directas de usuarios ayuda a generar confianza en la plataforma.
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/LANDINGMOCKUP4.jpg?raw=true"/>
+</p> 
+
+* La última sección de la página muestra el pie de página, que contiene una breve descripción de WARISMART, enlaces rápidos a otras secciones del sitio y los íconos de redes sociales para que el usuario pueda seguir a la empresa.
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/LANDINGMOCKUP5.jpg?raw=true"/>
+</p> 
+
+
+Link del Figma:<br><br>
+<https://www.figma.com/design/CGCddZLkVtMTX1Dnbs6NQX/Untitled?node-id=0-1&t=NeAwKiYbsSiZdMlI-1>
+
 ### 4.4. Web Applications UX/UI Design
   #### 4.4.1. Web Applications Wireframes  
   #### 4.4.2. Web Applications Wireflow Diagrams  
@@ -770,14 +852,32 @@ En esta seccion se mostrara los diferrentes wireframes desarrollados en software
   #### 4.4.4. Web Applications User Flow Diagrams  
 ### 4.5. Web Applications Prototyping.
 ### 4.6. Domain-Driven Software Architecture
-  #### 4.6.1. Software Architecture Context Diagram  
+  #### 4.6.1. Software Architecture Context Diagram 
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/C4Context.png"/>
+</p>
+
   #### 4.6.2. Software Architecture Container Diagrams  
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/C4Container.png"/>
+</p>
+
   #### 4.6.3. Software Architecture Components Diagrams
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/C4Components.png"/>
+</p>
+
 ### 4.7. Software Object-Oriented Design
   #### 4.7.1. Class Diagrams  
-  #### 4.7.2. Class Dictionary 
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/ClassDiagram.png"/>
+</p>
+
 ### 4.8. Database Design
   #### 4.8.1. Database Diagram 
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/DatabaseDiagram.png"/>
+</p>
   
 ---
 
