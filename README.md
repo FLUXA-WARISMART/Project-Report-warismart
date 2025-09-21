@@ -448,6 +448,16 @@ Para ello, planteamos una serie de preguntas que nos permitieron mapear:
 | **Link** | [Ver entrevista](ruta/a/la/entrevista.mp4) |
 
   #### 2.2.3. Análisis de entrevistas
+  
+  **Conclusión segmento de Emprendedor Independiente:**
+Los emprendedores independientes suelen empezar con un solo local y manejan todo de forma personal. Se apoyan en cuadernos, Excel o POS básicos, y no tienen un sistema centralizado. Lo que más les cuesta es llevar un control claro de ventas e inventario, porque todo depende de que ellos mismos estén presentes.
+
+Cuando crecen un poco, sienten que el tiempo no les alcanza y que delegar trae errores en caja o en stock. Valoran la rapidez para ver datos clave como ventas del día o productos faltantes. Además, están dispuestos a invertir en un sistema sencillo si les asegura más control y menos errores.
+
+**Conclusión segmento de pequeña Cadena en Expansión:**
+En este segmento, los dueños ya manejan más de un local y enfrentan problemas de coordinación. Tienen que sincronizar precios, promociones y stock, pero usan herramientas separadas (Excel, WhatsApp, POS básicos). Esto genera diferencias entre locales y confusión en la administración.
+
+Su mayor reto es mantener la misma calidad en todos los puntos de venta y no perder control al delegar. Ven útil tener un panel central para comparar ventas por local, revisar inventario crítico y controlar caja. También mencionan que pagarían una cuota mensual si el sistema es confiable y les da datos diarios claros.
 ### 2.3. Needfinding
   #### 2.3.1. User Personas
   **Segmento objetivo 1 – Rosa Gutiérrez:**  
