@@ -209,11 +209,10 @@ Con una visión centrada en la accesibilidad y la escalabilidad, FLUXA impulsa a
 
 | Foto | Nombres |
 | :---- | :---- |
-|| Rivas Castillo, Christoper Steven     |
-|  | **Código** |
-|  | u202323551 |
-| **Habilidades** | **Descripción | Carrera** |
-|  |  |
+|<p align="center"> <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/anexos/L1nk3di1nk.jpg?raw=true" width="80"/></p>| Rivas Castillo, Christoper Steven     |
+| u202323551 | **Código** |
+| **Descripción** | **Carrera** |
+|Actualmente estoy cursando el cuarto ciclo de la carrera de Ingeniería de Software, con 19 años Me gusta jugar videojuegos, ir al gimnasio, entrenar la disciplina deportiva del fútbol y practicar la programación. Deseo en un futuro poder desempeñarme en el rubro del desarrollo web y en ciberseguridad. Con perseverancia y esfuerzo lograré mis objetivos.| Ingeniería de Software |
 
 
 ### 1.2. Solution Profile
