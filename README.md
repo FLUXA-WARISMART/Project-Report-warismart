@@ -181,12 +181,6 @@ En el siguiente cuadro se describen las acciones realizadas y las conclusiones d
 
 ## Capitulo 1: Introducción
 ### 1.1. Startup Profile
-chapter-1-introduccion
-  #### 1.1.1. Descripcion del Startup
-FLUXA es una startup innovadora que busca transformar el mundo del retail mediante soluciones tecnológicas integrales. Nuestro enfoque está en optimizar la gestión comercial de tiendas y cadenas de manera sencilla, eficiente y segura.
-Con una visión centrada en la accesibilidad y la escalabilidad, FLUXA impulsa a los emprendedores y empresas a crecer con tecnología de última generación, brindando herramientas que no solo digitalizan, sino que potencian el verdadero valor de cada negocio.
-  #### 1.1.2. Perfiles de Integrantes del equipo
-=======
 #### 1.1.1. Descripcion del Startup
 **FLUXA** es una startup innovadora que busca transformar el mundo del retail mediante soluciones tecnológicas integrales. Nuestro enfoque está en optimizar la gestión comercial de tiendas y cadenas de manera sencilla, eficiente y segura.
 Con una visión centrada en la accesibilidad y la escalabilidad, FLUXA impulsa a los emprendedores y empresas a crecer con tecnología de última generación, brindando herramientas que no solo digitalizan, sino que potencian el verdadero valor de cada negocio.
