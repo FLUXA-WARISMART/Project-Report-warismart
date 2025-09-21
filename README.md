@@ -525,6 +525,7 @@ En esta seccion se mostrara los diferrentes wireframes desarrollados en software
 <p align="center">
   <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/LANDING3.jpg?raw=true"/>
 </p> 
+
 - Finalmente, el **footer** mantiene la lógica del patrón F, asegurando que la información clave como contacto y enlaces esté siempre visible y organizada.  
 <p align="center">
   <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/LANDING4.jpg?raw=true"/>
@@ -532,62 +533,40 @@ En esta seccion se mostrara los diferrentes wireframes desarrollados en software
 
 El resultado es una experiencia visual coherente que facilita tanto la exploración inicial como la lectura en profundidad de cada sección.
 
-Link del figma: <https://www.figma.com/design/CGCddZLkVtMTX1Dnbs6NQX/Untitled?node-id=0-1&t=NeAwKiYbsSiZdMlI-1>
+Link del figma: <br><br>
+<https://www.figma.com/design/CGCddZLkVtMTX1Dnbs6NQX/Untitled?node-id=0-1&t=NeAwKiYbsSiZdMlI-1>
 
-<img width="600" height="1890" alt="Image" src="https://github.com/user-attachments/assets/a78ffc1d-8e5a-4203-b36b-cffc33d76624" />
 
   #### 4.3.2. Landing Page Mock-up 
-  **Página de Inicio**
+En esta sección, se muestran los mockups finales de la landing page, reflejando los estilos y la organización establecidos en los puntos anteriores de nuestro plan de diseño. Cada mockup ilustra una parte clave de la experiencia de usuario
 
-En la página de inicio, WARISMART muestra de inmediato su propuesta de valor:  
-**“Impulsa tu negocio con tecnología que entiende el retail”**.  
-El encabezado incluye el logotipo de la empresa y un menú de navegación con accesos rápidos a _Inicio, Nosotros, Aliados y Contacto_, junto con un botón destacado de _Registrarse_.
+* Este mockup muestra la primera impresión del sitio web. Se aprecia un diseño limpio y moderno con una frase impactante ("Impulsa tu negocio con tecnología que entiende el retail") que capta la atención. Se incluyen imágenes que hacen referencia a la gestión del retail. Además, un botón de acción (Empieza ahora) invita al usuario a dar el siguiente paso en la interacción.
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/LANDINGMOCKUP1.jpg?raw=true"/>
+</p> 
 
-El héroe principal combina un mensaje claro, una breve descripción de beneficios (“Gestión completa y control total de tu tienda, en la palma de tu mano”) y un botón de llamada a la acción (_Empieza ahora_). A la derecha, se presentan imágenes que refuerzan visualmente la idea de digitalización y gestión moderna.
+* Aquí se visualizan los beneficios clave de la plataforma. La sección está organizada en un listado de puntos que explican por qué los clientes confían en WARISMART, como la automatización del inventario y el soporte 24/7. Las imágenes complementan el texto para hacer la información más fácil de digerir.
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/LANDINGMOCKUP2.jpg?raw=true"/>
+</p> 
 
-**¿Por qué nuestros clientes confían en nosotros?**
+* En esta sección se muestra el impacto del aplicativo a través de métricas claras y se conecta con el contenido de valor de un blog.
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/LANDINGMOCKUP3.jpg?raw=true"/>
+</p> 
 
-Esta sección refuerza la credibilidad mostrando los beneficios clave de WARISMART en formato de lista:
+* Este mockup refuerza la credibilidad del proyecto al mostrar los logotipos de los aliados estratégicos y los testimonios de clientes satisfechos. La inclusión de citas directas de usuarios ayuda a generar confianza en la plataforma.
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/LANDINGMOCKUP4.jpg?raw=true"/>
+</p> 
 
-- Automatización de inventario en tiempo real.  
+* La última sección de la página muestra el pie de página, que contiene una breve descripción de WARISMART, enlaces rápidos a otras secciones del sitio y los íconos de redes sociales para que el usuario pueda seguir a la empresa.
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/LANDINGMOCKUP5.jpg?raw=true"/>
+</p> 
 
-- Informes de ventas inteligentes y análisis de datos estratégicos.  
 
-- Gestión de personal y horarios en un solo lugar.  
-
-- Soporte técnico 24/7 y asistencia personalizada.  
-
-Se acompaña con una ilustración visual que comunica modernidad y soporte integral.
-
-**Nuestra estrategia impulsará negocios en todo el mundo**
-
-Aquí se muestran métricas de impacto para transmitir confianza:
-
-- **12,000** clientes satisfechos.  
-
-- **55%** de crecimiento anual promedio.  
-
-- **5,000** proyectos exitosos.  
-
-- **80** valoraciones positivas.  
-
-El patrón de lectura F permite que el usuario escanee rápidamente los números y comprenda el alcance de la plataforma.
-
-**Aliados estratégicos y Blog**
-
-La siguiente sección muestra logos de aliados, reforzando la confianza en la marca, y un bloque de artículos del blog que ofrece recursos útiles como guías, tendencias y estrategias de éxito.
-
-**Opiniones de clientes**
-
-En formato de tarjetas, se presentan testimonios reales de clientes satisfechos, lo que genera cercanía y confianza.
-
-**Footer**
-
-El pie de página cierra con una breve descripción de WARISMART, enlaces rápidos, datos de contacto y redes sociales, manteniendo la consistencia visual y facilitando el acceso a la información clave.
-
-<img width="1366" height="3957" alt="Image" src="https://github.com/user-attachments/assets/ff767356-a4f6-4555-a7a4-c63c6c78c32a" />
-
-Link del Figma:
+Link del Figma:<br><br>
 <https://www.figma.com/design/CGCddZLkVtMTX1Dnbs6NQX/Untitled?node-id=0-1&t=NeAwKiYbsSiZdMlI-1>
 
 ### 4.4. Web Applications UX/UI Design
@@ -598,17 +577,31 @@ Link del Figma:
 ### 4.5. Web Applications Prototyping.
 ### 4.6. Domain-Driven Software Architecture
   #### 4.6.1. Software Architecture Context Diagram 
-  ![Diagrama de contexto](https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/C4Context.png)
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/C4Context.png"/>
+</p>
+
   #### 4.6.2. Software Architecture Container Diagrams  
-  ![Diagrama de contenedor](https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/C4Container.png)
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/C4Container.png"/>
+</p>
+
   #### 4.6.3. Software Architecture Components Diagrams
-  ![Diagrama de componentes](https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/C4Components.png)
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/C4Components.png"/>
+</p>
+
 ### 4.7. Software Object-Oriented Design
   #### 4.7.1. Class Diagrams  
-  ![Diagrama de clases](https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/ClassDiagram.png)
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/ClassDiagram.png"/>
+</p>
+
 ### 4.8. Database Design
   #### 4.8.1. Database Diagram 
-  ![Diagrama de la base de datos](https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/DatabaseDiagram.png)
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/DatabaseDiagram.png"/>
+</p>
   
 ---
 
