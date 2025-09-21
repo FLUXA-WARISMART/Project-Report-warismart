@@ -586,14 +586,18 @@ Link del Figma:
   #### 4.4.4. Web Applications User Flow Diagrams  
 ### 4.5. Web Applications Prototyping.
 ### 4.6. Domain-Driven Software Architecture
-  #### 4.6.1. Software Architecture Context Diagram  
+  #### 4.6.1. Software Architecture Context Diagram 
+  ![Diagrama de contexto](https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/C4Context.png)
   #### 4.6.2. Software Architecture Container Diagrams  
+  ![Diagrama de contenedor](https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/C4Container.png)
   #### 4.6.3. Software Architecture Components Diagrams
+  ![Diagrama de componentes](https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/C4Components.png)
 ### 4.7. Software Object-Oriented Design
   #### 4.7.1. Class Diagrams  
-  #### 4.7.2. Class Dictionary 
+  ![Diagrama de clases](https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/ClassDiagram.png)
 ### 4.8. Database Design
   #### 4.8.1. Database Diagram 
+  ![Diagrama de la base de datos](https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-4-product-design/capcuatroimagenes/DatabaseDiagram.png)
   
 ---
 
