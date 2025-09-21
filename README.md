@@ -369,6 +369,84 @@ Para ello, planteamos una serie de preguntas que nos permitieron mapear:
 
 
   #### 2.2.2. Registro de entrevistas
+
+  #### Segmento de Emprendedor Independiente 
+  #### Entrevista 1:
+
+| **Campo** | **Detalle** |
+|-----------|-------------|
+| **Nombre y apellido** | Edmundo Mejía Castillo |
+| **Edad** | 60 años |
+| **Ocupación** | Emprendedor independiente, dueño de tienda |
+| **Duración** | 10:10 minutos |
+| **Resumen** | Su tienda forma parte del negocio familiar. Principalmente vende abarrotes y bebidas. Anota su inventario y registro de ventas en un cuaderno para saber cuándo reponer y llevar la cuenta de cuánto está vendiendo. En momentos de mayor afluencia su problema es dar vuelto exacto en efectivo. Realizaba sus cálculos inicialmente en un cuaderno pero actualmente está usando más Excel como herramienta digital. Una de sus mayores preocupaciones es el inventario: saber cuánto sale, tenerlo actualizado y saber cuándo llamar a los proveedores. Estaría dispuesto a pagar por una aplicación o servicio digital que lo ayude con los cálculos. Él desearía encontrar en esa aplicación funcionalidades como ingresos, egresos e inventario. |
+| **Anexo** | ![Foto de la reunión](ruta/a/la/foto.jpg) |
+| **Link** | [Ver entrevista](https://youtu.be/ZU2foqf0n9U?si=32SVNkDZH2bMZBW9) |
+
+
+#### Entrevista 2:
+
+| **Campo** | **Detalle** |
+|-----------|-------------|
+| **Nombre y apellido** | Blanca Flores |
+| **Edad** | 47 años |
+| **Ocupación** | Emprendedora independiente, dueña de bodega |
+| **Duración** | 05:37 minutos |
+| **Resumen** | La señora Blanca Flores, de 47 años, vive en San Juan de Lurigancho y es dueña de una bodega que forma parte de su negocio familiar. Empezó su emprendimiento hace 10 años con el objetivo de darle estabilidad a su familia y cubrir la demanda de productos básicos en su barrio. Entre los productos más buscados y que siempre procura tener disponibles están la leche, el arroz y el azúcar. Para llevar el control del negocio utiliza principalmente una libreta, aunque ha probado también con Excel, que le resulta más útil que el registro manual. Sus principales dificultades aparecen en dos aspectos: primero, en los momentos de mayor afluencia, donde lo que más se complica es dar el vuelto exacto; y segundo, en el control del inventario, ya que considera que es difícil mantenerlo actualizado y saber exactamente cuándo llamar a los proveedores. Cuando no puede estar presente en el local, lo que más le preocupa es el manejo de la caja. A futuro, si abriera otro local, reconoce que lo más difícil sería organizar el inventario en ambos negocios. La entrevistada estaría dispuesta a pagar por una aplicación que le ayude a no perder ventas y ahorrar tiempo, mencionando un monto aproximado de 200 soles mensuales. Para ella, una solución digital ideal debería incluir funciones claras de ingresos, egresos y control de inventario, además de mostrar las ventas del día y las ganancias de manera sencilla. |
+| **Anexo** | ![Foto de la reunión](ruta/a/la/foto.jpg) |
+| **Link** | [Ver entrevista](https://youtu.be/l7_zivoOqb4) |
+
+
+#### Entrevista 3:
+
+| **Campo** | **Detalle** |
+|-----------|-------------|
+| **Nombre y apellido** | María López |
+| **Edad** | 30 años |
+| **Ocupación** | Dueña de tienda (bodega) |
+| **Duración** | 04:00 minutos |
+| **Resumen** | La entrevistada comenzó su negocio hace varios años desde su casa, inicialmente como un ingreso extra; con el tiempo, la bodega se convirtió en su principal trabajo. Señaló que lo que más le gusta vender son los lácteos y los panes, ya que son productos que sus clientes saben que siempre encontrarán en su tienda. Sin embargo, comentó que a veces se le complica llevar el control del inventario y las compras, sobre todo cuando se termina algún producto y debe reponerlo rápidamente. Gran parte de la gestión la maneja “en la cabeza”, lo que se vuelve especialmente difícil en horas punta, cuando hay muchos clientes y debe cobrar, dar vuelto y registrar ventas al mismo tiempo. Además, manifestó que le preocupa dejar encargada la tienda, ya que teme que no se controle correctamente la caja o el inventario. En relación a mejoras, mencionó que una aplicación que le permita acceder rápidamente a las ventas del día, al inventario y a alertas sobre productos próximos a agotarse sería de gran utilidad. Asimismo, estaría dispuesta a pagar un precio razonable por esta ayuda. Cabe destacar que, cuando tiene dudas sobre su negocio, suele consultar con su familia, otros dueños de bodegas o buscar información en internet. En conjunto, su relato refleja la necesidad de herramientas simples que faciliten su trabajo diario, le ahorren tiempo y le permitan ofrecer un mejor servicio a sus clientes. |
+| **Anexo** | ![Foto de la reunión](ruta/a/la/foto.jpg) |
+| **Link** | [Ver entrevista](entrevista%20WEB.mp4) |
+
+#### Segmento de Pequeña Cadena en Expansión
+#### Entrevista 1:
+
+| **Campo** | **Detalle** |
+|-----------|-------------|
+| **Nombre y apellido** | Bruno Mendoza |
+| **Edad** | 24 años |
+| **Ocupación** | Coordinador de Operaciones (Hijo del dueño del negocio) |
+| **Duración** | 06:49 minutos |
+| **Resumen** | El entrevistado se llama Bruno Mendoza, tiene 25 años y ayuda a su padre en la gestión de tres bodegas ubicadas en los distritos de Surco, San Miguel y San Juan de Lurigancho. Bruno explicó que el crecimiento de uno a tres locales ha traído consigo varios desafíos operativos. Actualmente, no cuentan con un sistema de gestión integrado, lo que les genera problemas de consistencia en el inventario, precios y promociones entre las tiendas. Utilizan herramientas fragmentadas: Excel para consolidar manualmente los datos de ventas e inventario cada semana, y WhatsApp para comunicarse con los encargados de cada local. Este proceso manual provoca desfases de información, falta de control en tiempo real y dificultad para tomar decisiones ágiles. Durante la entrevista, compartió que el mayor dolor de cabeza al pasar de uno a dos locales fue la pérdida del control centralizado del inventario. Lo que más le preocupa al delegar es que los encargados no sigan los precios establecidos o no registren bien las ventas. Para monitorear el negocio, necesita ver diariamente las ventas por local, el stock de productos críticos y el flujo de caja. Al plantearle la posibilidad de un sistema centralizado que podría aumentar su rentabilidad en un 5%, Bruno consideró que valdría la pena una inversión mensual de entre 300 y 400 soles por local, siempre que la solución sea confiable. Finalmente, comentó que su solución ideal sería un panel de control sencillo en su tablet que le muestre cada mañana las ventas del día anterior, los productos por agotarse, el balance de gastos vs. ingresos y los movimientos importantes de caja. Esta visión refleja su necesidad fundamental de tener visibilidad y control centralizado para sentirse dueño de su negocio otra vez. |
+| **Anexo** | ![Foto de la reunión](ruta/a/la/foto.jpg) |
+| **Link** | [Ver entrevista](https://youtu.be/wr26rSntzPk) |
+
+
+#### Entrevista 2:
+
+| **Campo** | **Detalle** |
+|-----------|-------------|
+| **Nombre y apellido** | Sergio Eduardo Ayala Muñaqui |
+| **Edad** | 24 años |
+| **Ocupación** | Administrador general de la empresa |
+| **Duración** | 19:30 minutos |
+| **Resumen** | Sergio maneja 3 bodegas, la última recién abierta. Al abrir el segundo local tuvieron que mejorar las compras y dar más control a los encargados. Ahora quieren consolidar lo que tienen antes de abrir otro. Lo más difícil es mantener precios, stock y la misma atención en cada tienda. Manejan inventario con stock mínimo y reponen cada semana. Si falta algo, lo pasan de otro local. Las compras son centrales, pero cada tienda puede comprar en caso de emergencia. Los precios y promociones se controlan con una lista y revisando tickets. Mira ventas, ticket promedio, productos más vendidos y margen. Usan POS básicos y Excel, pero no están conectados, así que consolidan a mano. Los vendedores registran ventas, los encargados ven caja y reposiciones, y él supervisa todo. Lo que más le preocupa es la caja y las devoluciones. Pasar de 1 a 2 locales fue complicado por el stock y los precios, aunque con el tiempo eso se va ordenando, sería mejor un sistema que optimice este proceso.  |
+| **Anexo** | ![Foto de la reunión](ruta/a/la/foto.jpg) |
+| **Link** | [Ver entrevista](ruta/a/la/entrevista.mp4) |
+
+#### Entrevista 3:
+
+| **Campo** | **Detalle** |
+|-----------|-------------|
+| **Nombre y apellido** | Jorge Leonardo Tuppia Carrillo |
+| **Edad** | 23 años |
+| **Ocupación** | Coordinador (hijo del dueño del negocio) |
+| **Duración** | 16:09 minutos |
+| **Resumen** | Jorge ayuda en la gestión de un restaurante familiar. El paso de un local a más mesas y turnos hizo que pierdan control del inventario y de las compras. Usan Excel y WhatsApp para coordinar con el personal, pero no hay un sistema único. Esto causa desfases de stock y precios. Lo que más le preocupa es que falten insumos clave o que no cuadre la caja al cierre. Ve necesario tener reportes diarios de ventas, gastos y productos más usados en la cocina. Pagaría entre 300 y 400 soles al mes si el sistema es confiable. Su idea de solución es un panel en tablet donde pueda ver ventas, caja, insumos críticos y movimientos importantes. |
+| **Anexo** | ![Foto de la reunión](ruta/a/la/foto.jpg) |
+| **Link** | [Ver entrevista](ruta/a/la/entrevista.mp4) |
+
   #### 2.2.3. Análisis de entrevistas
 ### 2.3. Needfinding
   #### 2.3.1. User Personas
