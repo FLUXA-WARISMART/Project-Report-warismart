@@ -309,6 +309,17 @@ Publicar testimonios de negocios reales que escalaron con WARISMART, reforzando 
 
 
 ### 2.2. Entrevistas
+En WARISMART sabemos que la verdadera transformación digital del retail no nace únicamente de la tecnología, sino de escuchar y comprender a las personas que, día a día, sostienen sus negocios. Para nosotros, era fundamental ir más allá de los números y la teoría: queríamos conocer de cerca las motivaciones, los problemas y las expectativas de quienes realmente usan estos sistemas.  
+
+Con este propósito, realizamos entrevistas en profundidad que nos permitieron descubrir cómo viven la gestión de sus negocios y qué esperan de una solución tecnológica. Decidimos enfocarnos en dos grupos clave dentro de nuestro ecosistema:  
+
+1. **Emprendedores independientes con un solo local comercial (28–55 años).**  
+   Son dueños de bodegas, licorerías, tiendas de mascotas, ferreterías o librerías pequeñas. Este perfil suele estar muy involucrado en las operaciones diarias: atienden clientes, revisan inventario, manejan pagos y, en muchos casos, son quienes también administran la caja. Su principal interés es la simplicidad y practicidad, pues no siempre cuentan con tiempo ni conocimientos técnicos para manejar sistemas complejos. A la vez, valoran mucho las herramientas que les ayudan a tener un mejor control de ventas e inventarios sin que eso signifique más carga de trabajo.  
+
+2. **Gestores de pequeñas cadenas en expansión (30–60 años).**  
+   Son administradores de entre 2 y 5 locales, ya sea de panaderías, ópticas, juguerías, zapaterías o minimarkets locales. Este segmento enfrenta retos distintos: necesitan coordinar equipos, supervisar varias tiendas y mantener información consolidada en tiempo real. A diferencia del emprendedor independiente, buscan soluciones que les permitan delegar con confianza y tener visibilidad del negocio desde cualquier lugar. Además, valoran mucho la escalabilidad de la plataforma, ya que suelen proyectar crecer en número de locales y requieren que el sistema acompañe ese proceso.
+
+   
   #### 2.2.1. Diseño de entrevistas
   #### 2.2.2. Registro de entrevistas
   #### 2.2.3. Análisis de entrevistas
