@@ -289,44 +289,44 @@ WARISMART debe ser una solución inclusiva, simple y funcional desde el primer u
 ### 1.3. Segmentos objetivos<br>
 WARISMART está dirigido principalmente a emprendedores independientes con un solo local comercial y a pequeñas cadenas en expansión que operan entre 2 y 5 locales. Ambos grupos enfrentan desafíos operativos como el control de inventario, la integración de ventas y compras, y la falta de herramientas analíticas accesibles. WARISMART les ofrece una plataforma modular, intuitiva y segura que les permite digitalizar su operación, tomar decisiones basadas en datos y escalar su negocio sin perder control.
 
-###### 1. Emprendedores Independientes con 1 Local<br>
-**Dominio del Problema:**
- Negocios de barrio como bodegas, licorerías, tiendas de mascotas, ferreterías y librerías pequeñas que gestionan su operación de forma manual o con herramientas básicas como Excel o cuadernos físicos. Estos negocios enfrentan pérdidas por errores de inventario, ventas desconectadas del stock y falta de reportes para tomar decisiones.
-**Aspectos Geográficos:**
+###### 1. Emprendedores Independientes con 1 Local<br><br>
+**Dominio del Problema:** <br><br>
+ Negocios de barrio como bodegas, licorerías, tiendas de mascotas, ferreterías y librerías pequeñas que gestionan su operación de forma manual o con herramientas básicas como Excel o cuadernos físicos. Estos negocios enfrentan pérdidas por errores de inventario, ventas desconectadas del stock y falta de reportes para tomar decisiones.<br><br>
+**Aspectos Geográficos:** <br><br>
 Nacionalidad: Peruana
 Ciudad: Lima (concentración en distritos como Surco, San Juan de Lurigancho, Comas, Ate)
-Zona de Residencia: Urbana y semiurbana
-**Aspectos Demográficos:**
+Zona de Residencia: Urbana y semiurbana<br><br>
+**Aspectos Demográficos:** <br><br>
 Edad: 28 – 55 años
 Género: Masculino y femenino
 Nivel Socioeconómico: Clase media baja (C) y clase media (B)
-Ocupación: Comerciantes independientes, emprendedores familiares
-**Aspectos Psicográficos:**
+Ocupación: Comerciantes independientes, emprendedores familiares<br><br>
+**Aspectos Psicográficos:** <br><br>
 Alta dependencia del negocio como fuente principal de ingresos
 Interés en soluciones simples que no requieran conocimientos técnicos
 Necesidad de controlar el negocio desde el celular o tablet
-Deseo de reducir pérdidas y mejorar la atención al cliente
-**Información Estadística:**
+Deseo de reducir pérdidas y mejorar la atención al cliente<br><br>
+**Información Estadística:** <br><br>
  Según el Ministerio de la Producción (2024), el 96% de las microempresas en Perú no utilizan software especializado para gestionar sus operaciones, y el 72% de ellas reporta dificultades para controlar su inventario.<br><br>
-###### 2. Pequeñas Cadenas en Expansión (2 a 5 locales)<br>
-**Dominio del Problema:**
- Negocios como panaderías, ópticas, juguerías, zapaterías y minimarkets locales que han crecido orgánicamente y ahora enfrentan desafíos de trazabilidad entre locales, duplicidad de procesos, falta de control centralizado y ausencia de reportes consolidados.
-**Aspectos Geográficos:**
+###### 2. Pequeñas Cadenas en Expansión (2 a 5 locales)<br><br>
+**Dominio del Problema:**<br><br>
+ Negocios como panaderías, ópticas, juguerías, zapaterías y minimarkets locales que han crecido orgánicamente y ahora enfrentan desafíos de trazabilidad entre locales, duplicidad de procesos, falta de control centralizado y ausencia de reportes consolidados.<br><br>
+**Aspectos Geográficos:** <br><br>
 Nacionalidad: Peruana
 Ciudad: Lima (con presencia en varios distritos como Miraflores, San Miguel, Los Olivos, La Molina)
-Zona de Residencia: Urbana
-**Aspectos Demográficos:**
+Zona de Residencia: Urbana<br><br>
+**Aspectos Demográficos:** <br><br>
 Edad: 30 – 60 años
 Género: Masculino y femenino
 Nivel Socioeconómico: Clase media (B) y clase media alta (A/B)
-Ocupación: Empresarios locales, gestores operativos, socios comerciales
-**Aspectos Psicográficos:**
+Ocupación: Empresarios locales, gestores operativos, socios comerciales<br><br>
+**Aspectos Psicográficos:** <br><br>
 Interés en escalar el negocio sin perder control operativo
 Necesidad de reportes consolidados entre locales
 Búsqueda de soluciones que integren ventas, compras e inventarios
-Valoración de la seguridad de datos y la trazabilidad
-**Información Estadística:**
- Según el Observatorio de la MYPE y el Emprendimiento (2025), solo el 18% de las pequeñas empresas con más de un local en Perú utilizan sistemas integrados para gestionar su operación. El resto opera con herramientas aisladas, lo que genera errores y pérdida de eficiencia.
+Valoración de la seguridad de datos y la trazabilidad<br><br>
+**Información Estadística:** <br><br>
+ Según el Observatorio de la MYPE y el Emprendimiento (2025), solo el 18% de las pequeñas empresas con más de un local en Perú utilizan sistemas integrados para gestionar su operación. El resto opera con herramientas aisladas, lo que genera errores y pérdida de eficiencia.<br><br>
  
 ## Capitulo 2: Requirements Elicitation & Analysis
 ### 2.1. Competidores
