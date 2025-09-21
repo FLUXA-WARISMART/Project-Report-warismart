@@ -364,7 +364,26 @@ Luego, con los eventos acomodados de forma lógica. Aquí ya no solo están las 
 ![eventstorming-completo](capdosimagenes/eventstorming-completo.png)
 
 
-### 2.4. Ubiquitous Language   
+## 2.5. Ubiquitous Language
+Nota: Cada término debe usarse tal cual aquí para que todo el equipo hable el mismo lenguaje. Eric Evans recomienda esta práctica en DDD para evitar ambigüedades en el dominio.
+
+| Term                  | Término                | Definición                                                    |
+|-----------------------|-----------------------|---------------------------------------------------------------|
+| Point of Sale (POS)   | Punto de venta         | Lugar o sistema donde el cliente paga por los productos.      |
+| Cash Register Closing | Cierre de caja         | Revisión del dinero en caja comparado con las ventas al final del día. |
+| Supplier              | Proveedor              | Persona o empresa que entrega productos a la tienda.         |
+| Purchase Order        | Orden de compra        | Pedido de productos que la tienda hace a un proveedor.       |
+| Delivery Note         | Guía de remisión       | Documento que llega con la entrega de los productos.         |
+| Invoice               | Factura                | Documento legal de una venta o compra.                       |
+| Customer Tab          | Libreta de fiado       | Registro de deudas de clientes que pagan después.           |
+| Expired Product       | Producto vencido       | Bien que ya pasó su fecha de consumo o venta.                |
+| Shrinkage             | Merma                  | Pérdida de productos por robo, vencimiento o deterioro.      |
+| Replenishment         | Reposición             | Acción de volver a llenar estantes o inventario.             |
+| Promotion             | Promoción              | Oferta o descuento para vender más rápido.                   |
+| Service Payment       | Pago de servicios      | Cuando el cliente paga luz, agua u otros servicios en la tienda. |
+| Utility Bill          | Recibo de servicio     | Documento que llega de la empresa de luz, agua o internet para pagar. |
+| Credit Sale           | Venta a crédito        | Cuando un cliente recibe el producto y paga después.         |
+  
 
 ## Capitulo 3: Requirements Specification 
 ### 3.1. To-Be Scenario Mapping
