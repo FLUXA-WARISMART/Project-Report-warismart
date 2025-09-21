@@ -197,9 +197,8 @@ Con una visión centrada en la accesibilidad y la escalabilidad, FLUXA impulsa a
 | Nombres | Foto |
 | :---- | :---- |
 | Nuñez Soto, Andy Arturo |  |
-| **Código** |  |
-| u20231e795 |  |
-| **Descripción | Carrera** | **Habilidades** |
+| **Código** | u20231e795 |
+| **Descripción | Carrera** |
 | Mi nombre es Andy Arturo Nuñez Soto, Actualmente curso el quinto ciclo de la carrera de Ingeniería de Software. Soy una persona creativa y comprometida, lo que me permite enfrentar desafíos con determinación y encontrar soluciones efectivas. Voy a aportar mis habilidades al proyecto con el objetivo de alcanzar resultados exitosos. | Ingeniería de Software |
 
 | Foto | Nombres |
