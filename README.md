@@ -340,6 +340,16 @@ Este User Journey Map se construyó a partir del segmento objetivo de pequeñas 
 ![journey-carlos](capdosimagenes/journey-carlos.png)
 
   #### 2.3.4. Empathy Mapping
+  **Segmento objetivo 1 – Rosa Gutiérrez:**  
+Este Empathy Map busca reflejar cómo estos usuarios perciben y enfrentan la gestión diaria de sus negocios, resaltando lo que piensan, sienten, dicen y hacen en torno a las ventas e inventarios.
+
+![empathy-rosa](capdosimagenes/empathy-rosa.png)
+
+**Segmento objetivo 2 – Carlos Ramírez:**  
+Este Empathy Map representa la forma en que estos usuarios experimentan la administración de varios locales. Se identifican sus motivaciones, frustraciones y necesidades en torno a sus inventarios y ventas.
+
+![empathy-carlos](capdosimagenes/empathy-carlos.png)
+
   #### 2.3.5. As-is Scenario Mapping
 ### 2.4. Ubiquitous Language   
 
