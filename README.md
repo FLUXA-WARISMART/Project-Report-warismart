@@ -1652,7 +1652,7 @@ Durante este Sprint, nos enfocamos exclusivamente en el desarrollo del frontend 
  ---
  
 ## Conclusiones
-bibliografia
+
 * Validación del problema y pertinencia de la solución.
 La investigación (entrevistas y análisis de competencia) confirma que los comerciantes minoristas enfrentan problemas reales: falta de visibilidad de stock, procesos manuales y ausencia de herramientas accesibles de análisis. WARISMART responde a estas necesidades mediante una propuesta modular que integra inventario, POS y reportes.
 
