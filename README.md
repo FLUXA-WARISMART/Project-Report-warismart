@@ -176,6 +176,45 @@ URL del Repositoria del Project Report:
 
 ## Capitulo 2: Requirements Elicitation & Analysis
 ### 2.1. Competidores
+
+# Vendus Perú
+**Descripción:**  
+Vendus es una plataforma peruana de punto de venta (POS) y gestión comercial dirigida a pequeños negocios. Ofrece funcionalidades como control de inventario, facturación electrónica, gestión de productos, reportes de ventas y acceso desde dispositivos móviles. Está orientado a negocios minoristas que buscan una solución rápida y económica para digitalizar sus operaciones.  
+
+![Texto alternativo](capdosimagenes/nombre-de-la-imagen.png)
+
+
+**Debilidades:**  
+- Limitada escalabilidad: Vendus está diseñado principalmente para negocios con un solo local, lo que puede dificultar su uso en cadenas con múltiples sucursales.  
+- Reportes básicos: Aunque ofrece reportes de ventas, no cuenta con analítica avanzada ni visualizaciones estratégicas para toma de decisiones complejas.  
+- Integración parcial: La integración entre módulos como compras, inventarios y proveedores no es completamente automatizada, lo que puede generar duplicidad de tareas.  
+
+---
+
+# TuFacturador
+**Descripción:**  
+TuFacturador es un software contable y de facturación electrónica que permite emitir comprobantes SUNAT, gestionar clientes y productos, y llevar un registro básico de ingresos y egresos. Está enfocado en emprendedores y microempresas que necesitan cumplir con la normativa tributaria sin complicaciones.  
+
+![Texto alternativo](capdosimagenes/nombre-de-la-imagen.png)
+
+**Debilidades:**  
+- Enfoque tributario limitado: Su principal fortaleza es la facturación electrónica, pero no ofrece una solución integral para la gestión comercial (ventas, inventarios, compras, reportes).  
+- Interfaz poco intuitiva: Algunos usuarios reportan dificultades para navegar entre módulos y configurar parámetros contables sin asistencia técnica.  
+- Ausencia de control operativo: No incluye funcionalidades clave como POS, trazabilidad entre compras y ventas, ni gestión avanzada de inventario.  
+
+---
+
+# Siigo Perú
+**Descripción:**  
+Siigo es una solución contable y administrativa en la nube, orientada a pymes y estudios contables. Ofrece módulos de contabilidad, facturación electrónica, gestión de inventarios, ventas y reportes financieros. Tiene presencia regional y busca posicionarse como una solución integral para empresas en crecimiento.  
+
+![Texto alternativo](capdosimagenes/nombre-de-la-imagen.png)
+
+**Debilidades:**  
+- Curva de aprendizaje elevada: Su interfaz y estructura modular requieren capacitación, lo que puede dificultar la adopción por parte de pequeños comerciantes sin experiencia tecnológica.  
+- Soporte técnico inconsistente: Usuarios reportan falta de acompañamiento en los primeros días de uso, lo que afecta la experiencia inicial.  
+- Limitaciones en la versión web: Algunas funcionalidades avanzadas están disponibles solo en versiones instaladas, lo que reduce la flexibilidad para negocios que operan 100% en la nube.  
+
   #### 2.1.1. Analisis competitivo
   #### 2.1.2. Estrategias y tácticas frente a competidores 
 ### 2.2. Entrevistas
