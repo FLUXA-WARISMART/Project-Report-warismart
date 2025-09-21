@@ -209,7 +209,7 @@ Con una visión centrada en la accesibilidad y la escalabilidad, FLUXA impulsa a
 
 | Foto | Nombres |
 | :---- | :---- |
-|  | Rivas Castillo, Christoper Steven     |
+|| Rivas Castillo, Christoper Steven     |
 |  | **Código** |
 |  | u202323551 |
 | **Habilidades** | **Descripción | Carrera** |
