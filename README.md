@@ -217,6 +217,26 @@ Siigo es una solución contable y administrativa en la nube, orientada a pymes y
 
 
   #### 2.1.1. Analisis competitivo
+  ## Competitive Analysis Landscape
+
+**¿Por qué llevar a cabo este análisis?**  
+El objetivo de este análisis es identificar nuestras diferencias frente a la competencia y descubrir qué aspectos podemos mejorar o innovar para fortalecer la presencia de WARISMART en el mercado. Este análisis tiene como propósito profundizar en el conocimiento de nuestros competidores directos e indirectos, permitiéndonos evaluar la eficacia de nuestra propuesta de valor y detectar áreas en las que debemos ser cuidadosos, con el fin de posicionarnos estratégicamente frente a soluciones ya existentes.
+
+| Aspecto / Competidor | WARISMART | VENDUS PERÚ | TuFacturador | Siigo |
+|---------------------|-----------|------------|--------------|-------|
+| Imagen de la empresa | ![warismart](capdosimagenes/warismart.png) | ![vendus](capdosimagenes/vendus.png) | ![tufacturador](capdosimagenes/tufacturador.png) | ![siigo](capdosimagenes/siigo.png) |
+| Perfil - Overview | Plataforma integral para gestión comercial en retail (inventarios, ventas, proveedores, reportes, seguridad). | Software peruano de punto de venta y facturación electrónica. | Plataforma de facturación electrónica enfocada en cumplimiento SUNAT. | Multinacional de software ERP y contabilidad con fuerte presencia en LatAm. |
+| Perfil - Ventaja Competitiva - ¿Qué valor ofrece a los clientes? | Escalable para pequeñas bodegas y grandes cadenas; ofrece eficiencia operativa, reducción de costos y control total en tiempo real. | Simplicidad y bajo costo; permite digitalización rápida de ventas e inventario. | Cumplimiento tributario con SUNAT; ofrece facturación electrónica confiable y fácil de usar. | Solución integral con respaldo regional; centraliza procesos de ventas, contabilidad, inventario y nómina. |
+| Perfil de Marketing - Mercado objetivo | Bodegas, tiendas medianas y grandes cadenas retail. | Micro y pequeñas empresas. | Micro y pequeñas empresas. | PYMEs y medianas-grandes empresas. |
+| Perfil de Marketing - Estrategias de marketing | Marketing digital, alianzas con asociaciones de bodegueros y retailers. | Enfoque en facilidad de uso y publicidad online. | Promoción basada en cumplimiento SUNAT y precios accesibles. | Reputación de marca, presencia en ferias y publicidad corporativa. |
+| Perfil de Producto - Productos & Servicios | POS, inventario, proveedores, reportes, seguridad de datos. | Facturación, ventas, inventario, reportes básicos. | Facturación electrónica, control de caja, reportes simples. | ERP completo: facturación, contabilidad, inventario, nómina. |
+| Perfil de Producto - Precios & Costos | Modelo flexible: licencias y suscripciones. | Planes económicos (accesibles para bodegas). | Bajo costo, pago por uso. | Costos medios-altos (según módulos contratados). |
+| Perfil de Producto - Canales de distribución (Web y/o Móvil) | Web y móvil. | Web y móvil. | Web (principalmente). | Web y móvil |
+| Análisis SWOT - Fortalezas | Escalabilidad, interfaz amigable, integración total en retail. | Bajo costo, simplicidad. | Cumplimiento normativo, simplicidad. | Amplia experiencia, variedad de módulos. |
+| Análisis SWOT - Debilidades | Nueva en el mercado, requiere posicionamiento. | Limitada en funciones avanzadas. | Poco escalable para negocios medianos-grandes. | Precio alto, complejidad de uso. |
+| Análisis SWOT - Oportunidades | Expansión en bodegas y retail moderno. | Crecimiento de la digitalización en bodegas. | Demanda obligatoria de facturación electrónica. | Creciente necesidad de centralizar procesos empresariales. |
+| Análisis SWOT - Amenazas | Competidores establecidos, barreras de entrada. | Soluciones más completas en el mercado. | Quedar limitado frente a software más integral. | Aparición de soluciones más ágiles y económicas. |
+
   
   #### 2.1.2. Estrategias y tácticas frente a competidores
   
