@@ -188,11 +188,11 @@ Con una visión centrada en la accesibilidad y la escalabilidad, FLUXA impulsa a
 
 | Nombres | Foto |
 | :---- | :---- |
-| Tasayco Almonacid, Rafael Augusto |  |
+| Tasayco Almonacid, Rafael Augusto |<p align="center"> <img width="80" alt="Image" src="https://github.com/user-attachments/assets/7e445bab-1aff-40f3-8064-559af7db3432" /> </p> |
 | **Código** |  |
 | U20231F226 |  |
 | **Descripción | Carrera** | **Habilidades** |
-|  |  |
+| Mi nombre es Rafael Tasayco, tengo 19 años y actualmente estoy cursando el quinto ciclo de mi carrera universitaria. Entre mis hobbies se encuentran jugar básquet, disfrutar de los videojuegos y escuchar música en mis momentos libres. Cuando culmine mis estudios, me encantaría especializarme y concentrarme en el campo de la ciberseguridad, un área que me apasiona y en la que deseo desarrollarme profesionalmente. | Ingeniería de software |
 
 | Foto | Nombres |
 | :---- | :---- |
