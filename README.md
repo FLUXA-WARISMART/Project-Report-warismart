@@ -196,11 +196,10 @@ Con una visión centrada en la accesibilidad y la escalabilidad, FLUXA impulsa a
 
 | Foto | Nombres |
 | :---- | :---- |
-|  | Huamán Cuba, Johan Giovani  |
-|  | **Código** |
-|  |  |
-| **Habilidades** | **Descripción | Carrera** |
-|  |  |
+| ![Johan](capunoimagenes/johan.png) | Huamán Cuba, Johan Giovani  |
+| **Código** | u202417448 |
+| **Descripción** | **Carrera** |
+| Soy Johan, aunque más me conocen y por ende, más cómodo me siento, llamándome Cuba. Soy una persona con diversos intereses, me gusta la tecnología, pero me gusta más lo que podamos hacer con ella. Siento notalgia del pasado e intento verlo con cuidado, pero en lo que sí no me cuido es en desvariar con la fantasía de construirla. | Ingeniería de Software | 
 
 | Foto | Nombres |
 | :---- | :---- |
