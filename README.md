@@ -194,9 +194,9 @@ Con una visión centrada en la accesibilidad y la escalabilidad, FLUXA impulsa a
 | **Descripción | Carrera** | **Habilidades** |
 | Mi nombre es Rafael Tasayco, tengo 19 años y actualmente estoy cursando el quinto ciclo de mi carrera universitaria. Entre mis hobbies se encuentran jugar básquet, disfrutar de los videojuegos y escuchar música en mis momentos libres. Cuando culmine mis estudios, me encantaría especializarme y concentrarme en el campo de la ciberseguridad, un área que me apasiona y en la que deseo desarrollarme profesionalmente. | Ingeniería de software |
 
-| Foto | Nombres |
+| Nombres | Foto |
 | :---- | :---- |
-| ![Johan](capunoimagenes/johan.png) | Huamán Cuba, Johan Giovani  |
+|Huamán Cuba, Johan Giovani | ![Johan](capunoimagenes/johan.JPEG) |
 | **Código** | u202417448 |
 | **Descripción** | **Carrera** |
 | Soy Johan, aunque más me conocen y por ende, más cómodo me siento, llamándome Cuba. Soy una persona con diversos intereses, me gusta la tecnología, pero me gusta más lo que podamos hacer con ella. Siento notalgia del pasado e intento verlo con cuidado, pero en lo que sí no me cuido es en desvariar con la fantasía de construirla. | Ingeniería de Software | 
