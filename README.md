@@ -488,15 +488,18 @@ A continuación mostramos los analíticos de colaboración con respecto a los co
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
 
 Durante el Sprint 2, el equipo avanzó trabajando en dos repositorios independientes:
-•	Landing Page: donde se desarrolló y desplegó la segunda versión.
-•	Frontend Web Application: con la primera versión ya disponible en producción.
+
+• Landing Page: donde se desarrolló y desplegó la segunda versión.
+• Frontend Web Application: con la primera versión ya disponible en producción.
+
 Para organizar el trabajo y mantener el código limpio, aplicamos la estrategia GitFlow, lo que nos permitió llevar un flujo ordenado y colaborativo:
-•	main: rama estable con las versiones listas para producción.
-•	develop: rama central donde se integraban las nuevas funcionalidades.
-•	feature/*: ramas creadas por cada integrante para desarrollar tareas específicas.
-•	release/ y hotfix/: usadas para preparar versiones finales y resolver errores urgentes.
-Cada miembro del equipo trabajó en sus propias features y luego levantaba un pull request hacia develop, que era revisado por otro compañero antes de ser integrado. De esta forma, logramos mantener la calidad del código y asegurar una participación equitativa de todos.
-##### Evidencia del Team Collaboration Insights
+
+• main: rama estable con las versiones listas para producción.
+• develop: rama central donde se integraban las nuevas funcionalidades.
+• feature/*: ramas creadas por cada integrante para desarrollar tareas específicas.
+• release/ y hotfix/: usadas para preparar versiones finales y resolver errores urgentes.
+
+Cada miembro del equipo trabajó en sus propias features y luego levantaba un pull request hacia develop, que era revisado por otro compañero antes de ser integrado.
 
 ## Conclusiones
 ## Anexos
