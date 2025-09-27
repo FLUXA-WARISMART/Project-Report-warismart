@@ -481,6 +481,16 @@ A continuación mostramos los analíticos de colaboración con respecto a los co
 
 #### 5.2.2.5.Execution Evidence for Sprint Review.
 
+En el Sprint 2, el equipo consiguió avances clave con dos entregas importantes:
+
+- **Landing Page**: se lanzó una nueva versión que incluye un diseño más responsivo, secciones informativas adicionales y mejoras que hacen la navegación más atractiva y cómoda para el usuario.  
+
+- **Frontend Web Application**: se liberó la primera versión funcional, con los componentes base ya integrados, navegación inicial entre pantallas, autenticación básica y la conexión a la API REST para trabajar con datos reales.  
+
+Con estas entregas, los usuarios ya pueden acceder al producto en producción, explorar las diferentes secciones y empezar a probar las primeras funcionalidades de la plataforma.
+
+##### Evidencia Sprint Review
+
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review.
