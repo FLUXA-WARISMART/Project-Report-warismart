@@ -469,6 +469,25 @@ Durante este Sprint, nos enfocamos exclusivamente en el desarrollo del frontend 
 A continuación mostramos los analíticos de colaboración con respecto a los commits en la organización.
 ![teamcollab Insights](https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-5-implementation-validation/capcincoimagenes/collaborationinsights.png)
 
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1.Sprint Planning 2.
+
+#### 5.2.2.2. Aspect Leaders and Collaborators.
+
+#### 5.2.2.3.Sprint Backlog 2.
+
+#### 5.2.2.4.Development Evidence for Sprint Review.
+
+#### 5.2.2.5.Execution Evidence for Sprint Review.
+
+#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+
+#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+
+#### 5.2.2.8.Team Collaboration Insights during Sprint.
+
+
 ## Conclusiones
 ## Anexos
 ## Bibliografía
