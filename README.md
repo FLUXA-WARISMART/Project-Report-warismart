@@ -499,10 +499,9 @@ Para organizar el trabajo y mantener el código limpio, aplicamos la estrategia 
 - **feature/***: ramas creadas por cada integrante para desarrollar tareas específicas.  
 - **release/** y **hotfix/**: usadas para preparar versiones finales y resolver errores urgentes.  
 
-Cada miembro del equipo trabajó en sus propias features y luego levantaba un pull request hacia **develop**, que era revisado por otro compañero antes de ser integrado.  
+Cada miembro del equipo trabajó en sus propias features y luego levantaba un pull request hacia **develop**, que era revisado por otro compañero antes de ser integrado. De esta forma, logramos mantener la calidad del código y asegurar una participación equitativa de todos.
 
-De esta forma, logramos mantener la calidad del código y asegurar una participación equitativa de todos.
-
+##### Evidencia del Team Collaboration Insights
 
 
 ## Conclusiones
