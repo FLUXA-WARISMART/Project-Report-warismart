@@ -202,10 +202,10 @@ Con una visión centrada en la accesibilidad y la escalabilidad, FLUXA impulsa a
 
 | Nombres | Foto |
 | :---- | :---- |
-|Gutarra Velapatiño, Sebastián Ernesto | <p align="center"> <img width="80" alt="Sebastián Image" src="https://github.com/FLUXA-WARISMART/Project-Report-warismart/blob/main/capunoimagenes/20240110_181602.jpg" /> </p> |
+|Gutarra Velapatiño, Sebastián Ernesto | <p align="center"> <img width="120" alt="Sebastián Image" src="https://github.com/FLUXA-WARISMART/Project-Report-warismart/blob/main/capunoimagenes/20240110_181602.jpg" /> </p> |
 | **Código** | u20241A314 |
 | **Descripción** | **Carrera** |
-| Me llamo Sebastián, soy un estudiante de 6to ciclo de la carrera de ingeniería de software en la UPC, me caracterizo por la perseverancia, la responsabilidad, la empatía y trabajo en equipo. Entre mis pasatiempos están los videojuegos, escuchar música, ir a conciertos e ir al gimnasio. | Ingeniería de Software | 
+| Me llamo Sebastián, soy un estudiante de 6to ciclo de la carrera de ingeniería de software en la UPC, me caracterizo por la perseverancia, la responsabilidad, la empatía y trabajo en equipo. Entre mis pasatiempos están los videojuegos, escuchar música, ir a conciertos e ir al gimnasio. Me comprometo a terminar satisfactoriamente el presente trabajo junto a todo mi equipo para poder obtener el conocimiento necesario en desarrollar páginas web. | Ingeniería de Software | 
 
 | Nombres | Foto |
 | :---- | :---- |
