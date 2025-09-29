@@ -1692,7 +1692,7 @@ Cada miembro del equipo trabajó en sus propias features y luego levantaba un pu
 
 ##### Evidencia del Team Collaboration Insights
 
-![Team Collaboration Insights](/capcincoimagenes/Team Collaboration Insights.png)
+![Team Collaboration Insights](./capcincoimagenes/Team%20Collaboration%20Insights.png)
 
  ---
  
