@@ -474,7 +474,7 @@ A continuación mostramos los analíticos de colaboración con respecto a los co
 #### 5.2.2.1.Sprint Planning 2.
 
 #### 5.2.2.2. Aspect Leaders and Collaborators.
-En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada para este segundo sprint. Los principales aspectos que se toman en cuenta en este sprint se centran en cada una de las principales secciones que presentará el front-end de nuestra aplicación. Para esto, hemos definido las siguientes secciones: Ingresos, Egersos, Inventario, Notificaciones, Configuración, Perfil de Usuario, Novedades de la aplicación y Promociones.
+En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada para este segundo sprint. Los principales aspectos que se toman en cuenta en este sprint se centran en cada una de las principales secciones que presentará el front-end de nuestra aplicación. Para esto, hemos definido las siguientes secciones: Ingresos, Egresos, Inventario, Notificaciones, Configuración, Perfil de Usuario, Novedades de la aplicación y Promociones.
 
 <table>
   <tbody>
