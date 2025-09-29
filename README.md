@@ -189,8 +189,7 @@ Con una visión centrada en la accesibilidad y la escalabilidad, FLUXA impulsa a
 | Nombres | Foto |
 | :---- | :---- |
 | Tasayco Almonacid, Rafael Augusto |<p align="center"> <img width="80" alt="Image" src="https://github.com/user-attachments/assets/7e445bab-1aff-40f3-8064-559af7db3432" /> </p> |
-| **Código** |  |
-| U20231F226 |  |
+| **Código** |  U20231F226 |  
 | **Descripción** | **Carrera** | **Habilidades** |
 | Mi nombre es Rafael Tasayco, tengo 19 años y actualmente estoy cursando el quinto ciclo de mi carrera universitaria. Entre mis hobbies se encuentran jugar básquet, disfrutar de los videojuegos y escuchar música en mis momentos libres. Cuando culmine mis estudios, me encantaría especializarme y concentrarme en el campo de la ciberseguridad, un área que me apasiona y en la que deseo desarrollarme profesionalmente. | Ingeniería de software |
 
@@ -203,7 +202,7 @@ Con una visión centrada en la accesibilidad y la escalabilidad, FLUXA impulsa a
 
 | Nombres | Foto |
 | :---- | :---- |
-|Gutarra Velapatiño, Sebastián Ernesto | ![Sebastián G.V.](capunoimagenes/20240110_181602.jpg) |
+|Gutarra Velapatiño, Sebastián Ernesto | <p align="center"> <img width="80" alt="Sebastián Image" src="https://github.com/FLUXA-WARISMART/Project-Report-warismart/blob/main/capunoimagenes/20240110_181602.jpg" /> </p> |
 | **Código** | u20241A314 |
 | **Descripción** | **Carrera** |
 | Me llamo Sebastián, soy un estudiante de 6to ciclo de la carrera de ingeniería de software en la UPC, me caracterizo por la perseverancia, la responsabilidad, la empatía y trabajo en equipo. Entre mis pasatiempos están los videojuegos, escuchar música, ir a conciertos e ir al gimnasio. | Ingeniería de Software | 
