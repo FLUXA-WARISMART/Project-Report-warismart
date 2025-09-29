@@ -173,7 +173,7 @@ En el siguiente cuadro se describen las acciones realizadas y las conclusiones d
 | Criterio específico | Acciones realizadas | Conclusiones |
 | ----- | ----- | ----- |
 | Trabaja en equipo para proporcionar liderazgo en forma conjunta | *\-Huamán Cuba, Johan Giovani*  **TB1: TP1: TB2: TF1:** *\-Tasayco Almonacid, Rafael Augusto* **TB1: TP1: TB2: TF1:**  *\-Gutarra Velapatiño, Sebastián Ernesto* **TB1: TP1: TB2: TF1:**  *\-Nuñez Soto, Andy Arturo* **TB1: TP1: TB2: TF1:**  *\-Rivas Castillo, Christoper Steven*     **TB1: TP1: TB2: TF1:**  |  |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | *\-Huamán Cuba, Johan Giovani*  **TB1: TP1: TB2: TF1:** *\-Tasayco Almonacid, Rafael Augusto* **TB1: TP1: TB2: TF1:**  *\-Gutarra Velapatiño, Sebastián Ernesto* **TB1: TP1: TB2: TF1:**  *\-Nuñez Soto, Andy Arturo* **TB1: TP1: TB2: TF1:**  *\-Rivas Castillo, Christoper Steven*     **TB1: TP1: TB2: TF1:**   |  |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | *\-Huamán Cuba, Johan Giovani*  **TB1: TP1: TB2: TF1:** *\-Tasayco Almonacid, Rafael Augusto* **TB1: TP1: TB2: TF1:**  *\-Gutarra Velapatiño, Sebastián Ernesto* **TB1:** Capítulo 4: elaborar la base de datos y diagrama de clases y todo el Capítulo 5: Product Validation, Implementation & Deployment **TP1: TB2: TF1:**  *\-Nuñez Soto, Andy Arturo* **TB1: TP1: TB2: TF1:**  *\-Rivas Castillo, Christoper Steven*     **TB1: TP1: TB2: TF1:**   |  |
    
  </div>
 
@@ -191,7 +191,7 @@ Con una visión centrada en la accesibilidad y la escalabilidad, FLUXA impulsa a
 | Tasayco Almonacid, Rafael Augusto |<p align="center"> <img width="80" alt="Image" src="https://github.com/user-attachments/assets/7e445bab-1aff-40f3-8064-559af7db3432" /> </p> |
 | **Código** |  |
 | U20231F226 |  |
-| **Descripción | Carrera** | **Habilidades** |
+| **Descripción** | **Carrera** | **Habilidades** |
 | Mi nombre es Rafael Tasayco, tengo 19 años y actualmente estoy cursando el quinto ciclo de mi carrera universitaria. Entre mis hobbies se encuentran jugar básquet, disfrutar de los videojuegos y escuchar música en mis momentos libres. Cuando culmine mis estudios, me encantaría especializarme y concentrarme en el campo de la ciberseguridad, un área que me apasiona y en la que deseo desarrollarme profesionalmente. | Ingeniería de software |
 
 | Nombres | Foto |
@@ -201,19 +201,18 @@ Con una visión centrada en la accesibilidad y la escalabilidad, FLUXA impulsa a
 | **Descripción** | **Carrera** |
 | Soy Johan, aunque más me conocen y por ende, más cómodo me siento, llamándome Cuba. Soy una persona con diversos intereses, me gusta la tecnología, pero me gusta más lo que podamos hacer con ella. Siento nostalgia del pasado e intento verlo con cautela, gracias a esto, puedo desvariar con la fantasía de construir un buen futuro. | Ingeniería de Software | 
 
-| Foto | Nombres |
+| Nombres | Foto |
 | :---- | :---- |
-|  | Gutarra Velapatiño, Sebastián Ernesto |
-|  | **Código** |
-|  |  |
-| **Habilidades** | **Descripción | Carrera** |
-|  |  |
+|Gutarra Velapatiño, Sebastián Ernesto | ![Sebastián G.V.](capunoimagenes/20240110_181602.jpg) |
+| **Código** | u20241A314 |
+| **Descripción** | **Carrera** |
+| Me llamo Sebastián, soy un estudiante de 6to ciclo de la carrera de ingeniería de software en la UPC, me caracterizo por la perseverancia, la responsabilidad, la empatía y trabajo en equipo. Entre mis pasatiempos están los videojuegos, escuchar música, ir a conciertos e ir al gimnasio. | Ingeniería de Software | 
 
 | Nombres | Foto |
 | :---- | :---- |
 | Nuñez Soto, Andy Arturo |![Foto_Arturo](https://drive.google.com/uc?export=view&id=1Wtjq6fplduhNzflaOcK1Fjh5-w24X7Pv)|
 | **Código** | u20231e795 |
-| **Descripción | Carrera** |
+| **Descripción** | **Carrera** |
 | Mi nombre es Andy Arturo Nuñez Soto, Actualmente curso el quinto ciclo de la carrera de Ingeniería de Software. Soy una persona creativa y comprometida, lo que me permite enfrentar desafíos con determinación y encontrar soluciones efectivas. Voy a aportar mis habilidades al proyecto con el objetivo de alcanzar resultados exitosos. | Ingeniería de Software |
 
 | Foto | Nombres |
