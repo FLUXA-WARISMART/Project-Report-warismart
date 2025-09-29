@@ -150,7 +150,15 @@ URL del Repositoria del Project Report: https://github.com/FLUXA-WARISMART/waris
       - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-      
+    - [5.2.2. Sprint 2](#522-sprint-2)
+      - [5.2.2.1. Sprint Planning 2.](#5221-sprint-planning-2)
+      - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
+      - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
+      - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
+      - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8. Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
@@ -1506,7 +1514,7 @@ Entonces el sistema guarda el producto en la base de datos
 Y el sistema mue-stra un mensaje de confirmación “Producto registrado con éxito”.
 ```
 
-  #### 5.1.4. Software Deployment Configuration
+  
 ### 5.2. Landing Page, Services & Applications Implementation
 
 ### 5.2.1. Sprint 1
@@ -1633,18 +1641,166 @@ Esta subsección muestra la evidencia del trabajo de desarrollo completado duran
 
 #### 5.2.1.5. Execution Evidence for Sprint Review  
 En este punto presentamos la evidencia de ejecución de la Landing Page desarrollada en el Sprint 1.
+
 ![Pantalla de la landong page](https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-5-implementation-validation/capcincoimagenes/landing1.jpg)
+
 ![Pantalla de la landong page](https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-5-implementation-validation/capcincoimagenes/landing2.jpg)
+
 ![Pantalla de la landong page](https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-5-implementation-validation/capcincoimagenes/landing3.jpg)
+
 ![Pantalla de la landong page](https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-5-implementation-validation/capcincoimagenes/landing4.jpg)
+
 ![Pantalla de la landong page](https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-5-implementation-validation/capcincoimagenes/landing5.jpg)
+
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review  
 
 Durante este Sprint, nos enfocamos exclusivamente en el desarrollo del frontend estático de la Landing Page. En consecuencia, no se implementaron endpoints ni funcionalidades relacionadas con servicios web o APIs RESTful.
 
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review  
-#### 5.2.1.8. Team Collaboration Insights during Sprint
+#### 5.2.1.7. Team Collaboration Insights during Sprint
+A continuación mostramos los analíticos de colaboración con respecto a los commits en la organización.
+![teamcollab Insights](https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-5-implementation-validation/capcincoimagenes/collaborationinsights.png)
+
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1.Sprint Planning 2
+
+#### 5.2.2.2. Aspect Leaders and Collaborators.
+En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada para este segundo sprint. Los principales aspectos que se toman en cuenta en este sprint se centran en cada una de las principales secciones que presentará el front-end de nuestra aplicación. Para esto, hemos definido las siguientes secciones: Ingresos, Egresos, Inventario, Notificaciones, Configuración, Perfil de Usuario, Novedades de la aplicación y Promociones.
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>Team Member</strong></td>
+      <td><strong>GitHub Username</strong></td>
+      <td><strong>Ingresos y Egresos</strong></td>
+      <td><strong>Inventario</strong></td>
+      <td><strong>Notificaciones</strong></td>
+      <td><strong>Configuración</strong></td>
+      <td><strong>Perfil de Usuario</strong></td>
+      <td><strong>Novedades y promociones</strong></td>
+    </tr>
+    <tr>
+      <td>Rivas Castillo, Christoper Steven</td>
+      <td>CODERT0PH</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Gutarra Velapatiño, Sebastian</td>
+      <td>SebastianGutarra</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Nuñez Soto, Andy Arturo</td>
+      <td>arturo-ns</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Huamán Cuba, Johan Giovani </td>
+      <td>Johancuba</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Tasayco Almonacid, Rafael Augusto</td>
+      <td>Rfaleltsy</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.2.3.Sprint Backlog 2
+
+#### 5.2.2.4.Development Evidence for Sprint Review
+
+#### 5.2.2.5.Execution Evidence for Sprint Review
+
+En el Sprint 2, el equipo consiguió avances clave con dos entregas importantes:
+
+- **Landing Page**: se lanzó una nueva versión que incluye un diseño más responsivo, secciones informativas adicionales y mejoras que hacen la navegación más atractiva y cómoda para el usuario.  
+
+- **Frontend Web Application**: se liberó la primera versión funcional, con los componentes base ya integrados, navegación inicial entre pantallas, autenticación básica y la conexión a la API REST para trabajar con datos reales.  
+
+Con estas entregas, los usuarios ya pueden acceder al producto en producción, explorar las diferentes secciones y empezar a probar las primeras funcionalidades de la plataforma.
+
+##### Evidencia Sprint Review
+
+![Dashboard](./capcincoimagenes/Dashboard.png)
+
+#### 5.2.2.6.Services Documentation Evidence for Sprint Review
+Durante este Sprint, se implementó y documentó el endpoint de registro de productos, esencial para el Módulo de Inventarios.
+
+Introducción: Se documentó el Endpoint principal para la creación de nuevos productos.
+
+| Endpoint |	Acciones Implementadas |	Verbo HTTP |	Sintaxis de Llamada |	Parámetros (Ej.) |	Ejemplo de Response (JSON) |
+| /api/products |	Registro de nuevo producto |	POST |	POST /api/products |	name, price, stock, category, code |	{ "message": "Producto registrado con éxito", "id": 123 } |
+
+URL del Repositorio de Web Services: https:
+
+IDs de Commits de Documentación: d0c9f8e (Documentación del endpoint de registro de productos).
+
+#### 5.2.2.7.Software Deployment Evidence for Sprint Review
+Se resume el proceso de despliegue realizado para la Landing Page V2 y la Web Application V1 (Frontend) en producción.
+
+Introducción: Se estableció el entorno de producción inicial para el Frontend de la Web Application y se actualizó la Landing Page. Esto abarcó la configuración de hosting y el flujo de Git.
+
+Actividades:
+
+Landing Page: Despliegue de la V2 en hosting estático.
+
+Web Application: Primera configuración de recursos en un cloud provider (ej. Vercel/Netlify/Azure App Service) para la V1 del Frontend, permitiendo acceso público.
+
+Estrategia GitFlow: Aplicación de la estrategia GitFlow para mantener ramas main estables y develop para integración de features.
+
+(Incluir aquí 1-2 Screenshots)
+
+Captura 1: Vista del pipeline de CI/CD (GitHub Actions/similar) mostrando el despliegue exitoso de la Web Application a producción.
+
+Captura 2: Panel de control del cloud provider mostrando el dominio activo de la Web Application V1.
+
+#### 5.2.2.8.Team Collaboration Insights during Sprint
+
+Durante el Sprint 2, el equipo avanzó trabajando en dos repositorios independientes:
+
+- **Landing Page**: donde se desarrolló y desplegó la segunda versión.  
+- **Frontend Web Application**: con la primera versión ya disponible en producción.  
+
+Para organizar el trabajo y mantener el código limpio, aplicamos la estrategia **GitFlow**, lo que nos permitió llevar un flujo ordenado y colaborativo:
+
+- **main**: rama estable con las versiones listas para producción.  
+- **develop**: rama central donde se integraban las nuevas funcionalidades.  
+- **feature/***: ramas creadas por cada integrante para desarrollar tareas específicas.  
+- **release/** y **hotfix/**: usadas para preparar versiones finales y resolver errores urgentes.  
+
+Cada miembro del equipo trabajó en sus propias features y luego levantaba un pull request hacia **develop**, que era revisado por otro compañero antes de ser integrado. De esta forma, logramos mantener la calidad del código y asegurar una participación equitativa de todos.
+
+##### Evidencia del Team Collaboration Insights
+
+![Team Collaboration Insights](./capcincoimagenes/Team%20Collaboration%20Insights.png)
 
 ### 5.2.2. Sprint 2
 
