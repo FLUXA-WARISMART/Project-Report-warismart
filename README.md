@@ -474,6 +474,72 @@ A continuación mostramos los analíticos de colaboración con respecto a los co
 #### 5.2.2.1.Sprint Planning 2.
 
 #### 5.2.2.2. Aspect Leaders and Collaborators.
+En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada para este segundo sprint. Los principales aspectos que se toman en cuenta en este sprint se centran en cada una de las principales secciones que presentará el front-end de nuestra aplicación. Para esto, hemos definido las siguientes secciones: Ingresos, Egersos, Inventario, Notificaciones, Configuración, Perfil de Usuario, Novedades de la aplicación y Promociones.
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>Team Member</strong></td>
+      <td><strong>GitHub Username</strong></td>
+      <td><strong>Ingresos y Egresos</strong></td>
+      <td><strong>Inventario</strong></td>
+      <td><strong>Notificaciones</strong></td>
+      <td><strong>Configuración</strong></td>
+      <td><strong>Perfil de Usuario</strong></td>
+      <td><strong>Novedades y promociones</strong></td>
+    </tr>
+    <tr>
+      <td>Rivas Castillo, Christoper Steven</td>
+      <td>CODERT0PH</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Gutarra Velapatiño, Sebastian</td>
+      <td>SebastianGutarra</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Nuñez Soto, Andy Arturo</td>
+      <td>arturo-ns</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Huamán Cuba, Johan Giovani </td>
+      <td>Johancuba</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Tasayco Almonacid, Rafael Augusto</td>
+      <td>Rfaleltsy</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+  </tbody>
+</table>
 
 #### 5.2.2.3.Sprint Backlog 2.
 
