@@ -560,8 +560,35 @@ Con estas entregas, los usuarios ya pueden acceder al producto en producción, e
 ![Dashboard](./capcincoimagenes/Dashboard.png)
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+Durante este Sprint, se implementó y documentó el endpoint de registro de productos, esencial para el Módulo de Inventarios.
+
+Introducción: Se documentó el Endpoint principal para la creación de nuevos productos.
+
+| Endpoint |	Acciones Implementadas |	Verbo HTTP |	Sintaxis de Llamada |	Parámetros (Ej.) |	Ejemplo de Response (JSON) |
+| /api/products |	Registro de nuevo producto |	POST |	POST /api/products |	name, price, stock, category, code |	{ "message": "Producto registrado con éxito", "id": 123 } |
+
+URL del Repositorio de Web Services: https:
+
+IDs de Commits de Documentación: d0c9f8e (Documentación del endpoint de registro de productos).
 
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+Se resume el proceso de despliegue realizado para la Landing Page V2 y la Web Application V1 (Frontend) en producción.
+
+Introducción: Se estableció el entorno de producción inicial para el Frontend de la Web Application y se actualizó la Landing Page. Esto abarcó la configuración de hosting y el flujo de Git.
+
+Actividades:
+
+Landing Page: Despliegue de la V2 en hosting estático.
+
+Web Application: Primera configuración de recursos en un cloud provider (ej. Vercel/Netlify/Azure App Service) para la V1 del Frontend, permitiendo acceso público.
+
+Estrategia GitFlow: Aplicación de la estrategia GitFlow para mantener ramas main estables y develop para integración de features.
+
+(Incluir aquí 1-2 Screenshots)
+
+Captura 1: Vista del pipeline de CI/CD (GitHub Actions/similar) mostrando el despliegue exitoso de la Web Application a producción.
+
+Captura 2: Panel de control del cloud provider mostrando el dominio activo de la Web Application V1.
 
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
 
