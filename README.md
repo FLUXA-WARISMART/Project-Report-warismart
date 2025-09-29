@@ -145,7 +145,15 @@ URL del Repositoria del Project Report:
       - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-      
+    - [5.2.2. Sprint 2](#522-sprint-2)
+      - [5.2.2.1. Sprint Planning 2.](#5221-sprint-planning-2)
+      - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
+      - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
+      - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
+      - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8. Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
@@ -471,7 +479,7 @@ A continuación mostramos los analíticos de colaboración con respecto a los co
 
 ### 5.2.2. Sprint 2
 
-#### 5.2.2.1.Sprint Planning 2.
+#### 5.2.2.1.Sprint Planning 2
 
 #### 5.2.2.2. Aspect Leaders and Collaborators.
 En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada para este segundo sprint. Los principales aspectos que se toman en cuenta en este sprint se centran en cada una de las principales secciones que presentará el front-end de nuestra aplicación. Para esto, hemos definido las siguientes secciones: Ingresos, Egresos, Inventario, Notificaciones, Configuración, Perfil de Usuario, Novedades de la aplicación y Promociones.
@@ -541,11 +549,11 @@ En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada
   </tbody>
 </table>
 
-#### 5.2.2.3.Sprint Backlog 2.
+#### 5.2.2.3.Sprint Backlog 2
 
-#### 5.2.2.4.Development Evidence for Sprint Review.
+#### 5.2.2.4.Development Evidence for Sprint Review
 
-#### 5.2.2.5.Execution Evidence for Sprint Review.
+#### 5.2.2.5.Execution Evidence for Sprint Review
 
 En el Sprint 2, el equipo consiguió avances clave con dos entregas importantes:
 
@@ -559,7 +567,7 @@ Con estas entregas, los usuarios ya pueden acceder al producto en producción, e
 
 ![Dashboard](./capcincoimagenes/Dashboard.png)
 
-#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+#### 5.2.2.6.Services Documentation Evidence for Sprint Review
 Durante este Sprint, se implementó y documentó el endpoint de registro de productos, esencial para el Módulo de Inventarios.
 
 Introducción: Se documentó el Endpoint principal para la creación de nuevos productos.
@@ -571,7 +579,7 @@ URL del Repositorio de Web Services: https:
 
 IDs de Commits de Documentación: d0c9f8e (Documentación del endpoint de registro de productos).
 
-#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+#### 5.2.2.7.Software Deployment Evidence for Sprint Review
 Se resume el proceso de despliegue realizado para la Landing Page V2 y la Web Application V1 (Frontend) en producción.
 
 Introducción: Se estableció el entorno de producción inicial para el Frontend de la Web Application y se actualizó la Landing Page. Esto abarcó la configuración de hosting y el flujo de Git.
@@ -590,7 +598,7 @@ Captura 1: Vista del pipeline de CI/CD (GitHub Actions/similar) mostrando el des
 
 Captura 2: Panel de control del cloud provider mostrando el dominio activo de la Web Application V1.
 
-#### 5.2.2.8.Team Collaboration Insights during Sprint.
+#### 5.2.2.8.Team Collaboration Insights during Sprint
 
 Durante el Sprint 2, el equipo avanzó trabajando en dos repositorios independientes:
 
