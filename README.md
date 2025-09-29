@@ -557,6 +557,8 @@ Con estas entregas, los usuarios ya pueden acceder al producto en producción, e
 
 ##### Evidencia Sprint Review
 
+![Dashboard](./capcincoimagenes/Dashboard.png)
+
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review.
