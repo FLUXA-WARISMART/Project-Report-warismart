@@ -551,6 +551,19 @@ En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada
 
 #### 5.2.2.3.Sprint Backlog 2
 
+Para el segundo sprint, lorem ipsum.
+
+| **Sprint #**   | Sprint 2                                |                    |                                                                       |                                                                           |                      |                  |            |
+| -------------- | --------------------------------------- | ------------------ | --------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------------------- | ---------------- | ---------- |
+| **User Story** |                                         | **Work-Item/task** |                                                                       |                                                                           |                      |                  |            |
+| **ID**         | **Título**                              | **ID**             | **Título**                                                            | **Descripción**                                                           | **Estimación (hrs)** | **Assigned to**  | **Status** |
+| HU-          | X                  | T06                | X            | X    | X                    | Cristopher Rivas | Done       |
+| HU-          | X     | T07                | X |X   | X                  | Arturo Núñez       | Done       |
+| HU-          | X | T08                | X                   | X  | X                    | Sebastián Gutarra | Done       |
+| HU-          | X         | T09                | X     | X         |X                    | Johan Huamán       | Done       |
+| HU-          | X            | T10                |  X    | X       | X                 | Rafael Tasayco | Done       |
+
+
 #### 5.2.2.4.Development Evidence for Sprint Review
 
 #### 5.2.2.5.Execution Evidence for Sprint Review
