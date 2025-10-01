@@ -565,6 +565,14 @@ Para el segundo sprint, lorem ipsum.
 
 
 #### 5.2.2.4.Development Evidence for Sprint Review
+Esta subsección muestra la evidencia del trabajo de desarrollo completado durante el Sprint 2 para fines de revisión.
+| Repository                  | Branch               | Commit Id | Commit Message                      | Committed on | Team Member                |
+|------------------------------|----------------------|-----------|-------------------------------------|--------------|-----------------------------|
+| FLUXA-WARISMART/warismart-informe    |chapter-5-implementation-validation                 | 8593375e0fec12a120d86656504ebf91be7ff283   | Update README.md                     | 29/09/2025   | Cristopher Rivas              |
+| FLUXA-WARISMART/warismart-informe     | chapter-5-implementation-validation        | X  | X   |X      | Johan Huamán             |
+| FLUXA-WARISMART/warismart-informe     | chapter-5-implementation-validation         | 130fbbcd9052e62f09ce2fe30ca93843fa30b16a   | Update README.md    | 29/09/2025      | Arturo Núñez              |
+| FLUXA-WARISMART/warismart-informe     | chapter-5-implementation-validation        | 723bdcf7bd279be44d45c73ea4b98b453e452613 | Sprint Backlog 2   | 1/10/2025     | Rafael Tasayco               |
+| FLUXA-WARISMART/warismart-informe       | chapter-5-implementation-validation | a029f99a58803e8ec60cac85fc85686a4ebaa581 | feat: added 5.2.2.2 Aspect Leaders and Collaborators | 29/09/2025  | Sebastián Gutarra           |
 
 #### 5.2.2.5.Execution Evidence for Sprint Review
 
