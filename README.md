@@ -574,19 +574,19 @@ Link del Figma:<br><br>
   #### 4.4.2. Web Applications Wireflow Diagrams  
   #### 4.4.3. Web Applications Mock-ups
 
-![Dashboard](./capcincoimagenes/Dashboard.png)
+![Dashboard](./capcuatroimagenes/Dashboard.png)
 
-![inventario](./capcincoimagenes/inventario.png)
+![inventario](./capcuatroimagenes/inventario.png)
 
-![ventas](./capcincoimagenes/ventas.png)
+![ventas](./capcuatroimagenes/ventas.png)
 
-![proveedores](./capcincoimagenes/proveedores.png)
+![proveedores](./capcuatroimagenes/proveedores.png)
 
-![reportes](./capcincoimagenes/reportes.png)
+![reportes](./capcuatroimagenes/reportes.png)
 
-![usuarios](./capcincoimagenes/usuarios.png)
+![usuarios](./capcuatroimagenes/usuarios.png)
 
-![configuracion](./capcincoimagenes/configuracion.png)
+![configuracion](./capcuatroimagenes/configuracion.png)
 
   #### 4.4.4. Web Applications User Flow Diagrams  
 ### 4.5. Web Applications Prototyping.
