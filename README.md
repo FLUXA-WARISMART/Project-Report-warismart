@@ -31,8 +31,16 @@
 | Nuñez Soto, Andy Arturo                   |  U20231e795  |
 | Rivas Castillo, Christoper Steven         |  U202323551  |
 
+----
 
+# Student Outcome. 
 
+| Criterio específico  |  Acciones realizadas | Conclusiones |
+| :---- | :---- | :---- |
+| 5.c.1 Trabaja en equipo para proporcionar liderazgo en forma conjunta   | Andy Arturo Nuñez SotoTB1Trabajé fomentando la comunicación efectiva dentro del equipo, escuchando las ideas de mis compañeros y promoviendo la toma de decisiones compartidas.  | Esta experiencia me permitió fortalecer mis habilidades blandas, aprendiendo que dirigir no es imponer, sino guiar y apoyar al equipo para lograr resultados en conjunto. |
+| 5.c.2 Crea un entorno colaborativo inclusivo, establece metas , planifica tareas y cumple objetivos   | Andy Arturo Nuñez SotoTB1 Trabajé contribuyendo a un ambiente de trabajo inclusivo donde se respetaron las opiniones y habilidades de cada integrante. Participé en la definición de metas claras, la planificación organizada de tareas y el seguimiento del progreso del proyecto. Promoví la cooperación, la empatía y la responsabilidad para cumplir los objetivos en los plazos establecidos. |  La experiencia me ayudó a comprender la importancia de la organización, la empatía y la inclusión para alcanzar metas comunes. Aprendí que un entorno colaborativo bien gestionado potencia tanto el desempeño individual como el éxito del equipo.  |
+
+----
 
 <br><div align="center"><h3>Agosto 2025</h3></div><br>
 </div>
