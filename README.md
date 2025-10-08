@@ -1764,7 +1764,7 @@ Con estas entregas, los usuarios ya pueden acceder al producto en producción, e
 
 ##### Evidencia Sprint Review
 
-![Dashboard](./capcincoimagenes/Dashboard.png)
+![Dashboard](./capcincoimagenes/DashboardWeb.png)
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review
 Durante este Sprint, se implementó y documentó el endpoint de registro de productos, esencial para el Módulo de Inventarios.
@@ -1798,54 +1798,6 @@ Captura 1: Vista del pipeline de CI/CD (GitHub Actions/similar) mostrando el des
 Captura 2: Panel de control del cloud provider mostrando el dominio activo de la Web Application V1.
 
 #### 5.2.2.8.Team Collaboration Insights during Sprint
-
-Durante el Sprint 2, el equipo avanzó trabajando en dos repositorios independientes:
-
-- **Landing Page**: donde se desarrolló y desplegó la segunda versión.  
-- **Frontend Web Application**: con la primera versión ya disponible en producción.  
-
-Para organizar el trabajo y mantener el código limpio, aplicamos la estrategia **GitFlow**, lo que nos permitió llevar un flujo ordenado y colaborativo:
-
-- **main**: rama estable con las versiones listas para producción.  
-- **develop**: rama central donde se integraban las nuevas funcionalidades.  
-- **feature/***: ramas creadas por cada integrante para desarrollar tareas específicas.  
-- **release/** y **hotfix/**: usadas para preparar versiones finales y resolver errores urgentes.  
-
-Cada miembro del equipo trabajó en sus propias features y luego levantaba un pull request hacia **develop**, que era revisado por otro compañero antes de ser integrado. De esta forma, logramos mantener la calidad del código y asegurar una participación equitativa de todos.
-
-##### Evidencia del Team Collaboration Insights
-
-![Team Collaboration Insights](./capcincoimagenes/Team%20Collaboration%20Insights.png)
-
-### 5.2.2. Sprint 2
-
-#### 5.2.2.1.Sprint Planning 2.
-
-#### 5.2.2.2. Aspect Leaders and Collaborators.
-
-#### 5.2.2.3.Sprint Backlog 2.
-
-#### 5.2.2.4.Development Evidence for Sprint Review.
-
-#### 5.2.2.5.Execution Evidence for Sprint Review.
-
-En el Sprint 2, el equipo consiguió avances clave con dos entregas importantes:
-
-- **Landing Page**: se lanzó una nueva versión que incluye un diseño más responsivo, secciones informativas adicionales y mejoras que hacen la navegación más atractiva y cómoda para el usuario.  
-
-- **Frontend Web Application**: se liberó la primera versión funcional, con los componentes base ya integrados, navegación inicial entre pantallas, autenticación básica y la conexión a la API REST para trabajar con datos reales.  
-
-Con estas entregas, los usuarios ya pueden acceder al producto en producción, explorar las diferentes secciones y empezar a probar las primeras funcionalidades de la plataforma.
-
-##### Evidencia Sprint Review
-
-![Dashboard](./capcincoimagenes/Dashboard.png)
-
-#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
-
-#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
-
-#### 5.2.2.8.Team Collaboration Insights during Sprint.
 
 Durante el Sprint 2, el equipo avanzó trabajando en dos repositorios independientes:
 
