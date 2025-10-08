@@ -586,7 +586,7 @@ Con estas entregas, los usuarios ya pueden acceder al producto en producción, e
 
 ##### Evidencia Sprint Review
 
-![Dashboard](./capcincoimagenes/Dashboard.png)
+![Dashboard](./capcincoimagenes/DashboardWeb.png)
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review
 Durante este Sprint, se implementó y documentó el endpoint de registro de productos, esencial para el Módulo de Inventarios.
