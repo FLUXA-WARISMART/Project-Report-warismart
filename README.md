@@ -570,7 +570,20 @@ Link del Figma:<br><br>
 <https://www.figma.com/design/CGCddZLkVtMTX1Dnbs6NQX/Untitled?node-id=0-1&t=NeAwKiYbsSiZdMlI-1>
 
 ### 4.4. Web Applications UX/UI Design
-  #### 4.4.1. Web Applications Wireframes  
+  #### 4.4.1. Web Applications Wireframes
+  ![DashboardWireframe](./capcuatroimagenes/DashboardWireframe.png)
+
+![inventarioWireframe](./capcuatroimagenes/InventarioWireframe.png)
+
+![ventasWireframe](./capcuatroimagenes/VentasWireframe.png)
+
+![proveedoresWireframe](./capcuatroimagenes/ProveedoresWireframe.png)
+
+![reportesWireframe](./capcuatroimagenes/ReportesWireframe.png)
+
+![usuariosWireframe](./capcuatroimagenes/GestionUsuariosWireframe.png)
+
+![configuracionWireframe](./capcuatroimagenes/ConfiguracionWireframe.png)
   #### 4.4.2. Web Applications Wireflow Diagrams  
   #### 4.4.3. Web Applications Mock-ups
 
