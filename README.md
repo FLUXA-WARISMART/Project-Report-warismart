@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/Mr-Code-star/probando-mardow/blob/main/resources/imgs/UPC_logo_transparente.png" alt="Logo-UPC" width="150">
   
-## Universidad Peruana de Ciencias Apla
+## Universidad Peruana de Ciencias Apli
 
 **Ingeniería de Software**
 
