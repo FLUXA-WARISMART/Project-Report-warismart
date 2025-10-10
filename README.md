@@ -1751,7 +1751,7 @@ En esta sección se presenta el Sprint Planning correspondiente al segundo sprin
 | **Sum of Story Points (del 6 al 18)** | 43 |
 
 #### 5.2.2.2. Aspect Leaders and Collaborators.
-En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada para este segundo sprint. Los principales aspectos que se toman en cuenta en este sprint se centran en cada una de las principales secciones que presentará el front-end de nuestra aplicación. Para esto, hemos definido las siguientes secciones: Ingresos, Egresos, Inventario, Notificaciones, Configuración, Perfil de Usuario, Novedades de la aplicación y Promociones.
+En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada para este segundo sprint. Los principales aspectos que se toman en cuenta en este sprint se centran en cada una de las principales secciones que presentará el front-end de nuestra aplicación. Para esto, hemos definido las siguientes secciones: Dashboard, Inventario, Ventas, Proveedores, Reportes y Configuración.
 
 <table>
   <tbody>
@@ -1763,7 +1763,7 @@ En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada
       <td><strong>Ventas</strong></td>
       <td><strong>Proveedores</strong></td>
       <td><strong>Reportes</strong></td>
-      <td><strong>Gestión de usuarios</strong></td>
+      <td><strong>Configuración</strong></td>
     </tr>
     <tr>
       <td>Rivas Castillo, Christoper Steven</td>
