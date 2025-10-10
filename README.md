@@ -557,11 +557,11 @@ Para el segundo sprint, lorem ipsum.
 | -------------- | --------------------------------------- | ------------------ | --------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------------------- | ---------------- | ---------- |
 | **User Story** |                                         | **Work-Item/task** |                                                                       |                                                                           |                      |                  |            |
 | **ID**         | **Título**                              | **ID**             | **Título**                                                            | **Descripción**                                                           | **Estimación (hrs)** | **Assigned to**  | **Status** |
-| HU-          | X                  | T06                | X            | X    | X                    | Cristopher Rivas | Done       |
-| HU-          | X     | T07                | X |X   | X                  | Arturo Núñez       | Done       |
-| HU-          | X | T08                | X                   | X  | X                    | Sebastián Gutarra | Done       |
-| HU-          | X         | T09                | X     | X         |X                    | Johan Huamán       | Done       |
-| HU-          | X            | T10                |  X    | X       | X                 | Rafael Tasayco | Done       |
+| HU-01          | Registro de productos                  | T06                | Implementar formulario de registro de productos            | Como bodeguero, quiero registrar mis productos con su código y categoría, para llevar un control ordenado del inventario.    | 2.5                    | Cristopher Rivas | Done       |
+| HU-07          | Registro de ventas (POS)     | T07                | Desarrollar módulo de registro de ventas | Como bodeguero, quiero registrar ventas en el sistema, para llevar un control de las salidas de productos.   | 3.0                  | Arturo Núñez       | Done       |
+| HU-06          | Registro de mermas | T08                | Crear interfaz para registrar productos dañados o vencidos                   | Crear interfaz para registrar productos dañados o vencidos  | 2.0                    | Sebastián Gutarra | Done       |
+| HU-02          | Alertas de vencimiento        | T09                | Implementar sistema de alertas visuales y notificaciones     | Implementar sistema de alertas visuales y notificaciones         |2.5                    | Johan Huamán       | Done       |
+| HU-10          | Historial de compras y perfil de usuario            | T10                |  Desarrollar sección de perfil con historial de compras    | Desarrollar sección de perfil con historial de compras       | 2.0                 | Rafael Tasayco | Done       |
 
 
 #### 5.2.2.4.Development Evidence for Sprint Review
