@@ -1404,33 +1404,35 @@ Link del Figma:<br><br>
 ![configuracionWireframe](./capcuatroimagenes/ConfiguracionWireframe.png)
   #### 4.4.2. Web Applications Wireflow Diagrams 
 A continuación, se presentan los wireflows que competen a nuestros user goals.
-**User goal 1:** Como usuario, quiero poder visualizar el inventario de mis productos en tiempo real y obtener alertas cuando un artículo esté bajo en stock.
 
+
+**User goal 1:** Como usuario, quiero poder visualizar el inventario de mis productos en tiempo real y obtener alertas cuando un artículo esté bajo en stock.
+![wflowInventario](./capcuatroimagenes/WFLOW1.png)
 Cuando el usuario clickee en "Inventario" desde la barra principal, esto lo dirigirá a la página de gestión de inventario en la cual podrá ver en un cuadro sus artículos con su respectivo stock. Además los artículos bajos en stock salen con una alerta de color rojo y artúclos por vencer con una alerta color amarillo. Finalmente puede observar cantidad total de productos y el valor total de estos.
 
 
 **User goal 2:** Como usuario, quiero poder gestionar mis ventas y visualizar su respectiva información.
-
+![wflowVentas](./capcuatroimagenes/wflow2.png)
 Cuando el usuario clickee en "Ventas" desde la barra principal, esto lo dirigirá a la página de gestión de ventas en la cual podrá ver un cuadro con el historial de las últimas ventas y una información resumida de estas, también cuenta con indicadores tales como el monto total de las ventas del día, la cantidad de boletas emitidas, de clientes atendidos, entre otros.
 
 
 **User goal 3:** Como usuario, quiero poder gestionar la información acerca de mis proveedores.
-
+![wflowProveedores](./capcuatroimagenes/wflow3.png)
 Cuando el usuario clickee en "Proveedores" desde la barra principal, esto lo dirigirá a la página de gestión de preoveedores en la cual podrá ver un cuadro con sus diversos proveedores y una información resumida de ellos, también cuenta con indicadores tales como el monto pendiente de pago, las órdenes activas, entre otros. Así como botones para añadir un nuevo proveedor o crear una orden de compra.
 
 
 **User goal 4:** Como usuario, quiero poder acceder a reportes de mi negocio en tiempo real.
-
+![wflowReportes](./capcuatroimagenes/wflow4.png)
 Cuando el usuario clickee en "Reportes" desde la barra principal, esto lo dirigirá a la página de reportes en la cual podrá ver diferentes gráficas con respecto a la situación del negocio en tiempo real e indicadores, a modo de resumen de la información proporcionada en las secciones anteriores.
 
 
 **User goal 5:** Como usuario, quiero poder gestionar los usuarios, administrar sus roles y permisos.
-
+![wflowUsuarios](./capcuatroimagenes/wflow5.png)
 Cuando el usuario clickee en "Gestión de usuarios" desde la barra principal, esto lo dirigirá a la página de gestión de usuarios en la cual podrá asignar roles, visualizar sus últimos accesos y administrar su desempeño en el trabajo. Además cuenta con indicadores como el rendimiento del personal, roles activos, total de usuarios y sesiones del día.
 
 
 **User goal 6:** Como usuario, quiero poder modificar aspectos de la configuración de mi negocio.
-
+![wflowConfiguracion](./capcuatroimagenes/wflow6.png)
 Cuando el usuario clickee en "Configuración" desde la barra principal, esto lo dirigirá a la página de configuración en la cual podrá editar bajo su criterio la información del negocio y variables técnicas de su negocio.
 
   
@@ -1450,19 +1452,6 @@ Cuando el usuario clickee en "Configuración" desde la barra principal, esto lo 
 
 ![configuracion](./capcuatroimagenes/configuracion.png)
 
-![Dashboard](./capcincoimagenes/Dashboard.png)
-
-![inventario](./capcincoimagenes/inventario.png)
-
-![ventas](./capcincoimagenes/ventas.png)
-
-![proveedores](./capcincoimagenes/proveedores.png)
-
-![reportes](./capcincoimagenes/reportes.png)
-
-![usuarios](./capcincoimagenes/usuarios.png)
-
-![configuracion](./capcincoimagenes/configuracion.png)
   
   #### 4.4.4. Web Applications User Flow Diagrams  
 ### 4.5. Web Applications Prototyping.
@@ -1769,28 +1758,28 @@ En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada
     <tr>
       <td><strong>Team Member</strong></td>
       <td><strong>GitHub Username</strong></td>
-      <td><strong>Ingresos y Egresos</strong></td>
+      <td><strong>Dashboard</strong></td>
       <td><strong>Inventario</strong></td>
-      <td><strong>Notificaciones</strong></td>
-      <td><strong>Configuración</strong></td>
-      <td><strong>Perfil de Usuario</strong></td>
-      <td><strong>Novedades y promociones</strong></td>
+      <td><strong>Ventas</strong></td>
+      <td><strong>Proveedores</strong></td>
+      <td><strong>Reportes</strong></td>
+      <td><strong>Gestión de usuarios</strong></td>
     </tr>
     <tr>
       <td>Rivas Castillo, Christoper Steven</td>
       <td>CODERT0PH</td>
+      <td>L</td>
       <td>C</td>
       <td>C</td>
       <td>C</td>
       <td>C</td>
-      <td>C</td>
-      <td>C</td>
+      <td>L</td>
     </tr>
     <tr>
       <td>Gutarra Velapatiño, Sebastian</td>
       <td>SebastianGutarra</td>
       <td>C</td>
-      <td>C</td>
+      <td>L</td>
       <td>C</td>
       <td>C</td>
       <td>C</td>
@@ -1801,7 +1790,7 @@ En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada
       <td>arturo-ns</td>
       <td>C</td>
       <td>C</td>
-      <td>C</td>
+      <td>L</td>
       <td>C</td>
       <td>C</td>
       <td>C</td>
@@ -1812,7 +1801,7 @@ En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada
       <td>C</td>
       <td>C</td>
       <td>C</td>
-      <td>C</td>
+      <td>L</td>
       <td>C</td>
       <td>C</td>
     </tr>
@@ -1823,7 +1812,7 @@ En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada
       <td>C</td>
       <td>C</td>
       <td>C</td>
-      <td>C</td>
+      <td>L</td>
       <td>C</td>
     </tr>
   </tbody>
