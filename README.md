@@ -1710,6 +1710,7 @@ A continuación mostramos los analíticos de colaboración con respecto a los co
 ![teamcollab Insights](https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-5-implementation-validation/capcincoimagenes/collaborationinsights.png)
 
 ### 5.2.2. Sprint 2
+Esta sección presenta el segundo sprint con su planificación, roles, backlog, evidencias de desarrollo, ejecución, documentación de servicios, despliegue de software y la colaboración del equipo.
 
 #### 5.2.2.1.Sprint Planning 2
 
