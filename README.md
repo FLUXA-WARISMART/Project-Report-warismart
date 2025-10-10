@@ -11,7 +11,7 @@
 
 **Sección:** 7420
 
-**Profesor:** Alex Humberto, Sánchez Ponce 
+**Profesor:** Alex Humberto, Sánchez Ponce
 
 ----
 
