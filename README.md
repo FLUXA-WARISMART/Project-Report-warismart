@@ -4,7 +4,7 @@
 ## Universidad Peruana de Ciencias Aplicadas
 
 **Ingeniería de Software**
-e
+
 **Ciclo:** 2025-2
 
 **Curso:** Aplicaciones Web
