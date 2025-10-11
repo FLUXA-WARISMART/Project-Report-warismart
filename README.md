@@ -1878,35 +1878,57 @@ Con estas entregas, los usuarios ya pueden acceder al producto en producción, e
 ![configuracion](./capcincoimagenes/configuracionWeb.png)
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review
-Durante este Sprint, se implementó y documentó el endpoint de registro de productos, esencial para el Módulo de Inventarios.
+Durante el Sprint 2, se obtuvieron progresos significativos en la implementación de las vistas iniciales de la aplicación y en la creación de los *endpoints* de la API. 
+Este éxito fue resultado directo de una **planificación previa coordinada** que permitió al equipo definir con claridad los objetivos y los puntos clave del desarrollo.
 
-Introducción: Se documentó el Endpoint principal para la creación de nuevos productos.
+Para gestionar estos avances de manera eficiente, el equipo centralizó el trabajo utilizando las herramientas colaborativas de **GitHub**, lo que facilitó la coordinación 
+de entregas rápidas y minimizó los errores de integración. Además, se adoptó formalmente la metodología **Git Flow** para mantener un flujo de trabajo organizado. Este 
+enfoque nos permitió llevar un control riguroso de las contribuciones individuales y asegurar una **revisión de código** (*peer review*) obligatoria antes de integrar 
+cualquier nueva funcionalidad a la rama principal de desarrollo (`develop`).
 
-| Endpoint |	Acciones Implementadas |	Verbo HTTP |	Sintaxis de Llamada |	Parámetros (Ej.) |	Ejemplo de Response (JSON) |
-| /api/products |	Registro de nuevo producto |	POST |	POST /api/products |	name, price, stock, category, code |	{ "message": "Producto registrado con éxito", "id": 123 } |
+---
 
-URL del Repositorio de Web Services: https:
+### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-IDs de Commits de Documentación: d0c9f8e (Documentación del endpoint de registro de productos).
-
-#### 5.2.2.7.Software Deployment Evidence for Sprint Review
 Se resume el proceso de despliegue realizado para la Landing Page V2 y la Web Application V1 (Frontend) en producción.
 
-Introducción: Se estableció el entorno de producción inicial para el Frontend de la Web Application y se actualizó la Landing Page. Esto abarcó la configuración de hosting y el flujo de Git.
+**Introducción:** Se estableció el entorno de producción inicial para el *Frontend* de la Web Application y se actualizó la Landing Page. 
 
-Actividades:
+**Actividades:**
 
-Landing Page: Despliegue de la V2 en hosting estático.
+1.  **Landing Page:** Despliegue de la V2 en *hosting* estático.
 
-Web Application: Primera configuración de recursos en un cloud provider (ej. Vercel/Netlify/Azure App Service) para la V1 del Frontend, permitiendo acceso público.
+Realizamos la segunda versión de nuestra landing Page, una versión mejorada incluyendo los métodos de pago y un asistente virtual y
+volviéndolo todo más transional y sin dejar de lado el tema 'responsive'
 
-Estrategia GitFlow: Aplicación de la estrategia GitFlow para mantener ramas main estables y develop para integración de features.
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/Project-Report-warismart/blob/main/capcincoimagenes/landing1.jpg?raw=true"/>
+</p>
 
-(Incluir aquí 1-2 Screenshots)
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/Project-Report-warismart/blob/main/capcincoimagenes/landing3.jpg?raw=true"/>
+</p>
 
-Captura 1: Vista del pipeline de CI/CD (GitHub Actions/similar) mostrando el despliegue exitoso de la Web Application a producción.
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/Project-Report-warismart/blob/main/capcincoimagenes/landing2.jpg?raw=true"/>
+</p>
 
-Captura 2: Panel de control del cloud provider mostrando el dominio activo de la Web Application V1.
+**Link de la Web Application V1:** `https://fluxa-warismart.github.io/Landing-Page-WARISMART/`
+
+3.  **Web Application:** Primera configuración de recursos en un *cloud provider* (ej. Vercel) para la V1 del *Frontend*, permitiendo acceso público.
+
+Lo primero que realizamos fue crear un nuevo repositorio en GitHub para nuestra Aplicación Web
+**Estrategia GitFlow:** Aplicación de la estrategia **GitFlow** para mantener ramas `main` estables y `develop` para integración de *features*.
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/Project-Report-warismart/blob/main/capcincoimagenes/imagengithubcoloab.jpg?raw=true"/>
+</p>
+
+Finalmente configuramos en Vercel para obtener un enlace directo a la Web Application, facilitando la revisión continua de los cambios realizados.
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/Project-Report-warismart/blob/main/capcincoimagenes/imagenwebvercel.jpg?raw=true"/>
+</p>
+
+**Link de la Web Application V1:** `https://web-warismart.web.app`
 
 #### 5.2.2.8.Team Collaboration Insights during Sprint
 
