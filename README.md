@@ -1481,6 +1481,11 @@ Cuando el usuario clickee en "Gestión de usuarios" desde la barra principal, es
 Cuando el usuario clickee en "Configuración" desde la barra principal, esto lo dirigirá a la página de configuración en la cual podrá editar bajo su criterio la información del negocio y variables técnicas de su negocio.
   
 ### 4.5. Web Applications Prototyping.
+Este es el prototipo de la página de Warismart para evaluar la interacción de los usuarios con las diferentes secciones de la página y los botones de la cabecera que los dirijan a estas.
+![prototipo](./capcuatroimagenes/prototype.png)
+Figma: https://www.figma.com/design/nHUsbpxGqcOfLic7Wlw1Rb/WEB?node-id=6-7660&t=QZTpSHInLF5QYLIq-0
+Demostración en video:
+
 ### 4.6. Domain-Driven Software Architecture
   #### 4.6.1. Software Architecture Context Diagram 
 <p align="center">
