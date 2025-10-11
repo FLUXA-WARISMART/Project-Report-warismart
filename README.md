@@ -72,10 +72,6 @@ URL de Organización de GitHub FLUXA-WARISMART: https://github.com/FLUXA-WARISMA
 URL del Repositoria del Project Report: https://github.com/FLUXA-WARISMART/warismart-informe
 
 
-<strong>*Entrega TB1:*</strong>
-
-+ Desarrollo de Actividades:
-+ Evidencias de colaboracion y commits:
 
 ---
 # Contenido
