@@ -11,7 +11,7 @@
 
 **Sección:** 7420
 
-**Profesor:** Alex Humberto, Sánchez Ponce 
+**Profesor:** Alex Humberto, Sánchez Ponce
 
 ----
 
@@ -1402,7 +1402,40 @@ Link del Figma:<br><br>
 ![usuariosWireframe](./capcuatroimagenes/GestionUsuariosWireframe.png)
 
 ![configuracionWireframe](./capcuatroimagenes/ConfiguracionWireframe.png)
-  #### 4.4.2. Web Applications Wireflow Diagrams  
+  #### 4.4.2. Web Applications Wireflow Diagrams 
+A continuación, se presentan los wireflows que competen a nuestros user goals.
+
+
+**User goal 1:** Como usuario, quiero poder visualizar el inventario de mis productos en tiempo real y obtener alertas cuando un artículo esté bajo en stock.
+![wflowInventario](./capcuatroimagenes/WFLOW1.png)
+Cuando el usuario clickee en "Inventario" desde la barra principal, esto lo dirigirá a la página de gestión de inventario en la cual podrá ver en un cuadro sus artículos con su respectivo stock. Además los artículos bajos en stock salen con una alerta de color rojo y artúclos por vencer con una alerta color amarillo. Finalmente puede observar cantidad total de productos y el valor total de estos.
+
+
+**User goal 2:** Como usuario, quiero poder gestionar mis ventas y visualizar su respectiva información.
+![wflowVentas](./capcuatroimagenes/wflow2.png)
+Cuando el usuario clickee en "Ventas" desde la barra principal, esto lo dirigirá a la página de gestión de ventas en la cual podrá ver un cuadro con el historial de las últimas ventas y una información resumida de estas, también cuenta con indicadores tales como el monto total de las ventas del día, la cantidad de boletas emitidas, de clientes atendidos, entre otros.
+
+
+**User goal 3:** Como usuario, quiero poder gestionar la información acerca de mis proveedores.
+![wflowProveedores](./capcuatroimagenes/wflow3.png)
+Cuando el usuario clickee en "Proveedores" desde la barra principal, esto lo dirigirá a la página de gestión de preoveedores en la cual podrá ver un cuadro con sus diversos proveedores y una información resumida de ellos, también cuenta con indicadores tales como el monto pendiente de pago, las órdenes activas, entre otros. Así como botones para añadir un nuevo proveedor o crear una orden de compra.
+
+
+**User goal 4:** Como usuario, quiero poder acceder a reportes de mi negocio en tiempo real.
+![wflowReportes](./capcuatroimagenes/wflow4.png)
+Cuando el usuario clickee en "Reportes" desde la barra principal, esto lo dirigirá a la página de reportes en la cual podrá ver diferentes gráficas con respecto a la situación del negocio en tiempo real e indicadores, a modo de resumen de la información proporcionada en las secciones anteriores.
+
+
+**User goal 5:** Como usuario, quiero poder gestionar los usuarios, administrar sus roles y permisos.
+![wflowUsuarios](./capcuatroimagenes/wflow5.png)
+Cuando el usuario clickee en "Gestión de usuarios" desde la barra principal, esto lo dirigirá a la página de gestión de usuarios en la cual podrá asignar roles, visualizar sus últimos accesos y administrar su desempeño en el trabajo. Además cuenta con indicadores como el rendimiento del personal, roles activos, total de usuarios y sesiones del día.
+
+
+**User goal 6:** Como usuario, quiero poder modificar aspectos de la configuración de mi negocio.
+![wflowConfiguracion](./capcuatroimagenes/wflow6.png)
+Cuando el usuario clickee en "Configuración" desde la barra principal, esto lo dirigirá a la página de configuración en la cual podrá editar bajo su criterio la información del negocio y variables técnicas de su negocio.
+
+  
   #### 4.4.3. Web Applications Mock-ups
 
 ![Dashboard](./capcuatroimagenes/Dashboard.png)
@@ -1723,39 +1756,56 @@ A continuación mostramos los analíticos de colaboración con respecto a los co
 ![teamcollab Insights](https://github.com/FLUXA-WARISMART/warismart-informe/blob/chapter-5-implementation-validation/capcincoimagenes/collaborationinsights.png)
 
 ### 5.2.2. Sprint 2
+Esta sección presenta el segundo sprint con su planificación, roles, backlog, evidencias de desarrollo, ejecución, documentación de servicios, despliegue de software y la colaboración del equipo.
 
 #### 5.2.2.1.Sprint Planning 2
+En esta sección se presenta el Sprint Planning correspondiente al segundo sprint. Se resumen los principales acuerdos de la reunión, con el repaso del sprint anterior, la identificación de mejoras y la definición del objetivo del sprint.
+
+| **Sprint #** | **Sprint 2** |
+|---------------|--------------|
+| **Sprint Planning Background** |  |
+| **Date** | 2025-09-29 |
+| **Time** | 4:04 PM |
+| **Location** | Remote via Github platform |
+| **Prepared By** | — |
+| **Attendees (for the planning meeting)** | All Warismart team members |
+| **Sprint 1 Review Summary** | En el primer sprint se completó la documentación requerida como entregable principal. Aunque algunas partes quedaron con detalles por mejorar, se cumplió con los objetivos establecidos. El Product Owner valoró positivamente el esfuerzo del equipo para entregar los artefactos solicitados y recomendó ajustar ciertas partes para las siguientes entregas. |
+| **Sprint 1 Retrospective Summary** | El equipo identificó varios aspectos en la forma de trabajo que se deben mejorar. Se observó falta de compromiso en algunos momentos, poca coordinación entre los miembros y concentración del avance en un lapso corto de semanas. Como oportunidad de mejora, se acordó organizar mejor las responsabilidades y mantener un progreso más constante durante el sprint. El Product Owner valoró que se lograra entregar la documentación, aunque señaló la necesidad de mejorar la organización del equipo para los próximos sprints. |
+| **Sprint Goal & User Stories** |  |
+| **Sprint 2 Goal** | Nuestro enfoque está en entregar una nueva versión del Landing Page y la primera versión funcional del Frontend Web Application. <br><br>Creemos que esto ofrece a los usuarios y stakeholders una primera experiencia visual e interactiva con el sistema. <br><br>Esto se confirmará cuando se despliegue la versión mejorada del Landing Page y el equipo valide que el frontend web se encuentre desplegada y no de manera local. |
+| **Sprint 2 Velocity** | 33 |
+| **Sum of Story Points (del 6 al 18)** | 43 |
 
 #### 5.2.2.2. Aspect Leaders and Collaborators.
-En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada para este segundo sprint. Los principales aspectos que se toman en cuenta en este sprint se centran en cada una de las principales secciones que presentará el front-end de nuestra aplicación. Para esto, hemos definido las siguientes secciones: Ingresos, Egresos, Inventario, Notificaciones, Configuración, Perfil de Usuario, Novedades de la aplicación y Promociones.
+En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada para este segundo sprint. Los principales aspectos que se toman en cuenta en este sprint se centran en cada una de las principales secciones que presentará el front-end de nuestra aplicación. Para esto, hemos definido las siguientes secciones: Dashboard, Inventario, Ventas, Proveedores, Reportes y Configuración.
 
 <table>
   <tbody>
     <tr>
       <td><strong>Team Member</strong></td>
       <td><strong>GitHub Username</strong></td>
-      <td><strong>Ingresos y Egresos</strong></td>
+      <td><strong>Dashboard</strong></td>
       <td><strong>Inventario</strong></td>
-      <td><strong>Notificaciones</strong></td>
+      <td><strong>Ventas</strong></td>
+      <td><strong>Proveedores</strong></td>
+      <td><strong>Reportes</strong></td>
       <td><strong>Configuración</strong></td>
-      <td><strong>Perfil de Usuario</strong></td>
-      <td><strong>Novedades y promociones</strong></td>
     </tr>
     <tr>
       <td>Rivas Castillo, Christoper Steven</td>
       <td>CODERT0PH</td>
+      <td>L</td>
       <td>C</td>
       <td>C</td>
       <td>C</td>
       <td>C</td>
-      <td>C</td>
-      <td>C</td>
+      <td>L</td>
     </tr>
     <tr>
       <td>Gutarra Velapatiño, Sebastian</td>
       <td>SebastianGutarra</td>
       <td>C</td>
-      <td>C</td>
+      <td>L</td>
       <td>C</td>
       <td>C</td>
       <td>C</td>
@@ -1766,7 +1816,7 @@ En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada
       <td>arturo-ns</td>
       <td>C</td>
       <td>C</td>
-      <td>C</td>
+      <td>L</td>
       <td>C</td>
       <td>C</td>
       <td>C</td>
@@ -1777,7 +1827,7 @@ En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada
       <td>C</td>
       <td>C</td>
       <td>C</td>
-      <td>C</td>
+      <td>L</td>
       <td>C</td>
       <td>C</td>
     </tr>
@@ -1788,7 +1838,7 @@ En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada
       <td>C</td>
       <td>C</td>
       <td>C</td>
-      <td>C</td>
+      <td>L</td>
       <td>C</td>
     </tr>
   </tbody>
