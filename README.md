@@ -39,12 +39,12 @@
 ### Registro de Versiones
 <div align="justify">
   
-| Entregable | Versión | Fecha | Autor | Descripción |
-| :---: | ----- | ----- | ----- | ----- |
-| TB1 | 0.1 | 10/09/2025 | Huamán Cuba, Johan Giovani  Tasayco Almonacid, Rafael Augusto Gutarra Velapatiño, Sebastián Ernesto Nuñez Soto, Andy Arturo Rivas Castillo, Christoper Steven                                 |  |
-| TP1 | 0.2 | 09/10/2025 | Huamán Cuba, Johan Giovani  Tasayco Almonacid, Rafael Augusto Gutarra Velapatiño, Sebastián Ernesto Nuñez Soto, Andy Arturo Rivas Castillo, Christoper Steven       |  |
-| TB2 | 0.3 |  | Huamán Cuba, Johan Giovani  Tasayco Almonacid, Rafael Augusto Gutarra Velapatiño, Sebastián Ernesto Nuñez Soto, Andy Arturo Rivas Castillo, Christoper Steven       |  |
-| Tf1 | 0.4 |  | Huamán Cuba, Johan Giovani  Tasayco Almonacid, Rafael Augusto Gutarra Velapatiño, Sebastián Ernesto Nuñez Soto, Andy Arturo Rivas Castillo, Christoper Steven       |  |
+| Entregable | Versión | Fecha | Autor | 
+| :---: | ----- | ----- | ----- |
+| TB1 | 0.1 | 10/09/2025 | Huamán Cuba, Johan Giovani  Tasayco Almonacid, Rafael Augusto Gutarra Velapatiño, Sebastián Ernesto Nuñez Soto, Andy Arturo Rivas Castillo, Christoper Steven                                 |
+| TP1 | 0.2 | 09/10/2025 | Huamán Cuba, Johan Giovani  Tasayco Almonacid, Rafael Augusto Gutarra Velapatiño, Sebastián Ernesto Nuñez Soto, Andy Arturo Rivas Castillo, Christoper Steven       |
+| TB2 | 0.3 |  | Huamán Cuba, Johan Giovani  Tasayco Almonacid, Rafael Augusto Gutarra Velapatiño, Sebastián Ernesto Nuñez Soto, Andy Arturo Rivas Castillo, Christoper Steven       |
+| Tf1 | 0.4 |  | Huamán Cuba, Johan Giovani  Tasayco Almonacid, Rafael Augusto Gutarra Velapatiño, Sebastián Ernesto Nuñez Soto, Andy Arturo Rivas Castillo, Christoper Steven       |
 
 </div><br><br>
 
