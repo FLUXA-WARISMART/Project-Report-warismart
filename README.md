@@ -51,6 +51,11 @@
 ----
 
 # Student Outcome. 
+Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos. 
+
+En el enunciado oficial del trabajo final del curso, se indica explícitamente que SI730 contribuye al logro del ABET – EAC – Student Outcome 5, dentro de un entorno ágil y colaborativo para el desarrollo y despliegue de una solución web distribuida. 
+
+En el siguiente cuadro se describen las acciones realizadas y las conclusiones del grupo, que permiten sustentar el haber alcanzado el ABET – EAC – Student Outcome 5.
 
 | Criterio específico  |  Acciones realizadas | Conclusiones |
 | :---- | :---- | :---- |
