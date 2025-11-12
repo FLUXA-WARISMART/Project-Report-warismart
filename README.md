@@ -1973,6 +1973,46 @@ Cada miembro del equipo trabajó en sus propias features y luego levantaba un pu
 
 ![Team Collaboration Insights](./capcincoimagenes/Team%20Collaboration%20Insights.png)
 
+
+### 5.2.3. Sprint 3
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+Durante el **Sprint 3**, el equipo alcanzó avances importantes con la entrega y despliegue de tres componentes principales del sistema:
+
+- **Landing Page**: se lanzó la **tercera versión**, que incorpora mejoras visuales, optimización de rendimiento y contenido actualizado orientado a captar nuevos usuarios.  
+
+- **Frontend Web Application**: se liberó la **segunda versión**, que integra nuevas funcionalidades conectadas con el backend, un diseño más pulido y una experiencia de usuario más fluida.  
+
+- **Backend API**: se desplegó la **primera versión funcional**, que establece la comunicación entre el frontend y la base de datos mediante endpoints seguros y validados.  
+
+Con estas entregas, la plataforma ofrece una integración completa entre sus módulos, permitiendo a los usuarios interactuar con datos reales, visualizar información dinámica y experimentar una versión más estable y madura del producto.
+
+##### Evidencia Sprint Review
+
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+Durante el **Sprint 3**, el equipo logró avances significativos trabajando en tres repositorios principales:  
+
+- **Landing Page**: se desarrolló y desplegó la **tercera versión**, incorporando mejoras visuales y de rendimiento para optimizar la experiencia del usuario.  
+- **Frontend Web Application**: se liberó la **segunda versión**, que integró nuevas funcionalidades conectadas con los servicios del backend.  
+- **Backend API**: se completó y desplegó la **primera versión funcional**, permitiendo la comunicación estable con el frontend mediante endpoints seguros y documentados.  
+
+Para mantener un flujo de trabajo ordenado y una colaboración eficiente, se continuó utilizando la estrategia **GitFlow**, que permitió una integración continua y control de calidad del código:
+
+- **main**: rama estable con las versiones listas para producción.  
+- **develop**: rama central donde se integraban las nuevas funcionalidades.  
+- **feature/***: ramas creadas por cada integrante para desarrollar tareas específicas.  
+- **release/** y **hotfix/**: destinadas a preparar versiones finales y resolver incidencias críticas.  
+
+Cada integrante trabajó en sus respectivas ramas **feature/**, realizando posteriormente un **pull request** hacia **develop**, el cual era revisado por otro miembro antes de su integración.  
+Gracias a esta dinámica, el equipo mantuvo una estructura de código limpia, revisiones colaborativas y una participación equitativa entre todos los miembros.
+
+##### Evidencia del Team Collaboration Insights
+
+![Team Collaboration Insights](./capcincoimagenes/Team%20Collaboration%20Insights.png)
+
  ---
  
 ## Conclusiones
