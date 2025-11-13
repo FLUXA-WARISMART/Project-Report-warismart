@@ -1977,7 +1977,7 @@ Cada miembro del equipo trabajó en sus propias features y luego levantaba un pu
 ### 5.2.3. Sprint 3
 Esta sección presenta el tercer sprint con su planificación, roles, backlog, evidencias de desarrollo, ejecución, documentación de servicios, despliegue de software y la colaboración del equipo.
 
-#### 5.2.3.1.Sprint Planning 2
+#### 5.2.3.1.Sprint Planning 3
 En esta sección se presenta el Sprint Planning correspondiente al tercer sprint. Se resumen los principales acuerdos de la reunión, con el repaso del sprint anterior, la identificación de mejoras y la definición del objetivo del sprint.
 
 <table>
@@ -2083,6 +2083,19 @@ En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada
     </tr>
   </tbody>
 </table>
+
+#### 5.2.3.3.Sprint Backlog 3
+
+
+| **Sprint #**   | Sprint 3                               |                    |                                                                       |                                                                           |                      |                  |            |
+| -------------- | --------------------------------------- | ------------------ | --------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------------------- | ---------------- | ---------- |
+| **User Story** |                                         | **Work-Item/task** |                                                                       |                                                                           |                      |                  |            |
+| **ID**         | **Título**                              | **ID**             | **Título**                                                            | **Descripción**                                                           | **Estimación (hrs)** | **Assigned to**  | **Status** |
+| HU-07          | Registro de ventas (POS)     | T07                | Desarrollar módulo de registro de ventas | Como bodeguero, quiero registrar ventas en el sistema, para llevar un control de las salidas de productos.   | 2.0                  | Arturo Núñez       | Done       |
+| HU-08          | Emisión de boletas electrónicas | T08                | Emitir boletas al registrar una venta.                  | Como administrador, quiero que se emitan boletas electrónicas, para cumplir normativa y clientes.  | 3.0                    | Sebastián Gutarra | Done       |
+| HU-12          | Reporte de ventas        | T12                | Visualizar ventas diarias registradas en el sistema.     | Como administrador, quiero visualizar reportes de ventas, para analizar el rendimiento.         |2.5                    | Johan Huamán       | Done       |
+| HU-21          | Reportes financieros            | T21                |  Visualizar ingresos, egresos o un análisis de rentabilidad.    | Como administrador de retail, quiero acceder a reportes financieros, para conocer la rentabilidad del negocio.       | 2.5                 | Rafael Tasayco | Done       |
+| HU-26          | Inicio de sesión seguro            | T26                |  Iniciar esión con credenciales válidas.    | Como bodeguero, quiero iniciar sesión de forma segura, para proteger mi información y la del negocio.       | 1.5                 | Christoper Rivas | Done       |
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
