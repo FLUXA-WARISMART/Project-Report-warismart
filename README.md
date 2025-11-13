@@ -2097,7 +2097,7 @@ En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada
 | HU-21          | Reportes financieros            | T21                |  Visualizar ingresos, egresos o un análisis de rentabilidad.    | Como administrador de retail, quiero acceder a reportes financieros, para conocer la rentabilidad del negocio.       | 2.5                 | Rafael Tasayco | Done       |
 | HU-26          | Inicio de sesión seguro            | T26                |  Iniciar esión con credenciales válidas.    | Como bodeguero, quiero iniciar sesión de forma segura, para proteger mi información y la del negocio.       | 1.5                 | Christoper Rivas | Done       |
 
-#### 5.2.3.4.Development Evidence for Sprint Review
+#### 5.2.3.4. Development Evidence for Sprint Review
 Esta subsección muestra la evidencia del trabajo de desarrollo completado durante el Sprint 3 para fines de revisión.
 | Repository                  | Branch               | Commit Id | Commit Message                      | Committed on | Team Member                |
 |------------------------------|----------------------|-----------|-------------------------------------|--------------|-----------------------------|
@@ -2126,6 +2126,16 @@ Se registraron los endpoints desarrollados durante el sprint, con su respectiva 
 |  2  | `/api/users`          | Obtiene lista de usuarios registrados  |    `GET`    | —                                       |
 |  3  | `/api/users/{id}`     | Obtiene los datos de un usuario por ID |    `GET`    | `id` (path param)                       |
 |  4  | `/api/users/register` | Registra un nuevo usuario              |    `POST`   | `name`, `email`, `password` (body JSON) |
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+Durante este sprint se avanzó en los procesos de despliegue en Azure, configurando los recursos necesarios para hospedar los componentes del proyecto: Landing Page, Web Application y Web Services.
+
+El objetivo fue preparar el entorno en la nube para permitir la integración y ejecución del backend, así como el acceso público a la aplicación desde el navegador.
+
+A continuación mostraremos las imágenes como evidencia del deployment realizado en este sprint:
+
+
 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
