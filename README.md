@@ -1977,7 +1977,7 @@ Cada miembro del equipo trabajó en sus propias features y luego levantaba un pu
 ### 5.2.3. Sprint 3
 Esta sección presenta el tercer sprint con su planificación, roles, backlog, evidencias de desarrollo, ejecución, documentación de servicios, despliegue de software y la colaboración del equipo.
 
-#### 5.2.3.1.Sprint Planning 3
+#### 5.2.3.1. Sprint Planning 3
 En esta sección se presenta el Sprint Planning correspondiente al tercer sprint. Se resumen los principales acuerdos de la reunión, con el repaso del sprint anterior, la identificación de mejoras y la definición del objetivo del sprint.
 
 <table>
@@ -2084,7 +2084,7 @@ En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada
   </tbody>
 </table>
 
-#### 5.2.3.3.Sprint Backlog 3
+#### 5.2.3.3. Sprint Backlog 3
 
 
 | **Sprint #**   | Sprint 3                               |                    |                                                                       |                                                                           |                      |                  |            |
@@ -2096,6 +2096,13 @@ En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada
 | HU-12          | Reporte de ventas        | T12                | Visualizar ventas diarias registradas en el sistema.     | Como administrador, quiero visualizar reportes de ventas, para analizar el rendimiento.         |2.5                    | Johan Huamán       | Done       |
 | HU-21          | Reportes financieros            | T21                |  Visualizar ingresos, egresos o un análisis de rentabilidad.    | Como administrador de retail, quiero acceder a reportes financieros, para conocer la rentabilidad del negocio.       | 2.5                 | Rafael Tasayco | Done       |
 | HU-26          | Inicio de sesión seguro            | T26                |  Iniciar esión con credenciales válidas.    | Como bodeguero, quiero iniciar sesión de forma segura, para proteger mi información y la del negocio.       | 1.5                 | Christoper Rivas | Done       |
+
+#### 5.2.3.4.Development Evidence for Sprint Review
+Esta subsección muestra la evidencia del trabajo de desarrollo completado durante el Sprint 3 para fines de revisión.
+| Repository                  | Branch               | Commit Id | Commit Message                      | Committed on | Team Member                |
+|------------------------------|----------------------|-----------|-------------------------------------|--------------|-----------------------------|
+| FLUXA-WARISMART/warismart-informe     | main         | 0e6845f2c874037ed18785e83e18dda09c350f8c   | Update student outcome .md    | 12/11/2025      | Arturo Núñez              |
+| FLUXA-WARISMART/warismart-informe       | main | 3ace4914380757243adfa8b9f92651bfc29f355f | added: Sprint Backlog 3 | 13/11/2025  | Sebastián Gutarra           |
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
@@ -2109,7 +2116,16 @@ Durante el **Sprint 3**, el equipo alcanzó avances importantes con la entrega y
 
 Con estas entregas, la plataforma ofrece una integración completa entre sus módulos, permitiendo a los usuarios interactuar con datos reales, visualizar información dinámica y experimentar una versión más estable y madura del producto.
 
-##### Evidencia Sprint Review
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+En este sprint se avanzó en la documentación de los servicios del backend de la aplicación, utilizando OpenAPI (Swagger) como herramienta principal.
+Se registraron los endpoints desarrollados durante el sprint, con su respectiva descripción, métodos HTTP y ejemplos de request/response.
+
+|  #  | Endpoint              | Acción / Descripción                   | Método HTTP | Parámetros                              |
+| :-: | :-------------------- | :------------------------------------- | :---------: | :-------------------------------------- |
+|  1  | `/api/users/login`    | Inicia sesión de usuario registrado    |    `POST`   | `email`, `password` (body JSON)         |
+|  2  | `/api/users`          | Obtiene lista de usuarios registrados  |    `GET`    | —                                       |
+|  3  | `/api/users/{id}`     | Obtiene los datos de un usuario por ID |    `GET`    | `id` (path param)                       |
+|  4  | `/api/users/register` | Registra un nuevo usuario              |    `POST`   | `name`, `email`, `password` (body JSON) |
 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
