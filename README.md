@@ -1975,6 +1975,114 @@ Cada miembro del equipo trabajó en sus propias features y luego levantaba un pu
 
 
 ### 5.2.3. Sprint 3
+Esta sección presenta el tercer sprint con su planificación, roles, backlog, evidencias de desarrollo, ejecución, documentación de servicios, despliegue de software y la colaboración del equipo.
+
+#### 5.2.3.1.Sprint Planning 2
+En esta sección se presenta el Sprint Planning correspondiente al tercer sprint. Se resumen los principales acuerdos de la reunión, con el repaso del sprint anterior, la identificación de mejoras y la definición del objetivo del sprint.
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>Sprint #</strong></td>
+      <td>Sprint 3</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Sprint Planning Background</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Date</strong></td>
+      <td>2025-11-12</td>
+    </tr>
+    <tr>
+      <td><strong>Time</strong></td>
+      <td>3:30 PM</td>
+    </tr>
+    <tr>
+      <td><strong>Location</strong></td>
+      <td>Remote via the GitHub platform</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Prepared by</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Attendees (for the planning meeting)</strong></td>
+      <td>All Warismart team members</td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 2 Review Summary</strong></td>
+      <td>En el sprint 2 se completó el frontend requerido en las diferentes secciones. Se utilizó fake APIs para brindarle datos. Se deployó la página para poder visualizarla.</td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 2 Retrospective Summary</strong></td>
+      <td>El equipo identificó varios aspectos en la forma de trabajo que se deben mejorar. Se observó falta de compromiso en algunos momentos, poca coordinación entre los miembros y concentración del avance en un lapso corto de semanas. Como oportunidad de mejora, se acordó organizar mejor las responsabilidades y mantener un progreso más constante durante el sprint.</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 3 Goal</strong></td>
+      <td>Nuestro enfoque en este sprint será el backend: Implementar el backend funcional de la aplicación que permita gestionar la comunicación con la base de datos y ofrecer los endpoints principales para el frontend.</td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 3 Velocity</strong></td>
+      <td>15</td>
+    </tr>
+    <tr>
+      <td><strong>Sum of Story Points</strong></td>
+      <td>34</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.3.2. Aspect Leaders and Collaborators.
+En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada para este segundo sprint. Los principales aspectos que se toman en cuenta en este sprint se centran en la implementación del backend, el deployment y la documentación de este sprint en el informe.
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>Team Member</strong></td>
+      <td><strong>GitHub Username</strong></td>
+      <td><strong>Backend</strong></td>
+      <td><strong>Deployment</strong></td>
+      <td><strong>Informe</strong></td>
+    </tr>
+    <tr>
+      <td>Rivas Castillo, Christoper Steven</td>
+      <td>CODERT0PH</td>
+      <td>L</td>
+      <td>L</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Gutarra Velapatiño, Sebastian</td>
+      <td>SebastianGutarra</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Nuñez Soto, Andy Arturo</td>
+      <td>arturo-ns</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Huamán Cuba, Johan Giovani </td>
+      <td>Johancuba</td>
+      <td>L</td>
+      <td>L</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Tasayco Almonacid, Rafael Augusto</td>
+      <td>Rfaleltsy</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+  </tbody>
+</table>
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
