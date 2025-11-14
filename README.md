@@ -2135,10 +2135,10 @@ El objetivo fue preparar el entorno en la nube para permitir la integración y e
 
 A continuación mostraremos las imágenes como evidencia del deployment realizado en este sprint:
 
-![Team Collaboration Insights](./capcincoimagenes/deployBack01.png)
-![Team Collaboration Insights](./capcincoimagenes/deployBack02.png)
-![Team Collaboration Insights](./capcincoimagenes/deployBack03.png)
-
+![backDeploy](./capcincoimagenes/deployBack01.jpg)
+![backDeploy](./capcincoimagenes/deployBack02.jpg)
+![backDeploy](./capcincoimagenes/deployBack03.jpg)
+![backDeploy](./capcincoimagenes/deployBack04.jpg)
 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
