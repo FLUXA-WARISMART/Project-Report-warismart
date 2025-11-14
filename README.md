@@ -1,5 +1,6 @@
-
-![logoupc](capunoimagenes/UPC_logo_transparente.png)
+<p align="center">
+  <img src="https://github.com/FLUXA-WARISMART/Project-Report-warismart/blob/main/capunoimagenes/UPC_logo_transparente.png"/>
+</p>
   
 ## Universidad Peruana de Ciencias Aplicadas
 
