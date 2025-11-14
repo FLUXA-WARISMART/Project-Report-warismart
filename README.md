@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://github.com/FLUXA-WARISMART/Project-Report-warismart/blob/main/capunoimagenes/UPC_logo_transparente.png"/>
-</p>
+<div align="center">
+<img width="80" alt="Image" src="https://github.com/FLUXA-WARISMART/Project-Report-warismart/blob/main/capunoimagenes/UPC_logo_transparente.png" />
   
 ## Universidad Peruana de Ciencias Aplicadas
 
@@ -32,7 +31,7 @@
 | Nuñez Soto, Andy Arturo                   |  U20231e795  |
 | Rivas Castillo, Christoper Steven         |  U202323551  |
 
-<br><div align="center"><h3>Agosto 2025</h3></div><br>
+<br><div align="center"><h3>Noviembre 2025</h3></div><br>
 </div>
 <br><br>
 
