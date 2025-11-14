@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/FLUXA-WARISMART/Project-Report-warismart/blob/main/capunoimagenes/UPC_logo_transparente.png" alt="Logo-UPC" width="150">
+![logoupc](capunoimagenes/UPC_logo_transparente.png)
   
 ## Universidad Peruana de Ciencias Aplicadas
 
@@ -433,7 +433,7 @@ TuFacturador es un software contable y de facturación electrónica que permite 
 **Descripción:**  
 Siigo es una solución contable y administrativa en la nube, orientada a pymes y estudios contables. Ofrece módulos de contabilidad, facturación electrónica, gestión de inventarios, ventas y reportes financieros. Tiene presencia regional y busca posicionarse como una solución integral para empresas en crecimiento.  
 
-<img src="https://github.com/FLUXA-WARISMART/Project-Report-warismart/blob/main/capdosimagenes/siigo.png" alt="siigop" width="150">
+![SiigoPe](capdosimagenes/siigo.png)
 
 **Debilidades:**  
 - Curva de aprendizaje elevada: Su interfaz y estructura modular requieren capacitación, lo que puede dificultar la adopción por parte de pequeños comerciantes sin experiencia tecnológica.  
