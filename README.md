@@ -1,11 +1,11 @@
 <div align="center">
-<img width="80" alt="Image" src="https://github.com/FLUXA-WARISMART/Project-Report-warismart/blob/main/capunoimagenes/UPC_logo_transparente.png" />
+<img width="110" alt="Image" src="https://github.com/FLUXA-WARISMART/Project-Report-warismart/blob/main/capunoimagenes/UPC_logo_transparente.png" />
   
 ## Universidad Peruana de Ciencias Aplicadas
 
 **Ingeniería de Software**
 
-**Ciclo:** 2025-2
+**Ciclo:** 202520
 
 **Curso:** Aplicaciones Web
 
