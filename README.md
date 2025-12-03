@@ -2469,10 +2469,10 @@ A continuación, se presentan los resúmenes de las validaciones realizadas con 
 | **Nombre y apellido** | Edmundo Mejía Castillo |
 | **Edad** | 60 años |
 | **Ocupación** | Emprendedor independiente, dueño de tienda |
-| **Duración** | |
-| **Resumen** |  |
-| **Anexo** |  |
-| **Link** | |
+| **Duración** | 04:17 minutos |
+| **Resumen** | Se le presentó el recorrido completo del frontend: Landing Page, Dashboard, Inventario, Ventas, Proveedores y Reportes. Su principal inquietud fue técnica: preguntó sobre los "requisitos mínimos" de la computadora, pensando que era un software instalable. Al aclarársele que es una plataforma web accesible desde cualquier navegador, validó la accesibilidad de la solución. También consultó sobre el modelo de precios, confirmando que la información en la Landing Page fue clara para resolver su duda. Finalizó afirmando que la herramienta sería de ayuda para su negocio. |
+| **Anexo** | <img width="1361" height="720" alt="image" src="https://github.com/user-attachments/assets/6e28cd9b-19a9-472d-afc7-fb1fca6317a1" />|
+| **Link** |https://www.youtube.com/watch?v=y2g-0xqst7c|
 
 
 #### Entrevista 2:
