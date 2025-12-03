@@ -2532,11 +2532,10 @@ A continuación, se presentan los resúmenes de las validaciones realizadas con 
 | **Nombre y apellido** | Jorge Leonardo Tuppia Carrillo |
 | **Edad** | 23 años |
 | **Ocupación** | Coordinador (hijo del dueño del negocio) |
-| **Duración** |  |
-| **Resumen** |  |
-| **Anexo** |  |
-| **Link** |  |
-
+| **Duración** | 13min y 48s. |
+| **Resumen** | El video nos muestra la apreciación de Vitaly respecto al FRONTEND del producto de WARISMART, cómo podemos observas Vitaly tuvo acceso directamente con nuestro FRONTEND pudiendo manipular las páginas, formularios, dashboards, etc. Vitaly reconoce que es bueno que utilicemos la técnica de RESPONSIVE ya que le da más versatilidad a nuestra página haciéndola fácil de apreciar para todos nuestro usuarios, también una de las cosas que le gustó fue el diseño de nuestro FRONTEND ya que para él le hace muy atractivo la organización de los botones y los texto empleados en el FRONTEND. Porsteriormente nos dijo que debemos centrarnos más en la lógica del negocio haciendo como un video tutorial que enseñe a los usuarios nuevos a familiarizarse rápido con el sistema, también nos recomendó que en ves de que nos aparezcan los mensajes por medio del LOCAL hagamso uso de un MODEL para los mensajes de éxito o de error posterioemente. |
+| **Anexo** | ![Entrevista01_segmento02_validation](https://github.com/FLUXA-WARISMART/Project-Report-warismart/blob/main/capcincoimagenes/evidenciadefeedback.jpg?raw=true) |
+| **Link** | https://www.youtube.com/watch?v=ShtOjXJXSx8 |
 
 #### 5.3.3. Evaluaciones según heurísticas
 Se realizó una evaluación de la interfaz desplegada utilizando las 10 Heurísticas de Usabilidad de Nielsen para detectar problemas de usabilidad antes del lanzamiento masivo.
