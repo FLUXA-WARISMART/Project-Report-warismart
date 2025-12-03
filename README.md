@@ -2441,6 +2441,7 @@ A continuación se presentan las imágenes como evidencia del deployment realiza
    - Se cargó el esquema y las tablas correspondientes.
 
 ![backDeploy](./capcincoimagenes/deployBack05.jpg)
+![backDeploy](./capcincoimagenes/deployBack06.jpg)
 
 2. **Despliegue del Backend y habilitación de Swagger**  
    - Se publicó la API mediante Azure App Service.  
@@ -2448,14 +2449,14 @@ A continuación se presentan las imágenes como evidencia del deployment realiza
    - Se verificó la correcta inicialización de los controladores y servicios.  
    - Se confirmó que Swagger se encuentre accesible públicamente para revisión y pruebas.
 
-![backDeploy](./capcincoimagenes/deployBack06.jpg)
+![backDeploy](./capcincoimagenes/deployBack07.jpg)
 
 3. **Verificación de la Aplicación Integrada**  
    - Se probó el funcionamiento completo: base de datos + backend + frontend.  
    - Se revisó que las solicitudes del frontend consuman correctamente los endpoints.  
    - Se validó que el sistema renderice y opere sin errores en producción.
 
-![backDeploy](./capcincoimagenes/deployBack07.jpg)
+![backDeploy](./capcincoimagenes/deployBack04.jpg)
 
 
 
