@@ -2546,6 +2546,23 @@ Se realizó una evaluación de la interfaz desplegada utilizando las 10 Heuríst
 | **9. Ayudar a los usuarios a reconocer y diagnosticar errores** | Los mensajes de error en el Login (ej. "Contraseña incorrecta") son claros, aunque podrían ser más específicos en el registro de proveedores si falta el RUC. |  Mejora (Baja) |
 | **10. Ayuda y documentación** | La landing page tiene sección de contacto, pero la aplicación interna carece de un botón de "Ayuda" o tutoriales interactivos integrados. |  Mejora (Media) |
 
+## Recomendaciones
+
+## Para la Evolución del Producto (WARISMART)
+* **Implementación de Modo Offline (PWA):** Se recomienda evolucionar la aplicación web actual hacia una Progressive Web App (PWA). Dado que la estabilidad de internet puede variar en las zonas donde operan muchas bodegas, permitir que el sistema registre ventas de forma local y sincronice los datos automáticamente al recuperar la conexión es vital para garantizar la continuidad operativa del negocio.
+* **Integración con Billeteras Digitales:** Considerando el mercado peruano, se sugiere priorizar la integración o conciliación fácil con medios de pago como Yape y Plin en el módulo de ventas (POS), ya que esto agilizaría el cierre de caja y reduciría errores manuales en el registro de estos pagos.
+* **Sistemas de Ayuda Integrados (Onboarding):** Dado que el segmento de emprendedores independientes puede tener una brecha tecnológica, se recomienda incluir tutoriales interactivos o "tours guiados" dentro de la misma aplicación para facilitar el aprendizaje de nuevas funciones sin depender de soporte externo.
+
+## Para el Equipo de Desarrollo
+* **Automatización de Pruebas (Testing):** A medida que el sistema crece en complejidad, se aconseja implementar pruebas unitarias y de integración automatizadas en el flujo de trabajo (CI/CD). Esto minimizará el riesgo de errores (bugs) al desplegar nuevas versiones y asegurará la estabilidad del backend y la base de datos.
+* **Optimización de Consultas a Base de Datos:** Al haber conectado la base de datos en la nube (Azure) en el último sprint, se recomienda monitorear el rendimiento de las consultas SQL, especialmente en los reportes de ventas históricos, para evitar lentitud en el sistema a medida que aumente el volumen de datos.
+
+## Para la Gestión del Proyecto
+* **Validación Continua con Usuarios Reales:** Se recomienda mantener el contacto con los usuarios entrevistados en la fase de validación para realizar pruebas beta en entornos reales. El feedback obtenido del uso diario en una bodega real aportará información crítica que no se detecta en entornos de prueba controlados.
+* **Mantenimiento de la Documentación:** Es fundamental mantener actualizada la documentación técnica (Swagger para API y manuales de despliegue) conforme se agreguen nuevas funcionalidades, para facilitar la incorporación de futuros desarrolladores o el mantenimiento del sistema a largo plazo.
+
+
+
 ## Conclusiones
 
 ### Validación del problema y pertinencia de la solución
