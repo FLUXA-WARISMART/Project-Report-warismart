@@ -2505,6 +2505,19 @@ A continuación, se presentan los resúmenes de las validaciones realizadas con 
 
 | **Campo** | **Detalle** |
 |-----------|-------------|
+| **Nombre y apellido** | Mark Alex Esquivel Cabrera |
+| **Edad** | 24 años |
+| **Ocupación** | Administrador general de la empresa |
+| **Duración** | 08:25 minutos |
+| **Resumen** |  |
+| **Anexo** |  |
+| **Link** |  |
+
+
+#### Entrevista 2:
+
+| **Campo** | **Detalle** |
+|-----------|-------------|
 | **Nombre y apellido** | Bruno Mendoza |
 | **Edad** | 24 años |
 | **Ocupación** | Coordinador de Operaciones (Hijo del dueño del negocio) |
@@ -2513,18 +2526,6 @@ A continuación, se presentan los resúmenes de las validaciones realizadas con 
 | **Anexo** |  |
 | **Link** | |
 
-
-#### Entrevista 2:
-
-| **Campo** | **Detalle** |
-|-----------|-------------|
-| **Nombre y apellido** | Sergio Eduardo Ayala Muñaqui |
-| **Edad** | 24 años |
-| **Ocupación** | Administrador general de la empresa |
-| **Duración** |  |
-| **Resumen** |  |
-| **Anexo** |  |
-| **Link** |  |
 
 #### Entrevista 3:
 
