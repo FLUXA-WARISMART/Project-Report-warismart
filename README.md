@@ -2375,7 +2375,7 @@ Durante el **Sprint 4**, el equipo alcanzó avances importantes con la entrega y
 
 Con estas implementaciones, se ha consolidado la estabilidad técnica del sistema al eliminar las interrupciones de comunicación entre el frontend y el backend, garantizando un flujo de datos continuo. Asimismo, la integración de material audiovisual en la Landing Page refuerza la propuesta de valor y la identidad del equipo, entregando un producto final robusto, técnicamente fluido y con una presentación comercial profesional.
 
-## 5.2.4.6. Services Documentation Evidence for Sprint Review — Sprint 4
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
 Durante este sprint se completó la documentación de los servicios del backend utilizando OpenAPI (Swagger). Se registraron todos los endpoints implementados, asegurando claridad en su funcionalidad, métodos HTTP y parámetros necesarios. Esta documentación permitió validar la integración final del backend con el frontend para el despliegue completo de la aplicación.
 
@@ -2396,7 +2396,6 @@ Durante este sprint se completó la documentación de los servicios del backend 
 | 7 | /api/v1/products/category/{category} | Obtiene productos por categoría | GET | category (path param) |
 | 8 | /api/v1/products/low-stock | Obtiene productos con stock bajo | GET | — |
 
----
 
 #### **Reports**
 
@@ -2406,7 +2405,6 @@ Durante este sprint se completó la documentación de los servicios del backend 
 | 10 | /api/v1/reports/daily | Obtiene reportes diarios | GET | — |
 | 11 | /api/v1/reports/top-products | Obtiene los productos más vendidos | GET | — |
 
----
 
 #### **Sales**
 
@@ -2418,7 +2416,6 @@ Durante este sprint se completó la documentación de los servicios del backend 
 | 15 | /api/v1/sales/today | Obtiene las ventas del día | GET | — |
 | 16 | /api/v1/sales/date-range | Obtiene ventas por rango de fechas | GET | startDate, endDate (query params) |
 
----
 
 #### **Users**
 
@@ -2431,16 +2428,35 @@ Durante este sprint se completó la documentación de los servicios del backend 
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
-Durante este sprint se avanzó en los procesos de despliegue en Azure, configurando los recursos necesarios para hospedar los componentes del proyecto: Landing Page, Web Application y Web Services.
+Durante este sprint se completó el proceso de despliegue final en Azure, habilitando todos los componentes necesarios para que la aplicación funcione de manera integrada. Se configuró y desplegó la base de datos en la nube y se publicaron los servicios del backend junto con su documentación en Swagger, garantizando su acceso público y estable.
 
-El objetivo fue preparar el entorno en la nube para permitir la integración y ejecución del backend, así como el acceso público a la aplicación desde el navegador.
+El objetivo principal fue consolidar todos los artefactos del sistema: base de datos, APIs y entorno de ejecución, asegurando que el frontend y el backend trabajen correctamente sobre la infraestructura desplegada.
 
-A continuación mostraremos las imágenes como evidencia del deployment realizado en este sprint:
+A continuación se presentan las imágenes como evidencia del deployment realizado en este sprint:
 
-![backDeploy](./capcincoimagenes/deployBack01.jpg)
-![backDeploy](./capcincoimagenes/deployBack02.jpg)
-![backDeploy](./capcincoimagenes/deployBack03.jpg)
-![backDeploy](./capcincoimagenes/deployBack04.jpg)
+1. **Creación del recurso de Base de Datos en Azure**  
+   - Se creó un recurso SQL Database en Azure.  
+   - Se configuró el servidor lógico, la autenticación y el nivel de rendimiento.  
+   - Se habilitó el firewall para permitir conexiones desde el backend.  
+   - Se cargó el esquema y las tablas correspondientes.
+
+![backDeploy](./capcincoimagenes/deployBack05.jpg)
+
+2. **Despliegue del Backend y habilitación de Swagger**  
+   - Se publicó la API mediante Azure App Service.  
+   - Se configuraron las variables de entorno para conectar con la base de datos.  
+   - Se verificó la correcta inicialización de los controladores y servicios.  
+   - Se confirmó que Swagger se encuentre accesible públicamente para revisión y pruebas.
+
+![backDeploy](./capcincoimagenes/deployBack06.jpg)
+
+3. **Verificación de la Aplicación Integrada**  
+   - Se probó el funcionamiento completo: base de datos + backend + frontend.  
+   - Se revisó que las solicitudes del frontend consuman correctamente los endpoints.  
+   - Se validó que el sistema renderice y opere sin errores en producción.
+
+![backDeploy](./capcincoimagenes/deployBack07.jpg)
+
 
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
