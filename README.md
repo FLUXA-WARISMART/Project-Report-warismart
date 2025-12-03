@@ -2507,7 +2507,7 @@ A continuación, se presentan los resúmenes de las validaciones realizadas con 
 
 | **Campo** | **Detalle** |
 |-----------|-------------|
-| **Nombre y apellido** | Bruno Mendoza |
+| **Nombre y apellido** | Andy Saul Pillaca Gonzales |
 | **Edad** | 24 años |
 | **Ocupación** | Coordinador de Operaciones (Hijo del dueño del negocio) |
 | **Duración** | 7 min. y 40 s. |
