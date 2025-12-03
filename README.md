@@ -2595,7 +2595,7 @@ Aunque el avance es consistente, aún existen desafíos: mejorar la coordinació
  * Repositorio Backend: https://github.com/FLUXA-WARISMART/WariSmart-backend
  * Video de exposicion: 
  * Video about the product: https://youtu.be/UrFuGoJ5zJE
- * Video About the team: 
+ * Video About the team: https://youtu.be/DX76Bz1HZRs
 ---
 
 ## Bibliografía
