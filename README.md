@@ -2351,8 +2351,8 @@ Para este sprint final, se seleccionaron historias de usuario esenciales para ce
 Esta subsección muestra la evidencia del trabajo de desarrollo completado durante el Sprint 4 para fines de revisión.
 | Repository                  | Branch               | Commit Id | Commit Message                      | Committed on | Team Member                |
 |------------------------------|----------------------|-----------|-------------------------------------|--------------|-----------------------------|
-| FLUXA-WARISMART/warismart-informe     | main         | 0e6845f2c874037ed18785e83e18dda09c350f8c   | Update student outcome .md    | 12/11/2025      | Arturo Núñez              |
-| FLUXA-WARISMART/warismart-informe       | main | 3ace4914380757243adfa8b9f92651bfc29f355f | added: Sprint Backlog 3 | 13/11/2025  | Sebastián Gutarra           |
+| FLUXA-WARISMART/warismart-informe     | main         | 89641c1e1964b257df6fcfba9fdc636e7ce6a739   | Update interview details   | 1/12/2025      | Johan Cuba              |
+| FLUXA-WARISMART/warismart-informe       | main | d3fe9b2aeafa4f9bcf9c737f8e11b597430e1a02 | Update README.md | 2/12/2025  | Rafael Tasayco           |
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
