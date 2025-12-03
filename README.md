@@ -2395,9 +2395,9 @@ A continuación mostraremos las imágenes como evidencia del deployment realizad
 
 Durante el **Sprint 4**, el equipo logró avances significativos trabajando en tres repositorios principales:  
 
-- **Landing Page**: se desarrolló y desplegó la **tercera versión**, incorporando mejoras visuales y de rendimiento para optimizar la experiencia del usuario.  
-- **Frontend Web Application**: se liberó la **segunda versión**, que integró nuevas funcionalidades conectadas con los servicios del backend.  
-- **Backend API**: se completó y desplegó la **primera versión funcional**, permitiendo la comunicación estable con el frontend mediante endpoints seguros y documentados.  
+- **Landing Page**: se desarrolló y desplegó la **cuarta versión**, incorporando mejoras visuales y los videos de presentación del producto y del equipo.  
+- **Frontend Web Application**: se liberó la **tercera versión**, que corrigio errores de conexion con el backend.  
+- **Backend API**: se completó y desplegó la **segunda versión funcional**, resolviendo errores de comunicación con el frontend.  
 
 Para mantener un flujo de trabajo ordenado y una colaboración eficiente, se continuó utilizando la estrategia **GitFlow**, que permitió una integración continua y control de calidad del código:
 
@@ -2408,6 +2408,7 @@ Para mantener un flujo de trabajo ordenado y una colaboración eficiente, se con
 
 Cada integrante trabajó en sus respectivas ramas **feature/**, realizando posteriormente un **pull request** hacia **develop**, el cual era revisado por otro miembro antes de su integración.  
 Gracias a esta dinámica, el equipo mantuvo una estructura de código limpia, revisiones colaborativas y una participación equitativa entre todos los miembros.
+
 
 ##### Evidencia del Team Collaboration Insights
 
