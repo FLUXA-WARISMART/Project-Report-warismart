@@ -2455,6 +2455,9 @@ En esta etapa, el objetivo fue validar la usabilidad, la propuesta de valor y la
 * ¿Recomendaría WARISMART a otros colegas empresarios del sector retail?
 #### 5.3.2. Registro de Entrevistas
 A continuación, se presentan los resúmenes de las validaciones realizadas con usuarios reales tras interactuar con el prototipo funcional y la versión desplegada de WARISMART.
+
+#### Segmento de Emprendedor Independiente
+
 #### Entrevista 1:
 
 | **Campo** | **Detalle** |
