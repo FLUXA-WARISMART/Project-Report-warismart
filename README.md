@@ -2487,18 +2487,6 @@ A continuación, se presentan los resúmenes de las validaciones realizadas con 
 
 
 
-#### Entrevista 2:
-
-| **Campo** | **Detalle** |
-|-----------|-------------|
-| **Nombre y apellido** | María López |
-| **Edad** | 30 años |
-| **Ocupación** | Dueña de tienda (bodega) |
-| **Duración** |  |
-| **Resumen** |  |
-| **Anexo** ||
-| **Link** |  |
-
 #### Segmento de Pequeña Cadena en Expansión
 #### Entrevista 1:
 
