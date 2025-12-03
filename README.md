@@ -1973,7 +1973,6 @@ Cada miembro del equipo trabajó en sus propias features y luego levantaba un pu
 
 ![Team Collaboration Insights](./capcincoimagenes/Team%20Collaboration%20Insights.png)
 
-
 ### 5.2.3. Sprint 3
 Esta sección presenta el tercer sprint con su planificación, roles, backlog, evidencias de desarrollo, ejecución, documentación de servicios, despliegue de software y la colaboración del equipo.
 
@@ -2163,8 +2162,200 @@ Gracias a esta dinámica, el equipo mantuvo una estructura de código limpia, re
 
 ![Team Collaboration Insights](./capcincoimagenes/Team%20Collaboration%20Insights.png)
 
+ --- 
+
+
+### 5.2.4. Sprint 4
+Esta sección presenta el tercer sprint con su planificación, roles, backlog, evidencias de desarrollo, ejecución, documentación de servicios, despliegue de software y la colaboración del equipo.
+
+#### 5.2.4.1. Sprint Planning 4
+En esta sección se presenta el Sprint Planning correspondiente al tercer sprint. Se resumen los principales acuerdos de la reunión, con el repaso del sprint anterior, la identificación de mejoras y la definición del objetivo del sprint.
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>Sprint #</strong></td>
+      <td>Sprint 4</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Sprint Planning Background</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Date</strong></td>
+      <td>2025-11-12</td>
+    </tr>
+    <tr>
+      <td><strong>Time</strong></td>
+      <td>3:30 PM</td>
+    </tr>
+    <tr>
+      <td><strong>Location</strong></td>
+      <td>Remote via the GitHub platform</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Prepared by</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Attendees (for the planning meeting)</strong></td>
+      <td>All Warismart team members</td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 3 Review Summary</strong></td>
+      <td>En el sprint 3 se completó el frontend requerido en las diferentes secciones. Se utilizó fake APIs para brindarle datos. Se deployó la página para poder visualizarla.</td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 3 Retrospective Summary</strong></td>
+      <td>El equipo identificó varios aspectos en la forma de trabajo que se deben mejorar. Se observó falta de compromiso en algunos momentos, poca coordinación entre los miembros y concentración del avance en un lapso corto de semanas. Como oportunidad de mejora, se acordó organizar mejor las responsabilidades y mantener un progreso más constante durante el sprint.</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 4 Goal</strong></td>
+      <td>Nuestro enfoque en este sprint será el backend: Implementar el backend funcional de la aplicación que permita gestionar la comunicación con la base de datos y ofrecer los endpoints principales para el frontend.</td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 4 Velocity</strong></td>
+      <td>15</td>
+    </tr>
+    <tr>
+      <td><strong>Sum of Story Points</strong></td>
+      <td>34</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.4.2. Aspect Leaders and Collaborators.
+En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada para este segundo sprint. Los principales aspectos que se toman en cuenta en este sprint se centran en la implementación del backend, el deployment y la documentación de este sprint en el informe.
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>Team Member</strong></td>
+      <td><strong>GitHub Username</strong></td>
+      <td><strong>Backend</strong></td>
+      <td><strong>Deployment</strong></td>
+      <td><strong>Informe</strong></td>
+    </tr>
+    <tr>
+      <td>Rivas Castillo, Christoper Steven</td>
+      <td>CODERT0PH</td>
+      <td>L</td>
+      <td>L</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Gutarra Velapatiño, Sebastian</td>
+      <td>SebastianGutarra</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Nuñez Soto, Andy Arturo</td>
+      <td>arturo-ns</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Huamán Cuba, Johan Giovani </td>
+      <td>Johancuba</td>
+      <td>L</td>
+      <td>L</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Tasayco Almonacid, Rafael Augusto</td>
+      <td>Rfaleltsy</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.4.3. Sprint Backlog 4
+
+
+| **Sprint #**   | Sprint 4                               |                    |                                                                       |                                                                           |                      |                  |            |
+| -------------- | --------------------------------------- | ------------------ | --------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------------------- | ---------------- | ---------- |
+| **User Story** |                                         | **Work-Item/task** |                                                                       |                                                                           |                      |                  |            |
+| **ID**         | **Título**                              | **ID**             | **Título**                                                            | **Descripción**                                                           | **Estimación (hrs)** | **Assigned to**  | **Status** |
+| HU-07          | Registro de ventas (POS)     | T07                | Desarrollar módulo de registro de ventas | Como bodeguero, quiero registrar ventas en el sistema, para llevar un control de las salidas de productos.   | 2.0                  | Arturo Núñez       | Done       |
+| HU-08          | Emisión de boletas electrónicas | T08                | Emitir boletas al registrar una venta.                  | Como administrador, quiero que se emitan boletas electrónicas, para cumplir normativa y clientes.  | 3.0                    | Sebastián Gutarra | Done       |
+| HU-12          | Reporte de ventas        | T12                | Visualizar ventas diarias registradas en el sistema.     | Como administrador, quiero visualizar reportes de ventas, para analizar el rendimiento.         |2.5                    | Johan Huamán       | Done       |
+| HU-21          | Reportes financieros            | T21                |  Visualizar ingresos, egresos o un análisis de rentabilidad.    | Como administrador de retail, quiero acceder a reportes financieros, para conocer la rentabilidad del negocio.       | 2.5                 | Rafael Tasayco | Done       |
+| HU-26          | Inicio de sesión seguro            | T26                |  Iniciar esión con credenciales válidas.    | Como bodeguero, quiero iniciar sesión de forma segura, para proteger mi información y la del negocio.       | 1.5                 | Christoper Rivas | Done       |
+
+#### 5.2.4.4. Development Evidence for Sprint Review
+Esta subsección muestra la evidencia del trabajo de desarrollo completado durante el Sprint 4 para fines de revisión.
+| Repository                  | Branch               | Commit Id | Commit Message                      | Committed on | Team Member                |
+|------------------------------|----------------------|-----------|-------------------------------------|--------------|-----------------------------|
+| FLUXA-WARISMART/warismart-informe     | main         | 0e6845f2c874037ed18785e83e18dda09c350f8c   | Update student outcome .md    | 12/11/2025      | Arturo Núñez              |
+| FLUXA-WARISMART/warismart-informe       | main | 3ace4914380757243adfa8b9f92651bfc29f355f | added: Sprint Backlog 3 | 13/11/2025  | Sebastián Gutarra           |
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+Durante el **Sprint 4**, el equipo alcanzó avances importantes con la entrega y despliegue de tres componentes principales del sistema:
+
+- **Landing Page**: se lanzó la **tercera versión**, que incorpora mejoras visuales, optimización de rendimiento y contenido actualizado orientado a captar nuevos usuarios.  
+
+- **Frontend Web Application**: se liberó la **segunda versión**, que integra nuevas funcionalidades conectadas con el backend, un diseño más pulido y una experiencia de usuario más fluida.  
+
+- **Backend API**: se desplegó la **primera versión funcional**, que establece la comunicación entre el frontend y la base de datos mediante endpoints seguros y validados.  
+
+Con estas entregas, la plataforma ofrece una integración completa entre sus módulos, permitiendo a los usuarios interactuar con datos reales, visualizar información dinámica y experimentar una versión más estable y madura del producto.
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+En este sprint se avanzó en la documentación de los servicios del backend de la aplicación, utilizando OpenAPI (Swagger) como herramienta principal.
+Se registraron los endpoints desarrollados durante el sprint, con su respectiva descripción, métodos HTTP y ejemplos de request/response.
+
+|  #  | Endpoint              | Acción / Descripción                   | Método HTTP | Parámetros                              |
+| :-: | :-------------------- | :------------------------------------- | :---------: | :-------------------------------------- |
+|  1  | `/api/users/login`    | Inicia sesión de usuario registrado    |    `POST`   | `email`, `password` (body JSON)         |
+|  2  | `/api/users`          | Obtiene lista de usuarios registrados  |    `GET`    | —                                       |
+|  3  | `/api/users/{id}`     | Obtiene los datos de un usuario por ID |    `GET`    | `id` (path param)                       |
+|  4  | `/api/users/register` | Registra un nuevo usuario              |    `POST`   | `name`, `email`, `password` (body JSON) |
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+Durante este sprint se avanzó en los procesos de despliegue en Azure, configurando los recursos necesarios para hospedar los componentes del proyecto: Landing Page, Web Application y Web Services.
+
+El objetivo fue preparar el entorno en la nube para permitir la integración y ejecución del backend, así como el acceso público a la aplicación desde el navegador.
+
+A continuación mostraremos las imágenes como evidencia del deployment realizado en este sprint:
+
+![backDeploy](./capcincoimagenes/deployBack01.jpg)
+![backDeploy](./capcincoimagenes/deployBack02.jpg)
+![backDeploy](./capcincoimagenes/deployBack03.jpg)
+![backDeploy](./capcincoimagenes/deployBack04.jpg)
+
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+Durante el **Sprint 4**, el equipo logró avances significativos trabajando en tres repositorios principales:  
+
+- **Landing Page**: se desarrolló y desplegó la **tercera versión**, incorporando mejoras visuales y de rendimiento para optimizar la experiencia del usuario.  
+- **Frontend Web Application**: se liberó la **segunda versión**, que integró nuevas funcionalidades conectadas con los servicios del backend.  
+- **Backend API**: se completó y desplegó la **primera versión funcional**, permitiendo la comunicación estable con el frontend mediante endpoints seguros y documentados.  
+
+Para mantener un flujo de trabajo ordenado y una colaboración eficiente, se continuó utilizando la estrategia **GitFlow**, que permitió una integración continua y control de calidad del código:
+
+- **main**: rama estable con las versiones listas para producción.  
+- **develop**: rama central donde se integraban las nuevas funcionalidades.  
+- **feature/***: ramas creadas por cada integrante para desarrollar tareas específicas.  
+- **release/** y **hotfix/**: destinadas a preparar versiones finales y resolver incidencias críticas.  
+
+Cada integrante trabajó en sus respectivas ramas **feature/**, realizando posteriormente un **pull request** hacia **develop**, el cual era revisado por otro miembro antes de su integración.  
+Gracias a esta dinámica, el equipo mantuvo una estructura de código limpia, revisiones colaborativas y una participación equitativa entre todos los miembros.
+
+##### Evidencia del Team Collaboration Insights
+
+![Team Collaboration Insights](./capcincoimagenes/Team%20Collaboration%20Insights.png)
+
  ---
- 
+
 ## Conclusiones
 
 ### Validación del problema y pertinencia de la solución
