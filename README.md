@@ -1017,6 +1017,7 @@ Nota: Cada término debe usarse tal cual aquí para que todo el equipo hable el 
 | 32 | HU28 | Datos encriptados | Como administrador de retail, quiero que los datos estén encriptados, para evitar riesgos de robo o filtración. | 5 |
 | 33 | HU29 | Registro de accesos | Como administrador de retail, quiero registrar el historial de accesos, para detectar movimientos sospechosos. | 3 |
 | 34 | HU30 | Interfaz sencilla | Como bodeguero, quiero que la app funcione con una interfaz sencilla, para poder usarla sin capacitación extensa. | 2 |
+##### technical stories
 | 35 | HU36 | Endpoint de inventario | Como developer, quiero un endpoint seguro en .NET para consultar el inventario en tiempo real, para que el frontend en Vue lo consuma con Axios. | 5 |
 | 36 | HU37 | Endpoint de ventas | Como developer, quiero un endpoint para registrar ventas en el backend, para que el POS en el frontend pueda enviar la información automáticamente. | 5 |
 | 37 | HU38a | Autenticación Firebase básica | Como developer, quiero configurar Firebase para autenticación con email/contraseña, para que los usuarios puedan registrarse e iniciar sesión de forma segura. | 5 |
