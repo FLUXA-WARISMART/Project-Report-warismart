@@ -2190,10 +2190,19 @@ Durante este sprint se avanzó en los procesos de despliegue en Azure, configura
 El objetivo fue preparar el entorno en la nube para permitir la integración y ejecución del backend, así como el acceso público a la aplicación desde el navegador.
 
 A continuación mostraremos las imágenes como evidencia del deployment realizado en este sprint:
-
+En esta etapa se configuraron los parámetros de servicio, el plan de hospedaje, la región del servidor y el dominio predeterminado que Azure asignó al proyecto.
+![backDeploy](./capcincoimagenes/deployBack011.jpg)
+<br>
+Una vez creado el recurso, se revisó su panel general para confirmar que el servicio estuviera en ejecución, con su dominio activo y con los diagnósticos habilitados. También se verificó que el recurso tuviera disponibles las opciones de monitoreo y herramientas de integración.
 ![backDeploy](./capcincoimagenes/deployBack01.jpg)
+<br>
+Luego se accedió al dominio público generado por Azure, donde se observó la página inicial por defecto del servicio. Esto confirmó que el entorno estaba operativo y listo para recibir la aplicación real.
 ![backDeploy](./capcincoimagenes/deployBack02.jpg)
+<br>
+Posteriormente se publicó el backend desde Visual Studio Code utilizando la extensión de Azure, ejecutando tareas de limpieza y compilación del proyecto. Durante esta fase se presentaron errores derivados de rutas faltantes en el CLI de .NET, lo que exigió ajustes en la configuración local. Sin embargo, esta etapa permitió validar el flujo general de despliegue desde el entorno de desarrollo hacia Azure.
 ![backDeploy](./capcincoimagenes/deployBack03.jpg)
+<br>
+Finalmente, tras completar la configuración necesaria, la aplicación fue desplegada y se verificó su funcionamiento desde el navegador, comprobando que tanto la Landing Page como la Web Application cargaban correctamente utilizando el dominio del App Service.
 ![backDeploy](./capcincoimagenes/deployBack04.jpg)
 
 
