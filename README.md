@@ -2358,13 +2358,11 @@ Esta subsección muestra la evidencia del trabajo de desarrollo completado duran
 
 Durante el **Sprint 4**, el equipo alcanzó avances importantes con la entrega y despliegue de tres componentes principales del sistema:
 
-- **Landing Page**: se lanzó la **tercera versión**, que incorpora mejoras visuales, optimización de rendimiento y contenido actualizado orientado a captar nuevos usuarios.  
+- **Landing Page**: se desarrolló y desplegó la **cuarta versión**, incorporando mejoras visuales y los videos de presentación del producto y del equipo.  
+- **Frontend Web Application**: se liberó la **tercera versión**, que corrigio errores de conexion con el backend.  
+- **Backend API**: se completó y desplegó la **segunda versión funcional**, resolviendo errores de comunicación con el frontend. 
 
-- **Frontend Web Application**: se liberó la **segunda versión**, que integra nuevas funcionalidades conectadas con el backend, un diseño más pulido y una experiencia de usuario más fluida.  
-
-- **Backend API**: se desplegó la **primera versión funcional**, que establece la comunicación entre el frontend y la base de datos mediante endpoints seguros y validados.  
-
-Con estas entregas, la plataforma ofrece una integración completa entre sus módulos, permitiendo a los usuarios interactuar con datos reales, visualizar información dinámica y experimentar una versión más estable y madura del producto.
+Con estas implementaciones, se ha consolidado la estabilidad técnica del sistema al eliminar las interrupciones de comunicación entre el frontend y el backend, garantizando un flujo de datos continuo. Asimismo, la integración de material audiovisual en la Landing Page refuerza la propuesta de valor y la identidad del equipo, entregando un producto final robusto, técnicamente fluido y con una presentación comercial profesional.
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 En este sprint se avanzó en la documentación de los servicios del backend de la aplicación, utilizando OpenAPI (Swagger) como herramienta principal.
