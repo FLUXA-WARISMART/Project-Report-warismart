@@ -2235,11 +2235,11 @@ En esta sección se presenta el Sprint Planning correspondiente al cuarto sprint
     </tr>
     <tr>
       <td><strong>Date</strong></td>
-      <td>2025-12-02</td>
+      <td>2025-11-26</td>
     </tr>
     <tr>
       <td><strong>Time</strong></td>
-      <td>—</td>
+      <td>2:00  PM</td>
     </tr>
     <tr>
       <td><strong>Location</strong></td>
@@ -2254,11 +2254,11 @@ En esta sección se presenta el Sprint Planning correspondiente al cuarto sprint
     </tr>
     <tr>
       <td><strong>Sprint 3 Review Summary</strong></td>
-      <td>Se completó el proyecto del backend de la aplicación y se desplegó correctamente. Sin embargo, aún no se subió la base de datos correspondiente al entorno productivo.</td>
+      <td>Se completó el proyecto del backend de la aplicación y se desplegó correctamente. Sin embargo, aún no se subió la base de datos correspondiente al entorno.</td>
     </tr>
     <tr>
       <td><strong>Sprint 3 Retrospective Summary</strong></td>
-      <td>El equipo mejoró la falta de compromiso mostrada en sprints anteriores. La mayoría de los integrantes se mostró entusiasmada por cumplir los objetivos establecidos, aunque todavía se identificaron oportunidades para mejorar la coordinación general del desarrollo.</td>
+      <td>El equipo mejoró la falta de compromiso mostrada en sprints anteriores. La mayoría de los integrantes se mostró entusiasmado por cumplir los objetivos establecidos, aunque todavía se identificaron oportunidades para mejorar la coordinación interna.</td>
     </tr>
     <tr>
       <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
