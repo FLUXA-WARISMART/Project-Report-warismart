@@ -2510,9 +2510,9 @@ A continuación, se presentan los resúmenes de las validaciones realizadas con 
 | **Edad** | 24 años |
 | **Ocupación** | Administrador general de la empresa |
 | **Duración** | 08:25 minutos |
-| **Resumen** |  |
-| **Anexo** |  |
-| **Link** |  |
+| **Resumen** | En el video se presentó el frontend del sistema, también se destacó las pantallas principales y su funcionamiento general. La retroalimentación recibida se centró en el diseño visual: se recomendó mejorar la sensación de profundidad, ya que la interfaz lucía demasiado plana debido al uso predominante de blanco. También se sugirió evitar redundancias en el módulo de inicio de sesión, especialmente en la repetición del nombre de la aplicación, para lograr una apariencia más limpia y profesional. |
+| **Anexo** | ![Entrevista01_segmento02_validation](./capcincoimagenes/entrevista01seg02validation.jpg) |
+| **Link** | https://youtu.be/IcSqXIvWKRM |
 
 
 #### Entrevista 2:
@@ -2526,6 +2526,7 @@ A continuación, se presentan los resúmenes de las validaciones realizadas con 
 | **Resumen** |  |
 | **Anexo** |  |
 | **Link** | |
+
 
 
 #### Entrevista 3:
