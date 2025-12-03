@@ -1776,20 +1776,64 @@ Esta sección presenta el segundo sprint con su planificación, roles, backlog, 
 #### 5.2.2.1.Sprint Planning 2
 En esta sección se presenta el Sprint Planning correspondiente al segundo sprint. Se resumen los principales acuerdos de la reunión, con el repaso del sprint anterior, la identificación de mejoras y la definición del objetivo del sprint.
 
-| **Sprint #** | **Sprint 2** |
-|---------------|--------------|
-| **Sprint Planning Background** |  |
-| **Date** | 2025-09-29 |
-| **Time** | 4:04 PM |
-| **Location** | Remote via Github platform |
-| **Prepared By** | — |
-| **Attendees (for the planning meeting)** | All Warismart team members |
-| **Sprint 1 Review Summary** | En el primer sprint se completó la documentación requerida como entregable principal. Aunque algunas partes quedaron con detalles por mejorar, se cumplió con los objetivos establecidos. El Product Owner valoró positivamente el esfuerzo del equipo para entregar los artefactos solicitados y recomendó ajustar ciertas partes para las siguientes entregas. |
-| **Sprint 1 Retrospective Summary** | El equipo identificó varios aspectos en la forma de trabajo que se deben mejorar. Se observó falta de compromiso en algunos momentos, poca coordinación entre los miembros y concentración del avance en un lapso corto de semanas. Como oportunidad de mejora, se acordó organizar mejor las responsabilidades y mantener un progreso más constante durante el sprint. El Product Owner valoró que se lograra entregar la documentación, aunque señaló la necesidad de mejorar la organización del equipo para los próximos sprints. |
-| **Sprint Goal & User Stories** |  |
-| **Sprint 2 Goal** | Nuestro enfoque está en entregar una nueva versión del Landing Page y la primera versión funcional del Frontend Web Application. <br><br>Creemos que esto ofrece a los usuarios y stakeholders una primera experiencia visual e interactiva con el sistema. <br><br>Esto se confirmará cuando se despliegue la versión mejorada del Landing Page y el equipo valide que el frontend web se encuentre desplegada y no de manera local. |
-| **Sprint 2 Velocity** | 33 |
-| **Sum of Story Points (del 6 al 18)** | 43 |
+<table>
+  <tbody>
+    <tr>
+      <td><strong>Sprint #</strong></td>
+      <td>Sprint 2</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Sprint Planning Background</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Date</strong></td>
+      <td>2025-09-29</td>
+    </tr>
+    <tr>
+      <td><strong>Time</strong></td>
+      <td>4:04 PM</td>
+    </tr>
+    <tr>
+      <td><strong>Location</strong></td>
+      <td>Remote via GitHub platform</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Prepared by</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Attendees (for the planning meeting)</strong></td>
+      <td>All Warismart team members</td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 1 Review Summary</strong></td>
+      <td>En el primer sprint se completó la documentación requerida como entregable principal. Aunque algunas partes quedaron con detalles por mejorar, se cumplió con los objetivos establecidos. El Product Owner valoró positivamente el esfuerzo del equipo para entregar los artefactos solicitados y recomendó ajustar ciertas partes para las siguientes entregas.</td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 1 Retrospective Summary</strong></td>
+      <td>El equipo identificó varios aspectos en la forma de trabajo que se deben mejorar. Se observó falta de compromiso en algunos momentos, poca coordinación entre los miembros y concentración del avance en un lapso corto de semanas. Como oportunidad de mejora, se acordó organizar mejor las responsabilidades y mantener un progreso más constante durante el sprint. El Product Owner valoró que se lograra entregar la documentación, aunque señaló la necesidad de mejorar la organización del equipo para los próximos sprints.</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 2 Goal</strong></td>
+      <td>
+        Nuestro enfoque está en entregar una nueva versión del Landing Page y la primera versión funcional del Frontend Web Application.<br><br>
+        Creemos que esto ofrece a los usuarios y stakeholders una primera experiencia visual e interactiva con el sistema.<br><br>
+        Esto se confirmará cuando se despliegue la versión mejorada del Landing Page y el equipo valide que el frontend web se encuentre desplegada y no de manera local.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 2 Velocity</strong></td>
+      <td>33</td>
+    </tr>
+    <tr>
+      <td><strong>Sum of Story Points (del 6 al 18)</strong></td>
+      <td>43</td>
+    </tr>
+  </tbody>
+</table>
+
 
 #### 5.2.2.2. Aspect Leaders and Collaborators.
 En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada para este segundo sprint. Los principales aspectos que se toman en cuenta en este sprint se centran en cada una de las principales secciones que presentará el front-end de nuestra aplicación. Para esto, hemos definido las siguientes secciones: Dashboard, Inventario, Ventas, Proveedores, Reportes y Configuración.
