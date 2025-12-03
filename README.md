@@ -2522,10 +2522,10 @@ A continuación, se presentan los resúmenes de las validaciones realizadas con 
 | **Nombre y apellido** | Bruno Mendoza |
 | **Edad** | 24 años |
 | **Ocupación** | Coordinador de Operaciones (Hijo del dueño del negocio) |
-| **Duración** | |
+| **Duración** | 7 min. y 40 s. |
 | **Resumen** |  |
-| **Anexo** |  |
-| **Link** | |
+| **Anexo** | ![Entrevista02_segmento02_validation](./capcincoimagenes/expo.png) |
+| **Link** | https://drive.google.com/drive/folders/1Po-IPUU2KuhHUf_BePzrqiVh0nLXHmLy?usp=sharing |
 
 
 
