@@ -2195,6 +2195,7 @@ Los reportes de commits, evidencias de desarrollo y despliegues en GitHub Pages,
 
 ### Riesgos identificados y prioridades para los siguientes sprints
 Aunque el avance es consistente, aún existen desafíos: mejorar la coordinación interna, asegurar la calidad del backend, optimizar la seguridad de los datos, prevenir errores de integración y realizar pruebas con usuarios reales. La gestión adecuada de estos riesgos será esencial para garantizar un producto robusto y escalable.
+
 =======
 
 ---
