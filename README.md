@@ -2167,26 +2167,34 @@ Gracias a esta dinámica, el equipo mantuvo una estructura de código limpia, re
  
 ## Conclusiones
 
-* Validación del problema y pertinencia de la solución.
-La investigación (entrevistas y análisis de competencia) confirma que los comerciantes minoristas enfrentan problemas reales: falta de visibilidad de stock, procesos manuales y ausencia de herramientas accesibles de análisis. WARISMART responde a estas necesidades mediante una propuesta modular que integra inventario, POS y reportes.
+### Validación del problema y pertinencia de la solución
+La investigación inicial —incluyendo entrevistas, análisis de mercado y evaluación de competidores— confirmó que los comercios minoristas enfrentan problemas reales: gestión manual del inventario, baja visibilidad del stock, falta de reportes accesibles y escasa digitalización de procesos. **WARISMART** responde a estas necesidades mediante una solución modular que integra inventario, POS, gestión de proveedores y analítica visual, alineándose directamente con las expectativas de los usuarios y los objetivos del negocio.
 
-* Progreso satisfactorio del Sprint 1 (Landing Page).
-El equipo logró construir y documentar la Landing Page inicial, con mockups en Figma, estructura visual acorde al style guide y material de soporte (capturas y commits). Esto provee una base sólida para pruebas de usabilidad y primeras validaciones con usuarios.
+### Evolución sostenida del producto a través de los sprints
+El Sprint 1 permitió establecer la base visual y conceptual mediante la construcción de la primera versión de la Landing Page y la elaboración de los artefactos de UX fundamentales (User Personas, User Journey, Impact Mapping).  
+Durante el Sprint 2 se avanzó de manera significativa en el desarrollo del frontend, logrando la entrega de la **Landing Page V2** y la primera versión funcional del **Frontend Web Application**, ambas desplegadas exitosamente para revisión pública.  
+El inicio del Sprint 3 demuestra una transición madura hacia la construcción del backend, pieza clave para la consolidación de un sistema integral.
 
-* Evidencia de colaboración y uso de buenas prácticas.
-El repositorio de GitHub y los commits registrados demuestran participación distribuida del equipo y aplicación de GitFlow y Conventional Commits, satisfaciendo los requisitos de trazabilidad exigidos por la rúbrica del curso.
+### Funcionamiento adecuado del proceso Scrum y mejora continua
+Las revisiones y retrospectivas de los Sprints 1 y 2 permitieron identificar fortalezas y aspectos de mejora: falta de continuidad en ciertos momentos, acumulación de trabajo en semanas finales y necesidad de una mejor distribución interna. Estas observaciones se tradujeron en acciones concretas que fortalecieron la coordinación, planificación y organización del equipo, demostrando un aprendizaje continuo en la gestión del proyecto.
 
-* Artefactos de UX listos para iterar.
-Se generaron las fichas de User Personas, User Journey y elementos de Impact Mapping que sustentan el backlog. Estos artefactos permiten priorizar features con criterio y diseñar pruebas de validación enfocadas en tareas reales de los usuarios.
+### Colaboración efectiva y uso disciplinado de GitFlow
+El equipo trabajó de forma organizada aplicando GitFlow en todos los repositorios del proyecto. Las ramas `main`, `develop`, `feature/`, `release/` y `hotfix/` se utilizaron correctamente, acompañadas de *peer reviews* y *pull requests* antes de integrar nuevas funcionalidades. Esto garantiza control de versiones, calidad del código y una colaboración equitativa entre todos los miembros.
 
-* Product Backlog y User Stories alineadas con objetivos de negocio.
-Las historias de usuario priorizadas (registro de productos, alertas de vencimiento, consulta de stock en tiempo real, POS básico) cubren las funcionalidades críticas para reducir pérdidas y mejorar la operativa diaria del retail.
+### Sprint Backlog consistente y orientado a objetivos de valor
+Los backlog de los Sprint 2 y 3 reflejan una priorización adecuada: la mejora de la Landing Page, el desarrollo de las pantallas principales del sistema (Dashboard, Inventario, Ventas, Proveedores, Reportes y Configuración) y la implementación del backend funcional. Las user stories y tareas fueron estimadas, asignadas y ejecutadas siguiendo criterios de negocio, experiencia del usuario y viabilidad técnica.
 
-* Diseño coherente y accesible.
-El Style Guide (tipografías, paleta de colores, spacing, componentes) y la elección del patrón Z/F para la Landing Page garantizarán una experiencia consistente y adaptable a distintos dispositivos, reforzando la confianza del usuario.
+### Entrega exitosa de los componentes de frontend
+El Sprint 2 dejó como resultados clave la **Landing Page V2**, con mejoras visuales, diseño responsive, integración de nuevas secciones y mejor experiencia de navegación. Asimismo, la **Web Application V1** permitió explorar la estructura general del sistema, validar la navegación entre pantallas y conectar los primeros componentes con una API REST. Este avance aporta una base sólida para las siguientes integraciones con el backend.
 
-* Riesgos e incertidumbres identificados.
-Quedan pendientes temas relevantes: integración segura del backend, pruebas de escalabilidad, tratamiento de datos sensibles (boletas electrónicas) y validación real de adopción por parte de comerciantes. Estos riesgos requieren mitigación prioritaria en los próximos sprints.
+### Progreso tangible hacia un backend plenamente funcional
+El inicio del Sprint 3 marca la transición hacia la implementación de los servicios que interactuarán con la base de datos y proveerán funcionalidades reales al sistema. La planificación establece un objetivo claro: construir un backend estable, seguro y escalable que soporte las operaciones críticas de WARISMART.
+
+### Documentación, trazabilidad y despliegue adecuados
+Los reportes de commits, evidencias de desarrollo y despliegues en GitHub Pages, Firebase y Vercel demuestran disciplina metodológica, buena gestión de entregables y transparencia técnica. Todo el software desarrollado se encuentra disponible públicamente para revisión por stakeholders, cumpliendo con los criterios académicos del curso.
+
+### Riesgos identificados y prioridades para los siguientes sprints
+Aunque el avance es consistente, aún existen desafíos: mejorar la coordinación interna, asegurar la calidad del backend, optimizar la seguridad de los datos, prevenir errores de integración y realizar pruebas con usuarios reales. La gestión adecuada de estos riesgos será esencial para garantizar un producto robusto y escalable.
 =======
 
 ---
