@@ -2531,7 +2531,7 @@ A continuación, se presentan los resúmenes de las validaciones realizadas con 
 
 | **Campo** | **Detalle** |
 |-----------|-------------|
-| **Nombre y apellido** | Jorge Leonardo Tuppia Carrillo |
+| **Nombre y apellido** | Vitaly Arturo Tuppia Carrillo |
 | **Edad** | 23 años |
 | **Ocupación** | Coordinador (hijo del dueño del negocio) |
 | **Duración** | 13min y 48s. |
