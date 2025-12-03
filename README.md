@@ -2586,6 +2586,13 @@ Aunque el avance es consistente, aún existen desafíos: mejorar la coordinació
 
 ## Anexos
 
+ * Organización Github: https://github.com/FLUXA-WARISMART
+ * Repositorio de la Landing Page: https://github.com/FLUXA-WARISMART/Landing-Page-WARISMART
+ * Repositorio Frontend: https://github.com/FLUXA-WARISMART/Web-WariSmart
+ * Repositorio Backend: https://github.com/FLUXA-WARISMART/WariSmart-backend
+ * Video de exposicion: 
+ * Video about the product: https://youtu.be/UrFuGoJ5zJE
+ * Video About the team: 
 ---
 
 ## Bibliografía
