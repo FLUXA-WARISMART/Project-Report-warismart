@@ -2366,9 +2366,142 @@ Gracias a esta dinámica, el equipo mantuvo una estructura de código limpia, re
  ---
 
 ### 5.3. Validation Interviews
+En esta etapa, el objetivo fue validar la usabilidad, la propuesta de valor y la aceptación del producto de software (WARISMART) desarrollado hasta el Sprint 4. Buscamos confirmar si las funcionalidades implementadas (POS, Inventario, Reportes) resuelven los dolores identificados inicialmente.
 #### 5.3.1. Diseño de Entrevistas
+**Segmento 1: Emprendedores Independientes (Bodegueros)**
+*Perfil:* Dueños de un solo local, con conocimientos tecnológicos limitados, que buscan simplicidad y control diario.
+
+**Preguntas Generales:**
+* ¿Cómo se llama? 
+* ¿Cuántos años tiene y en qué distrito se ubica su negocio? 
+* ¿Cuántos años lleva operando su bodega? 
+* ¿Actualmente, qué herramienta usa más para sus cuentas (Cuaderno, Excel, Calculadora)? 
+* ¿Cuánto tiempo le dedica al día a cuadrar su caja?
+
+**Preguntas Específicas (Validación de Producto):**
+* Al navegar por la pantalla de "Ventas", ¿le resulta fácil encontrar los botones para registrar una venta rápida?
+* ¿Qué opina del tamaño de la letra y los colores utilizados en la aplicación? ¿Son claros para usted?
+* ¿La alerta de "Stock Bajo" (color rojo) le ayuda a entender rápidamente qué productos debe reponer?
+* ¿Considera que el proceso de registrar un nuevo producto es más rápido o más lento que anotarlo en su cuaderno?
+* Si tuviera que dejar a un encargado usando este sistema, ¿sentiría mayor seguridad sobre el control del dinero?
+* ¿Le parece útil la función de "Cierre de Caja" automático al final del día?
+* Del 1 al 10, ¿qué tan dispuesto estaría a reemplazar su método actual por WARISMART hoy mismo?
+* ¿Hay alguna función que eche de menos o que no haya encontrado en la demostración?
+* ¿El precio sugerido en los planes le parece acorde al tiempo que el sistema le ahorra?
+
+**Segmento 2: Gestores de Pequeñas Cadenas (Retail en Expansión)**
+*Perfil:* Administradores de 2 a 5 locales, con necesidades de gestión remota, consolidación de datos y asignación de roles.
+
+**Preguntas Generales:**
+* ¿Cómo se llama y cuál es su rol en la empresa? 
+* ¿Cuántos locales administra actualmente? 
+* ¿Qué sistema utiliza actualmente para ver las ventas de todos sus locales juntos?
+* ¿Cuál es su mayor frustración al intentar controlar el inventario de múltiples tiendas?
+* ¿Qué dispositivos prefiere usar para monitorear el negocio (Laptop, Tablet, Celular)?
+
+**Preguntas Específicas (Validación de Producto):**
+* Al observar el Dashboard principal, ¿los gráficos de "Ventas Totales" y "Productos más vendidos" le dan la información que necesita para tomar decisiones?
+* ¿Cómo evalúa la funcionalidad de "Gestión de Usuarios"? ¿Le parece suficiente para controlar los permisos de sus cajeros y almaceneros?
+* ¿La sección de "Reportes Financieros" le permite entender la rentabilidad real de cada local por separado?
+* ¿Le resulta útil poder ver el stock en tiempo real de todas sus tiendas desde una sola cuenta?
+* Sobre la integración con facturación electrónica (boletas), ¿el flujo le parece lo suficientemente ágil para horas punta?
+* ¿Estaría dispuesto a pagar una suscripción mensual por local para tener toda su información centralizada en la nube?
+* ¿Qué métrica o dato adicional le gustaría ver en el panel de reportes?
+* ¿Recomendaría WARISMART a otros colegas empresarios del sector retail?
 #### 5.3.2. Registro de Entrevistas
+A continuación, se presentan los resúmenes de las validaciones realizadas con usuarios reales tras interactuar con el prototipo funcional y la versión desplegada de WARISMART.
+#### Entrevista 1:
+
+| **Campo** | **Detalle** |
+|-----------|-------------|
+| **Nombre y apellido** | Edmundo Mejía Castillo |
+| **Edad** | 60 años |
+| **Ocupación** | Emprendedor independiente, dueño de tienda |
+| **Duración** | |
+| **Resumen** |  |
+| **Anexo** |  |
+| **Link** | |
+
+
+#### Entrevista 2:
+
+| **Campo** | **Detalle** |
+|-----------|-------------|
+| **Nombre y apellido** | Blanca Flores |
+| **Edad** | 47 años |
+| **Ocupación** | Emprendedora independiente, dueña de bodega |
+| **Duración** |  |
+| **Resumen** | |
+| **Anexo** |  |
+| **Link** ||
+
+
+#### Entrevista 3:
+
+| **Campo** | **Detalle** |
+|-----------|-------------|
+| **Nombre y apellido** | María López |
+| **Edad** | 30 años |
+| **Ocupación** | Dueña de tienda (bodega) |
+| **Duración** |  |
+| **Resumen** |  |
+| **Anexo** ||
+| **Link** |  |
+
+#### Segmento de Pequeña Cadena en Expansión
+#### Entrevista 1:
+
+| **Campo** | **Detalle** |
+|-----------|-------------|
+| **Nombre y apellido** | Bruno Mendoza |
+| **Edad** | 24 años |
+| **Ocupación** | Coordinador de Operaciones (Hijo del dueño del negocio) |
+| **Duración** | |
+| **Resumen** |  |
+| **Anexo** |  |
+| **Link** | |
+
+
+#### Entrevista 2:
+
+| **Campo** | **Detalle** |
+|-----------|-------------|
+| **Nombre y apellido** | Sergio Eduardo Ayala Muñaqui |
+| **Edad** | 24 años |
+| **Ocupación** | Administrador general de la empresa |
+| **Duración** |  |
+| **Resumen** |  |
+| **Anexo** |  |
+| **Link** |  |
+
+#### Entrevista 3:
+
+| **Campo** | **Detalle** |
+|-----------|-------------|
+| **Nombre y apellido** | Jorge Leonardo Tuppia Carrillo |
+| **Edad** | 23 años |
+| **Ocupación** | Coordinador (hijo del dueño del negocio) |
+| **Duración** |  |
+| **Resumen** |  |
+| **Anexo** |  |
+| **Link** |  |
+
+
 #### 5.3.3. Evaluaciones según heurísticas
+Se realizó una evaluación de la interfaz desplegada utilizando las 10 Heurísticas de Usabilidad de Nielsen para detectar problemas de usabilidad antes del lanzamiento masivo.
+
+| **Heurística** | **Evaluación en WARISMART** | **Estado / Gravedad** |
+| :--- | :--- | :--- |
+| **1. Visibilidad del estado del sistema** | El sistema muestra *loaders* al procesar ventas y mensajes de "Guardado con éxito" al registrar productos. El usuario siempre sabe qué está pasando. |  Cumple |
+| **2. Relación entre el sistema y el mundo real** | Se utilizan términos como "Caja", "Vuelto", "Merma" y "Fiado", lenguaje natural para los bodegueros, evitando tecnicismos informáticos. |  Mejora (Baja) |
+| **3. Control y libertad del usuario** | En el módulo de ventas, el usuario puede eliminar productos del carrito antes de cobrar. Falta un botón de "Deshacer" si se elimina un producto por error en el inventario. |  Mejora (Media) |
+| **4. Consistencia y estándares** | Los colores de los botones (Azul para acciones principales, Rojo para borrar/cancelar) se mantienen constantes en todos los módulos (Ventas, Inventario, Usuarios). | Cumple |
+| **5. Prevención de errores** | El sistema impide registrar una venta si la cantidad es 0 o si no hay stock suficiente, mostrando una alerta clara antes de cometer el error. |  Cumple |
+| **6. Reconocer antes que recordar** | El buscador de productos muestra sugerencias mientras se escribe, evitando que el usuario tenga que recordar el código exacto del producto. |  Cumple |
+| **7. Flexibilidad y eficiencia de uso** | Se implementaron atajos de teclado para el POS (ej. Enter para cobrar), lo cual acelera el proceso para usuarios expertos (cajeros rápidos). |  Cumple |
+| **8. Diseño estético y minimalista** | Las pantallas muestran solo la información necesaria. El Dashboard evita la saturación de datos, priorizando los KPIs del día. |  Cumple |
+| **9. Ayudar a los usuarios a reconocer y diagnosticar errores** | Los mensajes de error en el Login (ej. "Contraseña incorrecta") son claros, aunque podrían ser más específicos en el registro de proveedores si falta el RUC. |  Mejora (Baja) |
+| **10. Ayuda y documentación** | La landing page tiene sección de contacto, pero la aplicación interna carece de un botón de "Ayuda" o tutoriales interactivos integrados. |  Mejora (Media) |
 
 ## Conclusiones
 
