@@ -2476,20 +2476,8 @@ A continuación, se presentan los resúmenes de las validaciones realizadas con 
 | **Link** |https://www.youtube.com/watch?v=y2g-0xqst7c|
 
 
+
 #### Entrevista 2:
-
-| **Campo** | **Detalle** |
-|-----------|-------------|
-| **Nombre y apellido** | Blanca Flores |
-| **Edad** | 47 años |
-| **Ocupación** | Emprendedora independiente, dueña de bodega |
-| **Duración** |  |
-| **Resumen** | |
-| **Anexo** |  |
-| **Link** ||
-
-
-#### Entrevista 3:
 
 | **Campo** | **Detalle** |
 |-----------|-------------|
