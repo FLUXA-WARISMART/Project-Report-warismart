@@ -2375,16 +2375,59 @@ Durante el **Sprint 4**, el equipo alcanzó avances importantes con la entrega y
 
 Con estas implementaciones, se ha consolidado la estabilidad técnica del sistema al eliminar las interrupciones de comunicación entre el frontend y el backend, garantizando un flujo de datos continuo. Asimismo, la integración de material audiovisual en la Landing Page refuerza la propuesta de valor y la identidad del equipo, entregando un producto final robusto, técnicamente fluido y con una presentación comercial profesional.
 
-#### 5.2.4.6. Services Documentation Evidence for Sprint Review
-En este sprint se avanzó en la documentación de los servicios del backend de la aplicación, utilizando OpenAPI (Swagger) como herramienta principal.
-Se registraron los endpoints desarrollados durante el sprint, con su respectiva descripción, métodos HTTP y ejemplos de request/response.
+## 5.2.4.6. Services Documentation Evidence for Sprint Review — Sprint 4
 
-|  #  | Endpoint              | Acción / Descripción                   | Método HTTP | Parámetros                              |
-| :-: | :-------------------- | :------------------------------------- | :---------: | :-------------------------------------- |
-|  1  | `/api/users/login`    | Inicia sesión de usuario registrado    |    `POST`   | `email`, `password` (body JSON)         |
-|  2  | `/api/users`          | Obtiene lista de usuarios registrados  |    `GET`    | —                                       |
-|  3  | `/api/users/{id}`     | Obtiene los datos de un usuario por ID |    `GET`    | `id` (path param)                       |
-|  4  | `/api/users/register` | Registra un nuevo usuario              |    `POST`   | `name`, `email`, `password` (body JSON) |
+Durante este sprint se completó la documentación de los servicios del backend utilizando OpenAPI (Swagger). Se registraron todos los endpoints implementados, asegurando claridad en su funcionalidad, métodos HTTP y parámetros necesarios. Esta documentación permitió validar la integración final del backend con el frontend para el despliegue completo de la aplicación.
+
+---
+
+### Endpoints Documentados
+
+#### **Products**
+
+| # | Endpoint | Acción / Descripción | Método HTTP | Parámetros |
+|---|----------|----------------------|-------------|------------|
+| 1 | /api/v1/products | Crea un producto nuevo | POST | name, sku, price, stock, category, etc. (body JSON) |
+| 2 | /api/v1/products | Obtiene todos los productos | GET | — |
+| 3 | /api/v1/products/{id} | Obtiene un producto por ID | GET | id (path param) |
+| 4 | /api/v1/products/{id} | Actualiza los datos de un producto | PUT | id (path param), body JSON |
+| 5 | /api/v1/products/{id} | Elimina un producto | DELETE | id (path param) |
+| 6 | /api/v1/products/sku/{sku} | Obtiene un producto por su SKU | GET | sku (path param) |
+| 7 | /api/v1/products/category/{category} | Obtiene productos por categoría | GET | category (path param) |
+| 8 | /api/v1/products/low-stock | Obtiene productos con stock bajo | GET | — |
+
+---
+
+#### **Reports**
+
+| # | Endpoint | Acción / Descripción | Método HTTP | Parámetros |
+|---|----------|----------------------|-------------|------------|
+| 9 | /api/v1/reports/today | Obtiene el reporte de ventas del día | GET | — |
+| 10 | /api/v1/reports/daily | Obtiene reportes diarios | GET | — |
+| 11 | /api/v1/reports/top-products | Obtiene los productos más vendidos | GET | — |
+
+---
+
+#### **Sales**
+
+| # | Endpoint | Acción / Descripción | Método HTTP | Parámetros |
+|---|----------|----------------------|-------------|------------|
+| 12 | /api/v1/sales | Registra una nueva venta | POST | body JSON |
+| 13 | /api/v1/sales | Obtiene todas las ventas | GET | — |
+| 14 | /api/v1/sales/{id} | Obtiene una venta por ID | GET | id (path param) |
+| 15 | /api/v1/sales/today | Obtiene las ventas del día | GET | — |
+| 16 | /api/v1/sales/date-range | Obtiene ventas por rango de fechas | GET | startDate, endDate (query params) |
+
+---
+
+#### **Users**
+
+| # | Endpoint | Acción / Descripción | Método HTTP | Parámetros |
+|---|----------|----------------------|-------------|------------|
+| 17 | /api/v1/users | Crea un usuario nuevo | POST | name, email, password (body JSON) |
+| 18 | /api/v1/users | Obtiene todos los usuarios | GET | — |
+| 19 | /api/v1/users/{id} | Obtiene un usuario por ID | GET | id (path param) |
+
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
