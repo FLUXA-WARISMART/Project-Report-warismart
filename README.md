@@ -2222,7 +2222,7 @@ Gracias a esta dinámica, el equipo mantuvo una estructura de código limpia, re
 Esta sección presenta el tercer sprint con su planificación, roles, backlog, evidencias de desarrollo, ejecución, documentación de servicios, despliegue de software y la colaboración del equipo.
 
 #### 5.2.4.1. Sprint Planning 4
-En esta sección se presenta el Sprint Planning correspondiente al tercer sprint. Se resumen los principales acuerdos de la reunión, con el repaso del sprint anterior, la identificación de mejoras y la definición del objetivo del sprint.
+En esta sección se presenta el Sprint Planning correspondiente al cuarto sprint. Se resumen los principales acuerdos de la reunión, el repaso del sprint anterior, la identificación de mejoras y la definición del objetivo del sprint.
 
 <table>
   <tbody>
@@ -2235,11 +2235,11 @@ En esta sección se presenta el Sprint Planning correspondiente al tercer sprint
     </tr>
     <tr>
       <td><strong>Date</strong></td>
-      <td>2025-11-12</td>
+      <td>2025-12-02</td>
     </tr>
     <tr>
       <td><strong>Time</strong></td>
-      <td>3:30 PM</td>
+      <td>—</td>
     </tr>
     <tr>
       <td><strong>Location</strong></td>
@@ -2254,29 +2254,30 @@ En esta sección se presenta el Sprint Planning correspondiente al tercer sprint
     </tr>
     <tr>
       <td><strong>Sprint 3 Review Summary</strong></td>
-      <td>En el sprint 3 se completó el frontend requerido en las diferentes secciones. Se utilizó fake APIs para brindarle datos. Se deployó la página para poder visualizarla.</td>
+      <td>Se completó el proyecto del backend de la aplicación y se desplegó correctamente. Sin embargo, aún no se subió la base de datos correspondiente al entorno productivo.</td>
     </tr>
     <tr>
       <td><strong>Sprint 3 Retrospective Summary</strong></td>
-      <td>El equipo identificó varios aspectos en la forma de trabajo que se deben mejorar. Se observó falta de compromiso en algunos momentos, poca coordinación entre los miembros y concentración del avance en un lapso corto de semanas. Como oportunidad de mejora, se acordó organizar mejor las responsabilidades y mantener un progreso más constante durante el sprint.</td>
+      <td>El equipo mejoró la falta de compromiso mostrada en sprints anteriores. La mayoría de los integrantes se mostró entusiasmada por cumplir los objetivos establecidos, aunque todavía se identificaron oportunidades para mejorar la coordinación general del desarrollo.</td>
     </tr>
     <tr>
       <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
     </tr>
     <tr>
       <td><strong>Sprint 4 Goal</strong></td>
-      <td>Nuestro enfoque en este sprint será el backend: Implementar el backend funcional de la aplicación que permita gestionar la comunicación con la base de datos y ofrecer los endpoints principales para el frontend.</td>
+      <td>Desplegar todos los artefactos del proyecto, integrarlos y asegurar que funcionen como una aplicación completa y operativa.</td>
     </tr>
     <tr>
       <td><strong>Sprint 4 Velocity</strong></td>
-      <td>15</td>
+      <td>35</td>
     </tr>
     <tr>
       <td><strong>Sum of Story Points</strong></td>
-      <td>34</td>
+      <td>35</td>
     </tr>
   </tbody>
 </table>
+
 
 #### 5.2.4.2. Aspect Leaders and Collaborators.
 En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada para este segundo sprint. Los principales aspectos que se toman en cuenta en este sprint se centran en la implementación del backend, el deployment y la documentación de este sprint en el informe.
